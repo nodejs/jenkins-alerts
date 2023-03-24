@@ -16,7 +16,7 @@
     "diskUsage": null,
     "architecture": null,
     "monitorVersion": null,
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
