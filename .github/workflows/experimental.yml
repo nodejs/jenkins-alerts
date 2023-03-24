@@ -34,6 +34,6 @@ jobs:
           auto-push: true
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Print the Computers
-        run: |
-          echo '${{ steps.jenkins-status-alerts-and-reporting.outputs.computers }}'  
+      # - name: Print the Computers
+      #   run: |
+      #     echo '${{ steps.jenkins-status-alerts-and-reporting.outputs.computers }}'  
