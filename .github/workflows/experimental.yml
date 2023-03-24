@@ -25,6 +25,7 @@ jobs:
           generate-issue: true
           issue-assignees: 'UlisesGascon'
           issue-labels: 'bug,invented, wontfix'
+          create-issue-for-new-offline-nodes: false
           # Report
           report: experimental/jenkins-report.md
           report-tags-enabled: true
