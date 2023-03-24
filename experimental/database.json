@@ -1,15 +1,4 @@
 {
-  "Built-In Node": {
-    "name": "Built-In Node",
-    "description": "the Jenkins controller's built-in node",
-    "diskUsage": 79,
-    "architecture": "Linux (amd64)",
-    "monitorVersion": "3107.v665000b_51092",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "test-azure_msft-ubuntu1604_arm_cross-x64-1": {
     "name": "test-azure_msft-ubuntu1604_arm_cross-x64-1",
     "description": "Ubuntu 16.04 LTS with Raspberry Pi cross compilers installed",
