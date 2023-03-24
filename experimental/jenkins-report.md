@@ -1,1 +1,3 @@
-This will be replaced by the report soon
+<!-- JENKINS-REPORTING:START -->
+THIS IS A PLACE HOLDER
+<!-- JENKINS-REPORTING:END -->
