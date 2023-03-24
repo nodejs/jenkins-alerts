@@ -10,17 +10,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-azure_msft-ubuntu1604_arm_cross-x64-1": {
-    "name": "test-azure_msft-ubuntu1604_arm_cross-x64-1",
-    "description": "Ubuntu 16.04 LTS with Raspberry Pi cross compilers installed",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
