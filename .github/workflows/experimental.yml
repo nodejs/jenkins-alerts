@@ -23,7 +23,7 @@ jobs:
           jenkins-token: ${{ secrets.JENKINS_TOKEN }}
           # Issues
           generate-issue: true
-          issue-assignes: 'UlisesGascon'
+          issue-assignees: 'UlisesGascon'
           issue-labels: 'bug,invented, wontfix'
           # Report
           report: experimental/jenkins-report.md
