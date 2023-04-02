@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 82,
+    "diskUsage": 81,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -937,7 +937,7 @@
   "test-equinix-ubuntu2204-x64-1": {
     "name": "test-equinix-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 74,
+    "diskUsage": 73,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1031,7 +1031,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1729,7 +1729,7 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 93,
+    "diskUsage": 94,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
