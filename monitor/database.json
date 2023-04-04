@@ -316,7 +316,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -514,7 +514,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
@@ -536,7 +536,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3",
@@ -1053,7 +1053,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-1": {
     "name": "test-ibm-aix73-ppc64_be-1",
@@ -1350,7 +1350,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
@@ -2384,7 +2384,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-ubuntu1404-x64-1": {
     "name": "test-softlayer-ubuntu1404-x64-1",
@@ -2472,7 +2472,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
