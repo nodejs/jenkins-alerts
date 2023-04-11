@@ -5,8 +5,8 @@
     "diskUsage": 81,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
+    "isOffline": false,
+    "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
   },
@@ -16,7 +16,7 @@
     "diskUsage": null,
     "architecture": null,
     "monitorVersion": null,
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -2395,7 +2395,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-ubuntu1404-x64-1": {
     "name": "test-softlayer-ubuntu1404-x64-1",
