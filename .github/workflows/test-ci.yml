@@ -1,4 +1,4 @@
-name: "📡 Monitor Node.js Nodes"
+name: "📡 Monitor Jekins Test CI"
 on: 
   schedule:
     # Run every hour
@@ -21,18 +21,18 @@ jobs:
         uses: UlisesGascon/jenkins-status-alerts-and-reporting@v1.1.0
         id: jenkins-status-alerts-and-reporting
         with:
-          database: monitor/database.json
+          database: monitor/test-ci-database.json
           jenkins-domain: 'ci.nodejs.org'
-          jenkins-username: ${{ secrets.JENKINS_USERNAME }}
-          jenkins-token: ${{ secrets.JENKINS_TOKEN }}
+          jenkins-username: ${{ secrets.JENKINS_TEST_USERNAME }}
+          jenkins-token: ${{ secrets.JENKINS_TEST_TOKEN }}
           # Issues
           generate-issue: true
           issue-assignees: 'UlisesGascon'
-          issue-labels: 'incident,monitoring'
+          issue-labels: 'potential-incident,test-ci'
           create-issues-for-new-offline-nodes: false
           # Report
-          report: monitor/jenkins-report.md
-          report-tags-enabled: true
+          report: monitor/jenkins-test-ci-report.md
+          report-tags-enabled: false
           # Git changes
           auto-commit: true
           auto-push: true
