@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Jenkins Alert and Reporting
-        uses: UlisesGascon/jenkins-status-alerts-and-reporting@feat/initial-setup
+        uses: UlisesGascon/jenkins-status-alerts-and-reporting@main
         id: jenkins-status-alerts-and-reporting
         with:
           database: experimental/database.json
