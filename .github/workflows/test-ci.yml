@@ -1,4 +1,4 @@
-name: "📡 Monitor Node.js Nodes"
+name: "📡 Monitor Jekins Test CI"
 on: 
   schedule:
     # Run every hour
@@ -28,11 +28,11 @@ jobs:
           # Issues
           generate-issue: true
           issue-assignees: 'UlisesGascon'
-          issue-labels: 'incident,monitoring'
+          issue-labels: 'potential-incident,test-ci'
           create-issues-for-new-offline-nodes: false
           # Report
           report: monitor/jenkins-report.md
-          report-tags-enabled: true
+          report-tags-enabled: false
           # Git changes
           auto-commit: true
           auto-push: true
