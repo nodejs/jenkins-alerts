@@ -1,4 +1,4 @@
-name: "📡 Monitor Jekins Test CI"
+name: "📡 Monitor Jenkins Test CI"
 on: 
   schedule:
     # Run every hour
