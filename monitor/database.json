@@ -35,7 +35,7 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 38,
+    "diskUsage": 39,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -321,7 +321,7 @@
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 51,
+    "diskUsage": 50,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1223,7 +1223,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1388,7 +1388,7 @@
   "test-nearform_intel-ubuntu2204-x64-1": {
     "name": "test-nearform_intel-ubuntu2204-x64-1",
     "description": "Hardware donated by Intel, July 2017, hosted by nearForm, Wildcat Pass 2U 8x3.5\" HDD 10Gbe Xeon DP v4 Server [more info @ https://github.com/nodejs/build/issues/791#issuecomment-316206973]",
-    "diskUsage": 16,
+    "diskUsage": 17,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
