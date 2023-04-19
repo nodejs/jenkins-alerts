@@ -937,7 +937,7 @@
   "test-equinix-ubuntu2204-x64-1": {
     "name": "test-equinix-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 66,
+    "diskUsage": 62,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -948,7 +948,7 @@
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
     "description": "jenkins-workspace",
-    "diskUsage": 93,
+    "diskUsage": 90,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1190,7 +1190,7 @@
   "test-ibm-ubuntu1804-x64-1": {
     "name": "test-ibm-ubuntu1804-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 22,
+    "diskUsage": 21,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1443,23 +1443,23 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 30,
+    "diskUsage": 29,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.7",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Please don't connect this NODE until https://github.com/nodejs/build/issues/3218 is solved, if you need additional support please contact UlisesGascon in Slack or drop a message in the #nodejs-build channel",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 75,
+    "diskUsage": 39,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "updating host",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {

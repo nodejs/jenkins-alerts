@@ -89,8 +89,8 @@
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-4](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-4) | ⚠️ **67%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-5](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-5) | ⚠️ **67%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-6](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-6) | ⚠️ **67%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-equinix-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-1) | ⚠️ **66%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-equinix-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-2) | 🔥 **93%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-equinix-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-1) | ⚠️ **62%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-equinix-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-2) | 🔥 **90%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos18-x64-3](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos18-x64-3) | ✅ **11%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos18-x64-4](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos18-x64-4) | ✅ **13%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos20-x64-3](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos20-x64-3) | ✅ **32%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
@@ -112,7 +112,7 @@
 | [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **30%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **29%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-3) | ✅ **22%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-1) | ✅ **22%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-ibm-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-1) | ✅ **21%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu1804-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-2) | 🔥 **96%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-zos24-s390x-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-iinthecloud-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-1) | ✅ **51%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -135,8 +135,8 @@
 | [test-orka-macos10.14-x64-3](https://ci.nodejs.org/manage/computer/test-orka-macos10.14-x64-3) | ✅ **29%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-1) | ✅ **36%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ✅ **30%** | Mac OS X (x86_64) | N/A | 4.7 | ❌ **DOWN** | 🔥 **Please don&#39;t connect this NODE until https://github.com/nodejs/build/issues/3218 is solved, if you need additional support please contact UlisesGascon in Slack or drop a message in the #nodejs-build channel** |    
-| [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ⚠️ **75%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ❌ **DOWN** | 🔥 **updating host** |    
+| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ✅ **29%** | Mac OS X (x86_64) | N/A | 4.7 | ✅ **UP** | N/A |    
+| [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ✅ **39%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **26%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ✅ **51%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-4) | ✅ **30%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
