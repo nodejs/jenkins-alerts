@@ -1278,12 +1278,12 @@
   "test-marist-zos24-s390x-1": {
     "name": "test-marist-zos24-s390x-1",
     "description": "z/OS running on s390x",
-    "diskUsage": 13,
-    "architecture": "z/OS (s390x)",
-    "monitorVersion": "4.13.3",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-marist-zos24-s390x-2": {
@@ -1883,12 +1883,12 @@
   "test-rzkh-ibmi73-ppc64_be-1": {
     "name": "test-rzkh-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 58,
+    "diskUsage": 52,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-softlayer-alpine311_container-x64-1": {
