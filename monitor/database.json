@@ -8,7 +8,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-ubuntu1604_arm_cross-x64-1": {
     "name": "test-azure_msft-ubuntu1604_arm_cross-x64-1",
@@ -283,7 +283,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-fedora34-x64-2": {
     "name": "test-digitalocean-fedora34-x64-2",
@@ -310,13 +310,13 @@
   "test-digitalocean-freebsd12-x64-2": {
     "name": "test-digitalocean-freebsd12-x64-2",
     "description": "",
-    "diskUsage": 86,
+    "diskUsage": 85,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -921,7 +921,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-6",
@@ -943,7 +943,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
@@ -954,7 +954,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix_mnx-smartos18-x64-3": {
     "name": "test-equinix_mnx-smartos18-x64-3",
@@ -987,7 +987,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix_mnx-smartos20-x64-4": {
     "name": "test-equinix_mnx-smartos20-x64-4",
@@ -1009,7 +1009,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix71-ppc64_be-3": {
     "name": "test-ibm-aix71-ppc64_be-3",
@@ -1196,7 +1196,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1322,7 +1322,7 @@
   "test-nearform-macos10.15-x64-3": {
     "name": "test-nearform-macos10.15-x64-3",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 78,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1454,7 +1454,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 46,
+    "diskUsage": 63,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1476,13 +1476,13 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1647,7 +1647,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1691,7 +1691,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-debian8-x64-1": {
     "name": "test-rackspace-debian8-x64-1",
@@ -1894,7 +1894,7 @@
   "test-softlayer-alpine311_container-x64-1": {
     "name": "test-softlayer-alpine311_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-alpine311_container-x64-1",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1905,7 +1905,7 @@
   "test-softlayer-alpine312_container-x64-1": {
     "name": "test-softlayer-alpine312_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-alpine312_container-x64-1",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1949,7 +1949,7 @@
   "test-softlayer-rhel8_arm_cross_container-x64-1": {
     "name": "test-softlayer-rhel8_arm_cross_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-rhel8_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1960,7 +1960,7 @@
   "test-softlayer-ubi81_container-x64-1": {
     "name": "test-softlayer-ubi81_container-x64-1",
     "description": "Docker container running Universal Base Image 8.1 on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubi81_container-x64-1",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1993,7 +1993,7 @@
   "test-softlayer-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_arm_cross_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2004,7 +2004,7 @@
   "test-softlayer-ubuntu1804_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1604_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_container-x64-1",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2015,18 +2015,18 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-1",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2037,7 +2037,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2048,7 +2048,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2059,7 +2059,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
