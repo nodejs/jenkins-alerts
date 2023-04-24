@@ -266,7 +266,7 @@
   "test-digitalocean-fedora32-x64-1": {
     "name": "test-digitalocean-fedora32-x64-1",
     "description": "",
-    "diskUsage": 78,
+    "diskUsage": 79,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -288,7 +288,7 @@
   "test-digitalocean-fedora34-x64-2": {
     "name": "test-digitalocean-fedora34-x64-2",
     "description": "",
-    "diskUsage": 94,
+    "diskUsage": 93,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1135,7 +1135,7 @@
   "test-ibm-rhel8-s390x-3": {
     "name": "test-ibm-rhel8-s390x-3",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 45,
+    "diskUsage": 46,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1476,7 +1476,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 52,
+    "diskUsage": 51,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1685,7 +1685,7 @@
   "test-rackspace-debian10-x64-1": {
     "name": "test-rackspace-debian10-x64-1",
     "description": "",
-    "diskUsage": 77,
+    "diskUsage": 78,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.7",
     "isOffline": false,
@@ -1784,7 +1784,7 @@
   "test-rackspace-win2012r2_vs2017-x64-1": {
     "name": "test-rackspace-win2012r2_vs2017-x64-1",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2017",
-    "diskUsage": 39,
+    "diskUsage": 38,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1861,7 +1861,7 @@
   "test-rackspace-win2012r2_vs2019-x64-6": {
     "name": "test-rackspace-win2012r2_vs2019-x64-6",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
