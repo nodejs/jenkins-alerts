@@ -1102,7 +1102,7 @@
   "test-ibm-rhel7-s390x-4": {
     "name": "test-ibm-rhel7-s390x-4",
     "description": "RHEL7  running on s390x",
-    "diskUsage": 18,
+    "diskUsage": 19,
     "architecture": "Linux (s390x)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
