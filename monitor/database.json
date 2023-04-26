@@ -1795,7 +1795,7 @@
   "test-rackspace-win2012r2_vs2017-x64-3": {
     "name": "test-rackspace-win2012r2_vs2017-x64-3",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2017",
-    "diskUsage": 32,
+    "diskUsage": 31,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
