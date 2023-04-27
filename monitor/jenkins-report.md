@@ -32,7 +32,7 @@
 | [test-digitalocean-fedora34-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-1) | ⚠️ **78%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora34-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-2) | 🔥 **91%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-freebsd12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-1) | ✅ **57%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
-| [test-digitalocean-freebsd12-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-2) | ⚠️ **84%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-freebsd12-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-2) | 🔥 **88%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8-x64-1) | ✅ **51%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-1) | ⚠️ **80%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel8_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-2) | ⚠️ **80%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -45,7 +45,7 @@
 | [test-digitalocean-ubuntu1604_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_arm_cross_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu1604_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_container-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu1604_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-digitalocean-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804-x64-1) | 🔥 **92%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804-x64-1) | 🔥 **93%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_arm_cross_container-x64-1) | ⚠️ **80%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_arm_cross_container-x64-2) | ⚠️ **80%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_container-x64-1) | ⚠️ **80%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -127,7 +127,7 @@
 | [test-nearform-macos10.15-x64-3](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-3) | ✅ **54%** | Mac OS X (x86_64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform-macos11.0-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform-macos11.0-arm64-1) | ✅ **9%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform_arm-win10_vs2019-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-1) | ✅ **32%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-nearform_arm-win10_vs2019-arm64-2](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-2) | ✅ **36%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-nearform_arm-win10_vs2019-arm64-2](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-2) | ✅ **35%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-1) | ✅ **16%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-2) | ✅ **9%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.14-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos10.14-x64-1) | ✅ **32%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    

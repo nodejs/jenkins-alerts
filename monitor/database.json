@@ -310,13 +310,13 @@
   "test-digitalocean-freebsd12-x64-2": {
     "name": "test-digitalocean-freebsd12-x64-2",
     "description": "",
-    "diskUsage": 84,
+    "diskUsage": 88,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -453,7 +453,7 @@
   "test-digitalocean-ubuntu1804-x64-1": {
     "name": "test-digitalocean-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 92,
+    "diskUsage": 93,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -536,7 +536,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3",
@@ -558,7 +558,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5",
@@ -580,7 +580,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7",
@@ -602,7 +602,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9",
@@ -613,7 +613,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2004_docker-x64-1": {
     "name": "test-digitalocean-ubuntu2004_docker-x64-1",
@@ -943,7 +943,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
@@ -954,7 +954,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix_mnx-smartos18-x64-3": {
     "name": "test-equinix_mnx-smartos18-x64-3",
@@ -1196,7 +1196,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1328,7 +1328,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
@@ -1355,7 +1355,7 @@
   "test-nearform_arm-win10_vs2019-arm64-2": {
     "name": "test-nearform_arm-win10_vs2019-arm64-2",
     "description": "Windows 10 ARM64 with Visual Studio 2019",
-    "diskUsage": 36,
+    "diskUsage": 35,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1460,7 +1460,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1966,7 +1966,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-ubuntu1404-x64-1": {
     "name": "test-softlayer-ubuntu1404-x64-1",
@@ -2021,7 +2021,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
@@ -2043,7 +2043,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
