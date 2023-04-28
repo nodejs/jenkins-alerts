@@ -30,7 +30,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
@@ -41,7 +41,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
@@ -52,7 +52,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-4": {
     "name": "test-azure_msft-win10_vs2019-x64-4",
@@ -63,7 +63,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-1": {
     "name": "test-azure_msft-win11_vs2022-arm64-1",
@@ -74,7 +74,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-2": {
     "name": "test-azure_msft-win11_vs2022-arm64-2",
@@ -85,7 +85,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-3": {
     "name": "test-azure_msft-win11_vs2022-arm64-3",
@@ -96,7 +96,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-4": {
     "name": "test-azure_msft-win11_vs2022-arm64-4",
@@ -107,7 +107,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-5": {
     "name": "test-azure_msft-win11_vs2022-arm64-5",
@@ -129,7 +129,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win2016_vs2017-x64-1": {
     "name": "test-azure_msft-win2016_vs2017-x64-1",
@@ -316,7 +316,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -536,7 +536,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3",
@@ -558,7 +558,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5",
@@ -580,7 +580,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7",
@@ -602,7 +602,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9",
@@ -613,7 +613,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu2004_docker-x64-1": {
     "name": "test-digitalocean-ubuntu2004_docker-x64-1",
@@ -943,7 +943,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
@@ -954,7 +954,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix_mnx-smartos18-x64-3": {
     "name": "test-equinix_mnx-smartos18-x64-3",
@@ -1047,7 +1047,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 16,
+    "diskUsage": 15,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1196,7 +1196,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1306,7 +1306,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-nearform-macos10.15-x64-2": {
     "name": "test-nearform-macos10.15-x64-2",
@@ -1322,13 +1322,13 @@
   "test-nearform-macos10.15-x64-3": {
     "name": "test-nearform-macos10.15-x64-3",
     "description": "",
-    "diskUsage": 79,
+    "diskUsage": 54,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
@@ -1339,7 +1339,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-nearform_arm-win10_vs2019-arm64-1": {
     "name": "test-nearform_arm-win10_vs2019-arm64-1",
@@ -1449,18 +1449,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 67,
+    "diskUsage": 50,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1531,7 +1531,7 @@
   "test-osuosl-centos7_container-arm64-1": {
     "name": "test-osuosl-centos7_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-centos7_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1542,7 +1542,7 @@
   "test-osuosl-debian10_container-armv7l-1": {
     "name": "test-osuosl-debian10_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-debian10_container-armv7l-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (arm)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1597,7 +1597,7 @@
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-rhel8_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1608,7 +1608,7 @@
   "test-osuosl-ubuntu1804_container-arm64-1": {
     "name": "test-osuosl-ubuntu1804_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu1804_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1619,7 +1619,7 @@
   "test-osuosl-ubuntu1804_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu1804_sharedlibs_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu1804_sharedlibs_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1630,7 +1630,7 @@
   "test-osuosl-ubuntu2004_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2004_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1641,7 +1641,7 @@
   "test-osuosl-ubuntu2004_container-armv7l-1": {
     "name": "test-osuosl-ubuntu2004_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2004_container-armv7l-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (arm)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1652,7 +1652,7 @@
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1768,7 +1768,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2012r2_vs2015-x64-2": {
     "name": "test-rackspace-win2012r2_vs2015-x64-2",
@@ -1790,7 +1790,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2012r2_vs2017-x64-3": {
     "name": "test-rackspace-win2012r2_vs2017-x64-3",
@@ -1812,7 +1812,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2012r2_vs2019-x64-1": {
     "name": "test-rackspace-win2012r2_vs2019-x64-1",
@@ -1823,7 +1823,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2012r2_vs2019-x64-2": {
     "name": "test-rackspace-win2012r2_vs2019-x64-2",
@@ -1966,7 +1966,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-softlayer-ubuntu1404-x64-1": {
     "name": "test-softlayer-ubuntu1404-x64-1",
@@ -2021,7 +2021,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
@@ -2043,7 +2043,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
@@ -2054,7 +2054,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
