@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 55,
+    "diskUsage": 56,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -24,7 +24,7 @@
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 39,
+    "diskUsage": 41,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -35,18 +35,18 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 40,
+    "diskUsage": 41,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 40,
+    "diskUsage": 41,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -63,7 +63,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-1": {
     "name": "test-azure_msft-win11_vs2022-arm64-1",
@@ -85,7 +85,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-3": {
     "name": "test-azure_msft-win11_vs2022-arm64-3",
@@ -129,7 +129,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win2016_vs2017-x64-1": {
     "name": "test-azure_msft-win2016_vs2017-x64-1",
@@ -316,7 +316,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora34-x64-1": {
     "name": "test-digitalocean-fedora34-x64-1",
@@ -343,7 +343,7 @@
   "test-digitalocean-freebsd12-x64-1": {
     "name": "test-digitalocean-freebsd12-x64-1",
     "description": "",
-    "diskUsage": 61,
+    "diskUsage": 64,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -360,7 +360,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -497,7 +497,7 @@
   "test-digitalocean-ubuntu1804-x64-1": {
     "name": "test-digitalocean-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 84,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1047,7 +1047,7 @@
   "test-equinix_mnx-ubuntu1804-x64-1": {
     "name": "test-equinix_mnx-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 20,
+    "diskUsage": 21,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1218,12 +1218,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
     "description": "",
-    "diskUsage": 78,
+    "diskUsage": 82,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-nearform-macos10.15-x64-1": {
     "name": "test-nearform-macos10.15-x64-1",
     "description": "",
-    "diskUsage": 97,
+    "diskUsage": 73,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-nearform-macos10.15-x64-3": {
     "name": "test-nearform-macos10.15-x64-3",
     "description": "",
-    "diskUsage": 79,
+    "diskUsage": 54,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1377,7 +1377,7 @@
   "test-nearform_arm-win10_vs2019-arm64-2": {
     "name": "test-nearform_arm-win10_vs2019-arm64-2",
     "description": "Windows 10 ARM64 with Visual Studio 2019",
-    "diskUsage": 36,
+    "diskUsage": 35,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1410,21 +1410,21 @@
   "test-orka-macos10.15-x64-1": {
     "name": "test-orka-macos10.15-x64-1",
     "description": "",
-    "diskUsage": 39,
+    "diskUsage": 34,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-orka-macos10.15-x64-2": {
     "name": "test-orka-macos10.15-x64-2",
     "description": "",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3107.v665000b_51092",
+    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1432,29 +1432,29 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 64,
+    "diskUsage": 57,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 80,
+    "diskUsage": 63,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1476,7 +1476,7 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 37,
+    "diskUsage": 35,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1773,7 +1773,7 @@
   "test-rackspace-win2012r2_vs2017-x64-1": {
     "name": "test-rackspace-win2012r2_vs2017-x64-1",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2017",
-    "diskUsage": 32,
+    "diskUsage": 33,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1790,23 +1790,23 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2012r2_vs2017-x64-4": {
     "name": "test-rackspace-win2012r2_vs2017-x64-4",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2017",
-    "diskUsage": 35,
+    "diskUsage": 36,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2012r2_vs2019-x64-1": {
     "name": "test-rackspace-win2012r2_vs2019-x64-1",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 51,
+    "diskUsage": 56,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1817,7 +1817,7 @@
   "test-rackspace-win2012r2_vs2019-x64-2": {
     "name": "test-rackspace-win2012r2_vs2019-x64-2",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 69,
+    "diskUsage": 76,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1839,18 +1839,18 @@
   "test-rackspace-win2012r2_vs2019-x64-4": {
     "name": "test-rackspace-win2012r2_vs2019-x64-4",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 66,
+    "diskUsage": 71,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2012r2_vs2019-x64-6": {
     "name": "test-rackspace-win2012r2_vs2019-x64-6",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 82,
+    "diskUsage": 89,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1883,7 +1883,7 @@
   "test-softlayer-alpine311_container-x64-1": {
     "name": "test-softlayer-alpine311_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-alpine311_container-x64-1",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1894,7 +1894,7 @@
   "test-softlayer-alpine312_container-x64-1": {
     "name": "test-softlayer-alpine312_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-alpine312_container-x64-1",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1944,7 +1944,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-debian9-x64-1": {
     "name": "test-softlayer-debian9-x64-1",
@@ -1960,7 +1960,7 @@
   "test-softlayer-rhel8_arm_cross_container-x64-1": {
     "name": "test-softlayer-rhel8_arm_cross_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-rhel8_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1971,7 +1971,7 @@
   "test-softlayer-ubi81_container-x64-1": {
     "name": "test-softlayer-ubi81_container-x64-1",
     "description": "Docker container running Universal Base Image 8.1 on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubi81_container-x64-1",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2004,7 +2004,7 @@
   "test-softlayer-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_arm_cross_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2015,7 +2015,7 @@
   "test-softlayer-ubuntu1804_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1604_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_container-x64-1",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2026,7 +2026,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-1",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2037,7 +2037,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2048,7 +2048,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2059,7 +2059,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -2070,7 +2070,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
-    "diskUsage": 84,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
