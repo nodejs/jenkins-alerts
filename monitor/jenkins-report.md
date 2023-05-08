@@ -49,7 +49,7 @@
 | [test-digitalocean-ubuntu1604_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_arm_cross_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu1604_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_container-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu1604_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-digitalocean-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804-x64-1) | 🔥 **88%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804-x64-1) | 🔥 **87%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_arm_cross_container-x64-1) | ⚠️ **82%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_arm_cross_container-x64-2) | ⚠️ **79%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_container-x64-1) | ⚠️ **82%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -115,7 +115,7 @@
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **24%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-3) | ✅ **22%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-1) | ✅ **21%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-ubuntu1804-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-2) | ⚠️ **81%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-ibm-ubuntu1804-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-2) | ⚠️ **82%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-zos24-s390x-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-iinthecloud-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-1) | ✅ **52%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-iinthecloud-ibmi73-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-2) | ✅ **33%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -173,7 +173,7 @@
 | [test-rackspace-win2012r2_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-3) | ✅ **54%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ❌ **DOWN** | 🔥 **https://github.com/nodejs/build/issues/3344** |    
 | [test-rackspace-win2012r2_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-4) | ⚠️ **60%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2012r2_vs2019-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-6) | ⚠️ **79%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2022-x64-1) | ✅ **37%** | Windows Server 2019 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2022-x64-1) | ✅ **38%** | Windows Server 2019 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi73-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-softlayer-alpine311_container-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-alpine311_container-x64-1) | 🔥 **85%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-softlayer-alpine312_container-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-alpine312_container-x64-1) | 🔥 **85%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
