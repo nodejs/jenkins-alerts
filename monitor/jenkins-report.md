@@ -32,7 +32,7 @@
 | [test-digitalocean-alpine317_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine317_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-debian8-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian8-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [test-digitalocean-debian9-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian9-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-digitalocean-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora32-x64-1) | ⚠️ **75%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora32-x64-1) | ⚠️ **76%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora34-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-1) | ⚠️ **65%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora34-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-2) | ⚠️ **80%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora38-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora38-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
@@ -49,7 +49,7 @@
 | [test-digitalocean-ubuntu1604_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_arm_cross_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu1604_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_container-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu1604_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1604_container-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-digitalocean-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804-x64-1) | 🔥 **88%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804-x64-1) | 🔥 **87%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_arm_cross_container-x64-1) | ⚠️ **81%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_arm_cross_container-x64-2) | ⚠️ **79%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu1804_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu1804_container-x64-1) | ⚠️ **81%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -173,7 +173,7 @@
 | [test-rackspace-win2012r2_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-3) | ✅ **54%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ❌ **DOWN** | 🔥 **https://github.com/nodejs/build/issues/3344** |    
 | [test-rackspace-win2012r2_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-4) | ⚠️ **64%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2012r2_vs2019-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-6) | ⚠️ **79%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2022-x64-1) | ✅ **38%** | Windows Server 2019 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2022-x64-1) | ✅ **27%** | Windows Server 2019 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi73-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-softlayer-alpine311_container-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-alpine311_container-x64-1) | 🔥 **86%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-softlayer-alpine312_container-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-alpine312_container-x64-1) | 🔥 **86%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
