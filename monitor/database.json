@@ -30,18 +30,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 40,
+    "diskUsage": 41,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
@@ -52,7 +52,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-4": {
     "name": "test-azure_msft-win10_vs2019-x64-4",
@@ -63,7 +63,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-1": {
     "name": "test-azure_msft-win11_vs2022-arm64-1",
@@ -74,7 +74,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-2": {
     "name": "test-azure_msft-win11_vs2022-arm64-2",
@@ -107,7 +107,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-5": {
     "name": "test-azure_msft-win11_vs2022-arm64-5",
@@ -206,7 +206,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-alpine311_container-x64-2": {
     "name": "test-digitalocean-alpine311_container-x64-2",
@@ -217,7 +217,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-alpine312_container-x64-1": {
     "name": "test-digitalocean-alpine312_container-x64-1",
@@ -228,7 +228,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-alpine312_container-x64-2": {
     "name": "test-digitalocean-alpine312_container-x64-2",
@@ -321,7 +321,7 @@
   "test-digitalocean-fedora34-x64-1": {
     "name": "test-digitalocean-fedora34-x64-1",
     "description": "",
-    "diskUsage": 64,
+    "diskUsage": 65,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -371,7 +371,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -382,7 +382,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8_arm_cross_container-x64-1": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-1",
@@ -756,7 +756,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-rhel8_container-arm64-2": {
     "name": "test-equinix-rhel8_container-arm64-2",
@@ -800,7 +800,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-2": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-2",
@@ -888,7 +888,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2004_container-armv7l-1": {
     "name": "test-equinix-ubuntu2004_container-armv7l-1",
@@ -899,7 +899,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2004_container-armv7l-2": {
     "name": "test-equinix-ubuntu2004_container-armv7l-2",
@@ -1047,13 +1047,13 @@
   "test-equinix_mnx-ubuntu1804-x64-1": {
     "name": "test-equinix_mnx-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 21,
+    "diskUsage": 20,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1135,7 +1135,7 @@
   "test-ibm-rhel8-s390x-1": {
     "name": "test-ibm-rhel8-s390x-1",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 21,
+    "diskUsage": 20,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1196,7 +1196,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-rhel8-x64-3": {
     "name": "test-ibm-rhel8-x64-3",
@@ -1223,13 +1223,13 @@
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
     "description": "",
-    "diskUsage": 83,
+    "diskUsage": 84,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-zos24-s390x-1": {
     "name": "test-ibm-zos24-s390x-1",
@@ -1245,7 +1245,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 53,
+    "diskUsage": 52,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1278,13 +1278,13 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 35,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
@@ -1322,40 +1322,40 @@
   "test-nearform-macos10.15-x64-1": {
     "name": "test-nearform-macos10.15-x64-1",
     "description": "",
-    "diskUsage": 73,
+    "diskUsage": 97,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-nearform-macos10.15-x64-2": {
     "name": "test-nearform-macos10.15-x64-2",
     "description": "",
-    "diskUsage": 64,
+    "diskUsage": 95,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-nearform-macos10.15-x64-3": {
     "name": "test-nearform-macos10.15-x64-3",
     "description": "",
-    "diskUsage": 79,
+    "diskUsage": 55,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
     "description": "",
-    "diskUsage": 10,
+    "diskUsage": 12,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1432,13 +1432,13 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 62,
+    "diskUsage": 79,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
@@ -1636,7 +1636,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1674,7 +1674,7 @@
   "test-rackspace-debian10-x64-1": {
     "name": "test-rackspace-debian10-x64-1",
     "description": "",
-    "diskUsage": 72,
+    "diskUsage": 73,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.7",
     "isOffline": false,
@@ -1702,7 +1702,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-ubuntu1604-x64-1": {
     "name": "test-rackspace-ubuntu1604-x64-1",
@@ -1768,7 +1768,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2012r2_vs2017-x64-1": {
     "name": "test-rackspace-win2012r2_vs2017-x64-1",
@@ -1784,13 +1784,13 @@
   "test-rackspace-win2012r2_vs2017-x64-3": {
     "name": "test-rackspace-win2012r2_vs2017-x64-3",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2017",
-    "diskUsage": 31,
+    "diskUsage": 32,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2012r2_vs2017-x64-4": {
     "name": "test-rackspace-win2012r2_vs2017-x64-4",
@@ -1812,7 +1812,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2012r2_vs2019-x64-2": {
     "name": "test-rackspace-win2012r2_vs2019-x64-2",
@@ -1900,7 +1900,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-softlayer-alpine315_container-x64-1": {
     "name": "test-softlayer-alpine315_container-x64-1",
