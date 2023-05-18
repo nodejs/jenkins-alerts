@@ -102,7 +102,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-equinix_mnx-smartos20-x64-4](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos20-x64-4) | ✅ **26%** | SunOS (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-equinix_mnx-ubuntu1804-x64-1) | ✅ **18%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ✅ **16%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **15%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **10%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-aix73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-1) | ✅ **8%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel7-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-1) | ✅ **19%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-rhel7-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-2) | ✅ **15%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
@@ -111,7 +111,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **21%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **25%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **46%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **26%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **25%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **29%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **25%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-3) | ✅ **23%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -146,7 +146,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-osuosl-centos7_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-centos7_container-arm64-1) | ✅ **27%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-debian10_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-debian10_container-armv7l-1) | ✅ **27%** | Linux (arm) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **31%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **27%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **24%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-3) | ✅ **32%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **43%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **27%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
