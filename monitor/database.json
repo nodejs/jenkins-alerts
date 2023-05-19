@@ -321,7 +321,7 @@
   "test-digitalocean-fedora34-x64-1": {
     "name": "test-digitalocean-fedora34-x64-1",
     "description": "",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1509,7 +1509,7 @@
   "test-osuosl-centos7-ppc64_le-3": {
     "name": "test-osuosl-centos7-ppc64_le-3",
     "description": "centos 7 running on powerpc le",
-    "diskUsage": 16,
+    "diskUsage": 17,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
