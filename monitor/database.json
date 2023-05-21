@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 52,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1894,7 +1894,7 @@
   "test-softlayer-rhel8_arm_cross_container-x64-1": {
     "name": "test-softlayer-rhel8_arm_cross_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-rhel8_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1905,7 +1905,7 @@
   "test-softlayer-ubi81_container-x64-1": {
     "name": "test-softlayer-ubi81_container-x64-1",
     "description": "Docker container running Universal Base Image 8.1 on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubi81_container-x64-1",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1938,7 +1938,7 @@
   "test-softlayer-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_arm_cross_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1949,7 +1949,7 @@
   "test-softlayer-ubuntu1804_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1604_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_container-x64-1",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1960,7 +1960,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-1": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-1",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-1",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1971,7 +1971,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1982,7 +1982,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1993,7 +1993,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -2004,7 +2004,7 @@
   "test-softlayer-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
     "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
-    "diskUsage": 82,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
