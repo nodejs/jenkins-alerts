@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Jenkins Alert and Reporting
-        uses: UlisesGascon/jenkins-status-alerts-and-reporting@v1.1.0
+        uses: UlisesGascon/jenkins-status-alerts-and-reporting@v1.2.0
         id: jenkins-status-alerts-and-reporting
         with:
           database: monitor/database.json
@@ -30,6 +30,7 @@ jobs:
           issue-assignees: 'UlisesGascon'
           issue-labels: 'potential-incident,test-ci'
           create-issues-for-new-offline-nodes: false
+          auto-close-issue: true
           # Report
           report: monitor/jenkins-report.md
           report-tags-enabled: false
