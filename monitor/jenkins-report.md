@@ -30,7 +30,7 @@
 | [test-digitalocean-debian9-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian9-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora32-x64-1) | ⚠️ **76%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora34-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-1) | ⚠️ **65%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
-| [test-digitalocean-fedora34-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-2) | ⚠️ **81%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-fedora34-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-2) | ⚠️ **80%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora38-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora38-x64-1) | ✅ **6%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ❌ **DOWN** | 🔥 **Not ready yet, because of failing test.
 https://github.com/nodejs/build/issues/3350** |    
 | [test-digitalocean-freebsd12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-1) | ⚠️ **67%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
@@ -90,7 +90,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-4](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-4) | ⚠️ **71%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-5](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-5) | ⚠️ **71%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-6](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-6) | ⚠️ **71%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-equinix-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-1) | ⚠️ **60%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-equinix-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-1) | ✅ **59%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204-x64-2) | 🔥 **89%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos18-x64-3](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos18-x64-3) | ✅ **10%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos18-x64-4](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos18-x64-4) | ✅ **10%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
@@ -125,7 +125,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-nearform-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-2) | ⚠️ **66%** | Mac OS X (x86_64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform-macos10.15-x64-3](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-3) | ✅ **57%** | Mac OS X (x86_64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform-macos11.0-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform-macos11.0-arm64-1) | ✅ **12%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
-| [test-nearform_arm-win10_vs2019-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-1) | ✅ **33%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-nearform_arm-win10_vs2019-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-1) | ✅ **32%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_arm-win10_vs2019-arm64-2](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-2) | ✅ **36%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-1) | ✅ **17%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-2) | ✅ **9%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    

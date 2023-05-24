@@ -288,7 +288,7 @@
   "test-digitalocean-fedora34-x64-2": {
     "name": "test-digitalocean-fedora34-x64-2",
     "description": "",
-    "diskUsage": 81,
+    "diskUsage": 80,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -937,7 +937,7 @@
   "test-equinix-ubuntu2204-x64-1": {
     "name": "test-equinix-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 60,
+    "diskUsage": 59,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-nearform_arm-win10_vs2019-arm64-1": {
     "name": "test-nearform_arm-win10_vs2019-arm64-1",
     "description": "Windows 10 ARM64 with Visual Studio 2019",
-    "diskUsage": 33,
+    "diskUsage": 32,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
