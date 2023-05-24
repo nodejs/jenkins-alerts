@@ -970,7 +970,7 @@
   "test-equinix_mnx-smartos18-x64-4": {
     "name": "test-equinix_mnx-smartos18-x64-4",
     "description": "",
-    "diskUsage": 12,
+    "diskUsage": 10,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-nearform_arm-win10_vs2019-arm64-1": {
     "name": "test-nearform_arm-win10_vs2019-arm64-1",
     "description": "Windows 10 ARM64 with Visual Studio 2019",
-    "diskUsage": 32,
+    "diskUsage": 33,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
