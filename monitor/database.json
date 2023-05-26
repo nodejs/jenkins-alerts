@@ -1146,7 +1146,7 @@
   "test-ibm-rhel8-x64-2": {
     "name": "test-ibm-rhel8-x64-2",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1520,7 +1520,7 @@
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 31,
+    "diskUsage": 28,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
