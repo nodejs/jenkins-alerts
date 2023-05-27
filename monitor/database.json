@@ -948,7 +948,7 @@
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
     "description": "jenkins-workspace",
-    "diskUsage": 88,
+    "diskUsage": 87,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1058,7 +1058,7 @@
   "test-ibm-rhel7-s390x-2": {
     "name": "test-ibm-rhel7-s390x-2",
     "description": "RHEL7  running on s390x",
-    "diskUsage": 15,
+    "diskUsage": 16,
     "architecture": "Linux (s390x)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1333,7 +1333,7 @@
   "test-nearform_arm-win10_vs2019-arm64-2": {
     "name": "test-nearform_arm-win10_vs2019-arm64-2",
     "description": "Windows 10 ARM64 with Visual Studio 2019",
-    "diskUsage": 36,
+    "diskUsage": 35,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1432,7 +1432,7 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 35,
+    "diskUsage": 30,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
