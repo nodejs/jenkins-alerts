@@ -937,7 +937,7 @@
   "test-equinix-ubuntu2204-x64-1": {
     "name": "test-equinix-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 59,
+    "diskUsage": 58,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1256,7 +1256,7 @@
   "test-marist-zos24-s390x-1": {
     "name": "test-marist-zos24-s390x-1",
     "description": "z/OS running on s390x",
-    "diskUsage": 13,
+    "diskUsage": 14,
     "architecture": "z/OS (s390x)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 27,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
