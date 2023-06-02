@@ -1242,31 +1242,53 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-ibm-ubuntu1804_container-x64-1": {
-    "name": "test-ibm-ubuntu1804_container-x64-1",
-    "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu1804_container-x64-1",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-ibm-ubuntu1804_sharedlibs_container-x64-1": {
-    "name": "test-ibm-ubuntu1804_sharedlibs_container-x64-1",
-    "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu1804_sharedlibs_container-x64-1",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2204_sharedlibs_container-x64-1",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-ibm-ubuntu2204_sharedlibs_container-x64-2": {
+    "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-2",
+    "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2204_sharedlibs_container-x64-2",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-ibm-ubuntu2204_sharedlibs_container-x64-3": {
+    "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-3",
+    "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2204_sharedlibs_container-x64-3",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-ibm-ubuntu2204_sharedlibs_container-x64-4": {
+    "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-4",
+    "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2204_sharedlibs_container-x64-4",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-ibm-ubuntu2204_sharedlibs_container-x64-5": {
+    "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-5",
+    "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2204_sharedlibs_container-x64-5",
     "diskUsage": null,
     "architecture": null,
     "monitorVersion": null,
@@ -1608,7 +1630,7 @@
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 31,
+    "diskUsage": 30,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1740,7 +1762,7 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 67,
+    "diskUsage": 68,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": true,
@@ -1872,7 +1894,7 @@
   "test-rackspace-win2012r2_vs2019-x64-6": {
     "name": "test-rackspace-win2012r2_vs2019-x64-6",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 90,
+    "diskUsage": 80,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1943,50 +1965,6 @@
     "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
-  },
-  "test-softlayer-ubuntu1804_sharedlibs_container-x64-2": {
-    "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
-    "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
-  },
-  "test-softlayer-ubuntu1804_sharedlibs_container-x64-3": {
-    "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
-    "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-3",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
-  },
-  "test-softlayer-ubuntu1804_sharedlibs_container-x64-4": {
-    "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
-    "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
-  },
-  "test-softlayer-ubuntu1804_sharedlibs_container-x64-5": {
-    "name": "test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
-    "description": "Docker container running on test-softlayer-ubuntu1804_docker-x64-1 in /home/iojs/test-softlayer-ubuntu1804_sharedlibs_container-x64-5",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
     "offlineCauseReason": "Connection was broken",
     "isIdle": true
   }
