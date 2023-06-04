@@ -110,7 +110,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **25%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **45%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **30%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **24%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **25%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **24%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-3) | ✅ **22%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8_arm_cross_container-x64-1) | ✅ **28%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -134,7 +134,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-nearform-macos10.15-x64-1](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-1) | 🔥 **100%** | Mac OS X (x86_64) | N/A | 4.13.3 | ❌ **DOWN** | 🔥 **Disk space is too low. Only 0.019GB left on /Users/iojs/build.** |    
 | [test-nearform-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-2) | ⚠️ **66%** | Mac OS X (x86_64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform-macos10.15-x64-3](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-3) | ⚠️ **79%** | Mac OS X (x86_64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
-| [test-nearform-macos11.0-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform-macos11.0-arm64-1) | ✅ **15%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-nearform-macos11.0-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform-macos11.0-arm64-1) | ✅ **14%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform_arm-win10_vs2019-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-1) | ✅ **33%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_arm-win10_vs2019-arm64-2](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-2) | ✅ **36%** | Windows 11 (x86) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-1) | ✅ **17%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
