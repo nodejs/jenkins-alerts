@@ -299,7 +299,7 @@
   "test-digitalocean-fedora38-x64-1": {
     "name": "test-digitalocean-fedora38-x64-1",
     "description": "",
-    "diskUsage": 7,
+    "diskUsage": 8,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1883,7 +1883,7 @@
   "test-rzkh-ibmi73-ppc64_be-1": {
     "name": "test-rzkh-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 38,
+    "diskUsage": 39,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
