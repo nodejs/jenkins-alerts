@@ -28,9 +28,9 @@
 | [test-digitalocean-alpine318_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine318_container-x64-2) | ⚠️ **66%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-debian8-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian8-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [test-digitalocean-debian9-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian9-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-digitalocean-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora32-x64-1) | ⚠️ **81%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora32-x64-1) | ⚠️ **82%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora34-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-1) | ⚠️ **65%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
-| [test-digitalocean-fedora34-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-2) | ⚠️ **84%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-digitalocean-fedora34-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora34-x64-2) | 🔥 **85%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora38-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora38-x64-1) | ✅ **8%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ❌ **DOWN** | 🔥 **Not ready yet, because of failing test.
 https://github.com/nodejs/build/issues/3350** |    
 | [test-digitalocean-freebsd12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-1) | ⚠️ **70%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
