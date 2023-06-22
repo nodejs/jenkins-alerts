@@ -1072,9 +1072,9 @@
     "diskUsage": 18,
     "architecture": "Linux (s390x)",
     "monitorVersion": "4.13.3",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel7-s390x-2": {
@@ -1083,9 +1083,9 @@
     "diskUsage": 18,
     "architecture": "Linux (s390x)",
     "monitorVersion": "4.13.3",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel7-s390x-3": {
@@ -1094,9 +1094,9 @@
     "diskUsage": 18,
     "architecture": "Linux (s390x)",
     "monitorVersion": "4.13.3",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel7-s390x-4": {
@@ -1105,9 +1105,9 @@
     "diskUsage": 19,
     "architecture": "Linux (s390x)",
     "monitorVersion": "4.13.3",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-1": {
@@ -1116,9 +1116,9 @@
     "diskUsage": 21,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-2": {
@@ -1127,9 +1127,9 @@
     "diskUsage": 26,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-3": {
@@ -1138,9 +1138,9 @@
     "diskUsage": 45,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-4": {
@@ -1149,9 +1149,9 @@
     "diskUsage": 31,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-x64-1": {
@@ -1366,9 +1366,9 @@
   "test-marist-zos24-s390x-1": {
     "name": "test-marist-zos24-s390x-1",
     "description": "z/OS running on s390x",
-    "diskUsage": 14,
-    "architecture": "z/OS (s390x)",
-    "monitorVersion": "4.13.3",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1410,13 +1410,13 @@
   "test-nearform-macos10.15-x64-3": {
     "name": "test-nearform-macos10.15-x64-3",
     "description": "",
-    "diskUsage": 65,
+    "diskUsage": 80,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
@@ -1471,12 +1471,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-orka-macos10.15-x64-1": {
     "name": "test-orka-macos10.15-x64-1",
     "description": "",
-    "diskUsage": 35,
+    "diskUsage": 39,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1861,7 +1861,7 @@
   "test-rackspace-win2019_vs2022-x64-1": {
     "name": "test-rackspace-win2019_vs2022-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2022.\nFor now used to try out the VS2022 compilation.",
-    "diskUsage": 45,
+    "diskUsage": 46,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
