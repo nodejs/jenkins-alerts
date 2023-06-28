@@ -1355,7 +1355,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 29,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1724,7 +1724,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-centos7-x64-1": {
     "name": "test-rackspace-centos7-x64-1",
