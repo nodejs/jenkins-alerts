@@ -19,7 +19,7 @@
 | [test-azure_msft-win2016_vs2017-x64-5](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-5) | ✅ **27%** | Windows Server 2016 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-azure_msft-win2016_vs2017-x64-6](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-6) | ✅ **27%** | Windows Server 2016 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-azure_msft-win2022_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-1) | ✅ **38%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-azure_msft-win2022_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-2) | ✅ **37%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-azure_msft-win2022_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-2) | ✅ **38%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-azure_msft-win2022_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-3) | ✅ **40%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-azure_msft-win2022_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-4) | ✅ **37%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine315_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine315_container-x64-1) | ⚠️ **64%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -168,7 +168,7 @@ https://github.com/nodejs/build/issues/3350** |
 | [test-rackspace-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-fedora32-x64-1) | ⚠️ **78%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu1604-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu1604-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-rackspace-ubuntu1604-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu1604-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-rackspace-win2012r2_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2015-x64-1) | ✅ **31%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-rackspace-win2012r2_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2015-x64-1) | ✅ **30%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2012r2_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2015-x64-2) | ✅ **32%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2012r2_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-1) | ✅ **58%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2012r2_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2019-x64-2) | ⚠️ **71%** | Windows Server 2012 R2 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
