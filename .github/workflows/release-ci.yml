@@ -22,7 +22,7 @@ jobs:
         id: jenkins-status-alerts-and-reporting
         with:
           database: monitor-release/database.json
-          jenkins-domain: 'ci.nodejs.org'
+          jenkins-domain: 'ci-release.nodejs.org'
           jenkins-username: ${{ secrets.JENKINS_RELEASE_USERNAME }}
           jenkins-token: ${{ secrets.JENKINS_RELEASE_TOKEN }}
           # Issues
