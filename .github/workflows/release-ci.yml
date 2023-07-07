@@ -1,0 +1,45 @@
+name: "⚙️ Monitor Jenkins Release CI"
+on: 
+  schedule:
+    # Run every hour
+    - cron: "21 * * * *"
+
+  workflow_dispatch:   
+
+permissions:
+  contents: write
+  pull-requests: none 
+  issues: write
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Jenkins Alert and Reporting
+        uses: UlisesGascon/jenkins-status-alerts-and-reporting@v1.3.0
+        id: jenkins-status-alerts-and-reporting
+        with:
+          database: monitor-release/database.json
+          jenkins-domain: 'ci.nodejs.org'
+          jenkins-username: ${{ secrets.JENKINS_RELEASE_USERNAME }}
+          jenkins-token: ${{ secrets.JENKINS_RELEASE_TOKEN }}
+          # Issues
+          generate-issue: true
+          issue-assignees: 'UlisesGascon'
+          issue-labels: 'potential-incident,release-ci'
+          create-issues-for-new-offline-nodes: false
+          auto-close-issue: true
+          disk-alert-level: 90
+          # Report
+          report: monitor-release/jenkins-report.md
+          report-tags-enabled: false
+          # Git changes
+          auto-commit: true
+          auto-push: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Print the Computers
+      #   run: |
+      #     echo '${{ steps.jenkins-status-alerts-and-reporting.outputs.computers }}'  
