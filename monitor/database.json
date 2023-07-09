@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 55,
+    "diskUsage": 56,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -52,7 +52,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-4": {
     "name": "test-azure_msft-win11_vs2022-arm64-4",
@@ -68,7 +68,7 @@
   "test-azure_msft-win11_vs2022-arm64-5": {
     "name": "test-azure_msft-win11_vs2022-arm64-5",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 4,
+    "diskUsage": 3,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -162,7 +162,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win2022_vs2019-x64-2": {
     "name": "test-azure_msft-win2022_vs2019-x64-2",
@@ -173,18 +173,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win2022_vs2019-x64-3": {
     "name": "test-azure_msft-win2022_vs2019-x64-3",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 37,
+    "diskUsage": 38,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win2022_vs2019-x64-4": {
     "name": "test-azure_msft-win2022_vs2019-x64-4",
@@ -195,7 +195,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-alpine315_container-x64-1": {
     "name": "test-digitalocean-alpine315_container-x64-1",
@@ -233,8 +233,8 @@
   "test-digitalocean-alpine318_container-x64-2": {
     "name": "test-digitalocean-alpine318_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine318_container-x64-2",
-    "diskUsage": 58,
-    "architecture": "Linux (amd64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -272,7 +272,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora34-x64-1": {
     "name": "test-digitalocean-fedora34-x64-1",
@@ -283,7 +283,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora34-x64-2": {
     "name": "test-digitalocean-fedora34-x64-2",
@@ -327,7 +327,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -921,7 +921,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-6",
@@ -1009,7 +1009,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1399,7 +1399,7 @@
   "test-nearform-macos10.15-x64-2": {
     "name": "test-nearform-macos10.15-x64-2",
     "description": "",
-    "diskUsage": 98,
+    "diskUsage": 99,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1471,7 +1471,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-orka-macos10.15-x64-1": {
     "name": "test-orka-macos10.15-x64-1",
@@ -1531,13 +1531,13 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1625,7 +1625,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
@@ -1702,7 +1702,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1724,7 +1724,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-centos7-x64-1": {
     "name": "test-rackspace-centos7-x64-1",
@@ -1740,13 +1740,13 @@
   "test-rackspace-debian10-x64-1": {
     "name": "test-rackspace-debian10-x64-1",
     "description": "",
-    "diskUsage": 79,
+    "diskUsage": 80,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.7",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-debian8-x64-1": {
     "name": "test-rackspace-debian8-x64-1",
