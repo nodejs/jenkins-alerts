@@ -1498,12 +1498,12 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "https://github.com/nodejs/build/issues/3415",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-orka-macos11-x64-2": {
