@@ -1229,7 +1229,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-ibm-ubuntu1804_arm_cross_container-x64-1",
@@ -1503,7 +1503,7 @@
     "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3415",
     "isIdle": true
   },
   "test-orka-macos11-x64-2": {
@@ -1513,8 +1513,8 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3415",
     "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
