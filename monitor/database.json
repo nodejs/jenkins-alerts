@@ -1488,11 +1488,11 @@
     "name": "test-orka-macos10.15-x64-2",
     "description": "",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "https://github.com/nodejs/build/issues/3218",
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3107.v665000b_51092",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-orka-macos11-x64-1": {
