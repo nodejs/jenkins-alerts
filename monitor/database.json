@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 79,
+    "diskUsage": 68,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -266,7 +266,7 @@
   "test-digitalocean-fedora32-x64-1": {
     "name": "test-digitalocean-fedora32-x64-1",
     "description": "",
-    "diskUsage": 80,
+    "diskUsage": 79,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -288,7 +288,7 @@
   "test-digitalocean-fedora34-x64-2": {
     "name": "test-digitalocean-fedora34-x64-2",
     "description": "",
-    "diskUsage": 89,
+    "diskUsage": 87,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -651,7 +651,7 @@
   "test-equinix-centos7_container-arm64-2": {
     "name": "test-equinix-centos7_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -695,7 +695,7 @@
   "test-equinix-debian10_container-armv7l-2": {
     "name": "test-equinix-debian10_container-armv7l-2",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-2 in /home/iojs/test-equinix-debian10_container-armv7l-2",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (arm)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -717,7 +717,7 @@
   "test-equinix-rhel8_container-arm64-2": {
     "name": "test-equinix-rhel8_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -739,7 +739,7 @@
   "test-equinix-ubuntu1804_container-arm64-2": {
     "name": "test-equinix-ubuntu1804_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -783,7 +783,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-4": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-4",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -794,7 +794,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-5": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-5",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -805,7 +805,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-6",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -838,7 +838,7 @@
   "test-equinix-ubuntu2004_container-arm64-2": {
     "name": "test-equinix-ubuntu2004_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -860,7 +860,7 @@
   "test-equinix-ubuntu2004_container-armv7l-2": {
     "name": "test-equinix-ubuntu2004_container-armv7l-2",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-2 in /home/iojs/test-equinix-ubuntu2004_container-armv7l-2",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (arm)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -904,7 +904,7 @@
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-4": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-4",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -915,7 +915,7 @@
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-5": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-5",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -926,7 +926,7 @@
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-6",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 43,
+    "diskUsage": 42,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-nearform-macos10.15-x64-3": {
     "name": "test-nearform-macos10.15-x64-3",
     "description": "",
-    "diskUsage": 60,
+    "diskUsage": 56,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1531,7 +1531,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 49,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1740,7 +1740,7 @@
   "test-rackspace-debian10-x64-1": {
     "name": "test-rackspace-debian10-x64-1",
     "description": "",
-    "diskUsage": 82,
+    "diskUsage": 81,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.7",
     "isOffline": false,
