@@ -274,32 +274,32 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-digitalocean-fedora34-x64-1": {
-    "name": "test-digitalocean-fedora34-x64-1",
-    "description": "",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
-  },
   "test-digitalocean-fedora34-x64-2": {
     "name": "test-digitalocean-fedora34-x64-2",
     "description": "",
     "diskUsage": 89,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Replaced by fedora38 hosts\r\nSee https://github.com/nodejs/build/issues/3350",
     "isIdle": true
   },
   "test-digitalocean-fedora38-x64-1": {
     "name": "test-digitalocean-fedora38-x64-1",
     "description": "",
     "diskUsage": 20,
+    "architecture": "Linux (amd64)",
+    "monitorVersion": "3107.v665000b_51092",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-digitalocean-fedora38-x64-2": {
+    "name": "test-digitalocean-fedora38-x64-2",
+    "description": "",
+    "diskUsage": null,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1487,7 +1487,7 @@
   "test-orka-macos10.15-x64-2": {
     "name": "test-orka-macos10.15-x64-2",
     "description": "",
-    "diskUsage": 36,
+    "diskUsage": 48,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1509,7 +1509,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 68,
+    "diskUsage": 51,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1531,7 +1531,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 49,
+    "diskUsage": 50,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1762,7 +1762,7 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 80,
+    "diskUsage": 88,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1828,7 +1828,7 @@
   "test-rackspace-win2012r2_vs2019-x64-2": {
     "name": "test-rackspace-win2012r2_vs2019-x64-2",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1883,7 +1883,7 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 44,
+    "diskUsage": 45,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1971,7 +1971,7 @@
   "test-softlayer-debian10-x64-1": {
     "name": "test-softlayer-debian10-x64-1",
     "description": "",
-    "diskUsage": 61,
+    "diskUsage": 63,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
