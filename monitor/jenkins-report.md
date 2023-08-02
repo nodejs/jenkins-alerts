@@ -80,7 +80,7 @@
 | [test-equinix-ubuntu1804_sharedlibs_container-arm64-6](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu1804_sharedlibs_container-arm64-6) | ⚠️ **78%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004-arm64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-equinix-ubuntu2004_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-arm64-1) | ⚠️ **82%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-equinix-ubuntu2004_container-arm64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-arm64-2) | ⚠️ **78%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-equinix-ubuntu2004_container-arm64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-arm64-2) | ⚠️ **79%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-armv7l-1) | ⚠️ **82%** | Linux (arm) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-armv7l-2) | ⚠️ **78%** | Linux (arm) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-1) | ⚠️ **82%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
