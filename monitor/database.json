@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 63,
+    "diskUsage": 62,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -189,7 +189,7 @@
   "test-azure_msft-win2022_vs2019-x64-4": {
     "name": "test-azure_msft-win2022_vs2019-x64-4",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1724,7 +1724,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-centos7-x64-1": {
     "name": "test-rackspace-centos7-x64-1",
