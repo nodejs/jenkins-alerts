@@ -332,7 +332,7 @@
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 45,
+    "diskUsage": 46,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1795,8 +1795,8 @@
   "test-rackspace-win2012r2_vs2015-x64-1": {
     "name": "test-rackspace-win2012r2_vs2015-x64-1",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2015",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 31,
+    "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1817,8 +1817,8 @@
   "test-rackspace-win2012r2_vs2019-x64-1": {
     "name": "test-rackspace-win2012r2_vs2019-x64-1",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 62,
+    "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1905,8 +1905,8 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 50,
+    "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1927,8 +1927,8 @@
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 54,
+    "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
