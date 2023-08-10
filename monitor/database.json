@@ -332,7 +332,7 @@
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 45,
+    "diskUsage": 46,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1949,7 +1949,7 @@
   "test-rzkh-ibmi73-ppc64_be-1": {
     "name": "test-rzkh-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 38,
+    "diskUsage": 37,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
