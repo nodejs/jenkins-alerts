@@ -2,12 +2,12 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": null,
+    "diskUsage": 100,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Disk space is too low. Only 0.029GB left on /var/lib/jenkins.",
     "isIdle": true
   },
   "test-azure_msft-ubuntu1604_arm_cross-x64-1": {
@@ -211,7 +211,7 @@
   "test-digitalocean-alpine315_container-x64-2": {
     "name": "test-digitalocean-alpine315_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine315_container-x64-2",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -233,7 +233,7 @@
   "test-digitalocean-alpine318_container-x64-2": {
     "name": "test-digitalocean-alpine318_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine318_container-x64-2",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -294,7 +294,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora38-x64-2": {
     "name": "test-digitalocean-fedora38-x64-2",
@@ -354,7 +354,7 @@
   "test-digitalocean-rhel8_arm_cross_container-x64-2": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-rhel8_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -376,7 +376,7 @@
   "test-digitalocean-ubi81_container-x64-2": {
     "name": "test-digitalocean-ubi81_container-x64-2",
     "description": "Docker container running Universal Base Image 8.1 on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubi81_container-x64-2",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -459,7 +459,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-digitalocean-ubuntu1804_arm_cross_container-x64-1",
@@ -475,7 +475,7 @@
   "test-digitalocean-ubuntu1804_arm_cross_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -497,7 +497,7 @@
   "test-digitalocean-ubuntu1804_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1604_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_container-x64-2",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -514,12 +514,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -530,13 +530,13 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3",
@@ -552,13 +552,13 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-4",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5",
@@ -574,13 +574,13 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-6",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-6",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7",
@@ -596,13 +596,13 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-8": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-8",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-8",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9",
@@ -998,7 +998,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix_mnx-ubuntu1804-x64-1": {
     "name": "test-equinix_mnx-ubuntu1804-x64-1",
@@ -1641,13 +1641,13 @@
   "test-osuosl-rhel8-ppc64_le-4": {
     "name": "test-osuosl-rhel8-ppc64_le-4",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 45,
+    "diskUsage": 46,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
