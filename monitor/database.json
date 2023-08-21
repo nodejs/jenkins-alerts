@@ -1226,9 +1226,9 @@
     "diskUsage": 99,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Disk space is too low. Only 0.189GB left on /home/iojs/build.",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-ubuntu1804_arm_cross_container-x64-1": {
@@ -1465,7 +1465,7 @@
   "test-nearform_intel-ubuntu2204-x64-2": {
     "name": "test-nearform_intel-ubuntu2204-x64-2",
     "description": "Hardware donated by Intel, July 2017, hosted by nearForm, Wildcat Pass 2U 8x3.5\" HDD 10Gbe Xeon DP v4 Server [more info @ https://github.com/nodejs/build/issues/791#issuecomment-316206973]",
-    "diskUsage": 10,
+    "diskUsage": 9,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
