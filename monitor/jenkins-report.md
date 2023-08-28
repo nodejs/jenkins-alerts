@@ -104,7 +104,7 @@
 | [test-ibm-rhel7-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-1) | ✅ **19%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-rhel7-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-2) | ✅ **23%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-rhel7-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-3) | ✅ **18%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
-| [test-ibm-rhel7-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-4) | ✅ **17%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-ibm-rhel7-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-4) | ✅ **16%** | Linux (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **25%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **31%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **48%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -177,8 +177,8 @@
 | [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **29%** | Windows Server 2019 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ✅ **36%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ✅ **46%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ✅ **37%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ✅ **59%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ✅ **45%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ✅ **56%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ✅ **37%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ✅ **29%** | Windows Server 2022 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi73-ppc64_be-1) | ✅ **38%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
