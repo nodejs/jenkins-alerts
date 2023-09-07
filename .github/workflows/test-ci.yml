@@ -1,7 +1,7 @@
 name: "📡 Monitor Jenkins Test CI"
 on: 
   schedule:
-    # Run every hour
+    # Run every hour❤️
     - cron: "23 * * * *"
 
   workflow_dispatch:   
