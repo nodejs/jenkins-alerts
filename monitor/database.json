@@ -101,7 +101,7 @@
   "test-azure_msft-win2016_vs2017-x64-2": {
     "name": "test-azure_msft-win2016_vs2017-x64-2",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -656,7 +656,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-centos7_sharedlibs_container-arm64-1": {
@@ -700,7 +700,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-rhel8_container-arm64-1": {
@@ -722,7 +722,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu1804_container-arm64-1": {
@@ -744,7 +744,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-1": {
@@ -788,7 +788,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-5": {
@@ -799,7 +799,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-6": {
@@ -810,7 +810,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu2004-arm64-1": {
@@ -843,7 +843,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu2004_container-armv7l-1": {
@@ -865,7 +865,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-1": {
@@ -909,7 +909,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-5": {
@@ -920,7 +920,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-6": {
@@ -931,7 +931,7 @@
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-equinix-ubuntu2204-x64-1": {
