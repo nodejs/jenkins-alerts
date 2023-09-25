@@ -277,7 +277,7 @@
   "test-digitalocean-fedora37-x64-1": {
     "name": "test-digitalocean-fedora37-x64-1",
     "description": "",
-    "diskUsage": 21,
+    "diskUsage": 22,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1229,7 +1229,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-ibm-ubuntu1804_arm_cross_container-x64-1",
@@ -1520,7 +1520,7 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 22,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
