@@ -4,7 +4,7 @@
     "description": "the Jenkins controller's built-in node",
     "diskUsage": 68,
     "architecture": "Linux (amd64)",
-    "monitorVersion": "3107.v665000b_51092",
+    "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
@@ -145,7 +145,7 @@
   "test-azure_msft-win2016_vs2017-x64-6": {
     "name": "test-azure_msft-win2016_vs2017-x64-6",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -178,7 +178,7 @@
   "test-azure_msft-win2022_vs2019-x64-3": {
     "name": "test-azure_msft-win2022_vs2019-x64-3",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 39,
+    "diskUsage": 40,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -312,7 +312,7 @@
     "description": "",
     "diskUsage": null,
     "architecture": "FreeBSD (amd64)",
-    "monitorVersion": "4.13.3",
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": true,
     "offlineCauseReason": "Disk space is too low. Only 0.013GB left on /usr/home/iojs/build.",
@@ -954,7 +954,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix_mnx-smartos18-x64-3": {
     "name": "test-equinix_mnx-smartos18-x64-3",
@@ -1036,7 +1036,7 @@
   "test-ibm-aix73-ppc64_be-1": {
     "name": "test-ibm-aix73-ppc64_be-1",
     "description": "",
-    "diskUsage": 2,
+    "diskUsage": 3,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1355,7 +1355,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 39,
+    "diskUsage": 41,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1399,7 +1399,7 @@
   "test-nearform-macos10.15-x64-2": {
     "name": "test-nearform-macos10.15-x64-2",
     "description": "",
-    "diskUsage": 65,
+    "diskUsage": 66,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1424,15 +1424,15 @@
     "diskUsage": 26,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
+    "isOffline": true,
+    "isTemporarilyOffline": true,
     "offlineCauseReason": "",
     "isIdle": true
   },
   "test-nearform_arm-win10_vs2019-arm64-1": {
     "name": "test-nearform_arm-win10_vs2019-arm64-1",
     "description": "Windows 10 ARM64 with Visual Studio 2019",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1448,7 +1448,7 @@
     "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-nearform_intel-ubuntu2204-x64-1": {
