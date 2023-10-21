@@ -92,7 +92,7 @@
     "description": "Windows 2016 on Azure with Visual Studio 2017",
     "diskUsage": 31,
     "architecture": "Windows Server 2016 (amd64)",
-    "monitorVersion": null,
+    "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
@@ -145,7 +145,7 @@
   "test-azure_msft-win2016_vs2017-x64-6": {
     "name": "test-azure_msft-win2016_vs2017-x64-6",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -158,7 +158,7 @@
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
     "diskUsage": 35,
     "architecture": "Windows Server 2022 (amd64)",
-    "monitorVersion": null,
+    "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
@@ -1009,7 +1009,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1344,7 +1344,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 74,
+    "diskUsage": 67,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1504,17 +1504,17 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 82,
+    "diskUsage": 100,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Disk space is too low. Only 0.082GB left on /Users/iojs/build.",
     "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
@@ -1531,13 +1531,13 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1702,7 +1702,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1905,7 +1905,7 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 55,
+    "diskUsage": 57,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1927,7 +1927,7 @@
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1938,7 +1938,7 @@
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 53,
+    "diskUsage": 57,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
