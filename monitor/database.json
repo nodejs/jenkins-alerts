@@ -217,7 +217,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-alpine318_container-x64-1": {
     "name": "test-digitalocean-alpine318_container-x64-1",
@@ -299,13 +299,13 @@
   "test-digitalocean-fedora38-x64-2": {
     "name": "test-digitalocean-fedora38-x64-2",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 29,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-freebsd12-x64-1": {
     "name": "test-digitalocean-freebsd12-x64-1",
@@ -1740,7 +1740,7 @@
   "test-rackspace-debian10-x64-1": {
     "name": "test-rackspace-debian10-x64-1",
     "description": "",
-    "diskUsage": 80,
+    "diskUsage": 82,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.7",
     "isOffline": false,
