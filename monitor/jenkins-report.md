@@ -4,7 +4,7 @@
 
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
-| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ⚠️ **70%** | Linux (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
+| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **56%** | Linux (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **4%** | Windows 11 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-2) | ✅ **4%** | Windows 11 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-3) | ✅ **3%** | Windows 11 (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -114,7 +114,7 @@
 | [test-ibm-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8_arm_cross_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubi81_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-1) | ✅ **29%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-ubuntu1804-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-2) | ⚠️ **81%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-ibm-ubuntu1804-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804-x64-2) | ⚠️ **82%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu1804_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu1804_arm_cross_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-2) | ✅ **34%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
