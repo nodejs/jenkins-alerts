@@ -1718,7 +1718,7 @@
   "test-rackspace-centos7-x64-1": {
     "name": "test-rackspace-centos7-x64-1",
     "description": "",
-    "diskUsage": 46,
+    "diskUsage": 45,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
