@@ -844,7 +844,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2004_container-armv7l-2": {
     "name": "test-equinix-ubuntu2004_container-armv7l-2",
@@ -1196,7 +1196,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804-x64-1": {
     "name": "test-ibm-ubuntu1804-x64-1",
@@ -1207,7 +1207,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1240,7 +1240,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-2": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-2",
@@ -1251,7 +1251,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-3": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-3",
@@ -1262,7 +1262,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-4": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-4",
@@ -1273,7 +1273,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-5": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-5",
@@ -1284,7 +1284,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-zos24-s390x-1": {
     "name": "test-ibm-zos24-s390x-1",
@@ -1504,7 +1504,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1608,12 +1608,12 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 32,
+    "architecture": "Linux (ppc64le)",
+    "monitorVersion": "3107.v665000b_51092",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-3": {
@@ -1691,7 +1691,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1922,7 +1922,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
