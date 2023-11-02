@@ -35,7 +35,7 @@
   "test-azure_msft-win11_vs2022-arm64-3": {
     "name": "test-azure_msft-win11_vs2022-arm64-3",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 3,
+    "diskUsage": 4,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -101,7 +101,7 @@
   "test-azure_msft-win2016_vs2017-x64-3": {
     "name": "test-azure_msft-win2016_vs2017-x64-3",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -134,7 +134,7 @@
   "test-azure_msft-win2016_vs2017-x64-6": {
     "name": "test-azure_msft-win2016_vs2017-x64-6",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 29,
+    "diskUsage": 30,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -167,7 +167,7 @@
   "test-azure_msft-win2022_vs2019-x64-3": {
     "name": "test-azure_msft-win2022_vs2019-x64-3",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 40,
+    "diskUsage": 39,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1306,7 +1306,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-iinthecloud-ibmi73-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-2",
@@ -1420,7 +1420,7 @@
   },
   "test-nearform_arm-win10_vs2019-arm64-1": {
     "name": "test-nearform_arm-win10_vs2019-arm64-1",
-    "description": "Windows 10 ARM64 with Visual Studio 2019",
+    "description": "[DEPRECATED] Windows 10 ARM64 with Visual Studio 2019\n\nHad these labels before removing them: win10-arm64 win10-vs2019-arm64 win10-arm64-COMPILED_BY-vs2019-arm64 win10-vs2019-arm64-COMPILED_BY-vs2019-arm64",
     "diskUsage": 34,
     "architecture": "Windows 11 (x86)",
     "monitorVersion": "3107.v665000b_51092",
@@ -1431,7 +1431,7 @@
   },
   "test-nearform_arm-win10_vs2019-arm64-2": {
     "name": "test-nearform_arm-win10_vs2019-arm64-2",
-    "description": "Windows 10 ARM64 with Visual Studio 2019",
+    "description": "[DEPRECATED] Windows 10 ARM64 with Visual Studio 2019\n\nHad these labels before removing them: win10-arm64 win10-vs2019-arm64 win10-arm64-COMPILED_BY-vs2019-arm64 win10-vs2019-arm64-COMPILED_BY-vs2019-arm64",
     "diskUsage": null,
     "architecture": null,
     "monitorVersion": null,
@@ -1454,7 +1454,7 @@
   "test-nearform_intel-ubuntu2204-x64-2": {
     "name": "test-nearform_intel-ubuntu2204-x64-2",
     "description": "Hardware donated by Intel, July 2017, hosted by nearForm, Wildcat Pass 2U 8x3.5\" HDD 10Gbe Xeon DP v4 Server [more info @ https://github.com/nodejs/build/issues/791#issuecomment-316206973]",
-    "diskUsage": 9,
+    "diskUsage": 10,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1498,7 +1498,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 89,
+    "diskUsage": 88,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1509,7 +1509,7 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 27,
+    "diskUsage": 26,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1691,7 +1691,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1787,9 +1787,9 @@
     "diskUsage": 30,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Marked as offline after editing jobs not to use Win2012r2 machines anymore to see if something will break. Planned to be removed shortly if everything goes well.",
     "isIdle": true
   },
   "test-rackspace-win2012r2_vs2015-x64-2": {
@@ -1798,9 +1798,9 @@
     "diskUsage": 30,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Marked as offline after editing jobs not to use Win2012r2 machines anymore to see if something will break. Planned to be removed shortly if everything goes well.",
     "isIdle": true
   },
   "test-rackspace-win2012r2_vs2019-x64-1": {
@@ -1809,9 +1809,9 @@
     "diskUsage": 35,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Marked as offline after editing jobs not to use Win2012r2 machines anymore to see if something will break. Planned to be removed shortly if everything goes well.",
     "isIdle": true
   },
   "test-rackspace-win2012r2_vs2019-x64-2": {
@@ -1820,9 +1820,9 @@
     "diskUsage": 63,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Marked as offline after editing jobs not to use Win2012r2 machines anymore to see if something will break. Planned to be removed shortly if everything goes well.",
     "isIdle": true
   },
   "test-rackspace-win2016_vs2015-x64-1": {
@@ -1861,7 +1861,7 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1927,7 +1927,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 65,
+    "diskUsage": 52,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1949,7 +1949,7 @@
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 56,
+    "diskUsage": 54,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
