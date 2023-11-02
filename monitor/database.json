@@ -41,7 +41,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-4": {
     "name": "test-azure_msft-win11_vs2022-arm64-4",
@@ -90,7 +90,7 @@
   "test-azure_msft-win2016_vs2017-x64-2": {
     "name": "test-azure_msft-win2016_vs2017-x64-2",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -101,7 +101,7 @@
   "test-azure_msft-win2016_vs2017-x64-3": {
     "name": "test-azure_msft-win2016_vs2017-x64-3",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -261,7 +261,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora37-x64-1": {
     "name": "test-digitalocean-fedora37-x64-1",
@@ -316,7 +316,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -569,7 +569,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7",
@@ -998,7 +998,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1410,7 +1410,7 @@
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
     "description": "",
-    "diskUsage": 29,
+    "diskUsage": 27,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1498,7 +1498,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 89,
+    "diskUsage": 88,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1526,7 +1526,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1614,7 +1614,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
@@ -1691,7 +1691,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1817,7 +1817,7 @@
   "test-rackspace-win2012r2_vs2019-x64-2": {
     "name": "test-rackspace-win2012r2_vs2019-x64-2",
     "description": "Windows 2012 R2 on Rackspace with Visual Studio 2019",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "Windows Server 2012 R2 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1883,7 +1883,7 @@
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 46,
+    "diskUsage": 47,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1894,7 +1894,7 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 59,
+    "diskUsage": 57,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1916,35 +1916,35 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 42,
-    "architecture": "Windows Server 2022 (amd64)",
-    "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "test-rackspace-win2022_vs2022-x64-4": {
-    "name": "test-rackspace-win2022_vs2022-x64-4",
-    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 50,
-    "architecture": "Windows Server 2022 (amd64)",
-    "monitorVersion": "3107.v665000b_51092",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "test-rackspace-win2022_vs2022-x64-5": {
-    "name": "test-rackspace-win2022_vs2022-x64-5",
-    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
     "diskUsage": 48,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
+  },
+  "test-rackspace-win2022_vs2022-x64-4": {
+    "name": "test-rackspace-win2022_vs2022-x64-4",
+    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
+    "diskUsage": 60,
+    "architecture": "Windows Server 2022 (amd64)",
+    "monitorVersion": "3107.v665000b_51092",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-rackspace-win2022_vs2022-x64-5": {
+    "name": "test-rackspace-win2022_vs2022-x64-5",
+    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
+    "diskUsage": 54,
+    "architecture": "Windows Server 2022 (amd64)",
+    "monitorVersion": "3131.vf2b_b_798b_ce99",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
