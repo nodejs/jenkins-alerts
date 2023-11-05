@@ -241,8 +241,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-digitalocean-debian9-x64-1": {
-    "name": "test-digitalocean-debian9-x64-1",
+  "test-digitalocean-debian12-x64-1": {
+    "name": "test-digitalocean-debian12-x64-1",
     "description": "",
     "diskUsage": null,
     "architecture": null,
