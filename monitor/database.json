@@ -613,7 +613,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204-x64-2": {
     "name": "test-digitalocean-ubuntu2204-x64-2",
