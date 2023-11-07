@@ -20,7 +20,7 @@
 | [test-azure_msft-win2022_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-1) | ✅ **37%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-azure_msft-win2022_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-2) | ✅ **38%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-azure_msft-win2022_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-3) | ✅ **39%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
-| [test-azure_msft-win2022_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-4) | ✅ **37%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
+| [test-azure_msft-win2022_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win2022_vs2019-x64-4) | ✅ **34%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine315_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine315_container-x64-1) | ✅ **59%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine315_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine315_container-x64-2) | ✅ **51%** | Linux (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine318_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine318_container-x64-1) | ✅ **59%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -139,7 +139,7 @@
 | [test-nearform_intel-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-2) | ✅ **9%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-1) | ✅ **35%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ⚠️ **80%** | Mac OS X (x86_64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
+| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | 🔥 **88%** | Mac OS X (x86_64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | 🔥 **96%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **26%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ⚠️ **60%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -150,7 +150,7 @@
 | [test-osuosl-centos7_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-centos7_container-arm64-1) | ✅ **32%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-debian10_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-debian10_container-armv7l-1) | ✅ **32%** | Linux (arm) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **38%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **36%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **37%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-3) | ✅ **36%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **51%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **32%** | Linux (aarch64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -163,7 +163,7 @@
 | [test-rackspace-centos7-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-centos7-x64-1) | ✅ **45%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-rackspace-debian10-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian10-x64-1) | 🔥 **85%** | Linux (amd64) | N/A | 4.7 | ✅ **UP** | N/A |    
 | [test-rackspace-debian8-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian8-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-rackspace-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-fedora32-x64-1) | 🔥 **85%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
+| [test-rackspace-fedora32-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-fedora32-x64-1) | 🔥 **86%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu1604-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu1604-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-rackspace-ubuntu1604-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu1604-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-rackspace-win2012r2_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2012r2_vs2015-x64-1) | ✅ **30%** | Windows Server 2012 R2 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ❌ **DOWN** | 🔥 **Marked as offline after editing jobs not to use Win2012r2 machines anymore to see if something will break. Planned to be removed shortly if everything goes well.** |    
