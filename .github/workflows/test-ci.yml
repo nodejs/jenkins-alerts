@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Jenkins Alert and Reporting
-        uses: UlisesGascon/jenkins-status-alerts-and-reporting@v1.3.0
+        uses: UlisesGascon/jenkins-status-alerts-and-reporting@v1.4.0
         id: jenkins-status-alerts-and-reporting
         with:
           database: monitor/database.json
