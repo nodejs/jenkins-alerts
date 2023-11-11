@@ -1410,7 +1410,7 @@
   "test-nearform-macos11.0-arm64-1": {
     "name": "test-nearform-macos11.0-arm64-1",
     "description": "",
-    "diskUsage": 29,
+    "diskUsage": 28,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
