@@ -1102,7 +1102,7 @@
   "test-ibm-rhel8-s390x-1": {
     "name": "test-ibm-rhel8-s390x-1",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 25,
+    "diskUsage": 22,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 52,
+    "diskUsage": 51,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
