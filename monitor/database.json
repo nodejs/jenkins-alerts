@@ -1960,7 +1960,7 @@
   "test-rzkh-ibmi73-ppc64_be-1": {
     "name": "test-rzkh-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 23,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
