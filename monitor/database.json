@@ -167,13 +167,13 @@
   "test-azure_msft-win2022_vs2019-x64-3": {
     "name": "test-azure_msft-win2022_vs2019-x64-3",
     "description": "Windows Server 2022 on Azure with Visual Studio 2019",
-    "diskUsage": 39,
+    "diskUsage": 40,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win2022_vs2019-x64-4": {
     "name": "test-azure_msft-win2022_vs2019-x64-4",
@@ -189,7 +189,7 @@
   "test-digitalocean-alpine315_container-x64-1": {
     "name": "test-digitalocean-alpine315_container-x64-1",
     "description": "Docker container running on test-digitalocean-ubuntu1604_docker-x64-1 in /home/iojs/test-digitalocean-alpine315_container-x64-1",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -200,18 +200,18 @@
   "test-digitalocean-alpine315_container-x64-2": {
     "name": "test-digitalocean-alpine315_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine315_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-alpine318_container-x64-1": {
     "name": "test-digitalocean-alpine318_container-x64-1",
     "description": "Docker container running on test-digitalocean-ubuntu1604_docker-x64-1 in /home/iojs/test-digitalocean-alpine318_container-x64-1",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -222,7 +222,7 @@
   "test-digitalocean-alpine318_container-x64-2": {
     "name": "test-digitalocean-alpine318_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine318_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -261,7 +261,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora37-x64-1": {
     "name": "test-digitalocean-fedora37-x64-1",
@@ -316,7 +316,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -332,7 +332,7 @@
   "test-digitalocean-rhel8_arm_cross_container-x64-1": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-1",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-rhel8_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -343,7 +343,7 @@
   "test-digitalocean-rhel8_arm_cross_container-x64-2": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-rhel8_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -354,7 +354,7 @@
   "test-digitalocean-ubi81_container-x64-1": {
     "name": "test-digitalocean-ubi81_container-x64-1",
     "description": "Docker container running Universal Base Image 8.1 on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubi81_container-x64-1",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -365,7 +365,7 @@
   "test-digitalocean-ubi81_container-x64-2": {
     "name": "test-digitalocean-ubi81_container-x64-2",
     "description": "Docker container running Universal Base Image 8.1 on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubi81_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -431,7 +431,7 @@
   "test-digitalocean-ubuntu1804_arm_cross_container-x64-1": {
     "name": "test-digitalocean-ubuntu1804_arm_cross_container-x64-1",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -442,7 +442,7 @@
   "test-digitalocean-ubuntu1804_arm_cross_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -453,7 +453,7 @@
   "test-digitalocean-ubuntu1804_container-x64-1": {
     "name": "test-digitalocean-ubuntu1804_container-x64-1",
     "description": "Docker container running on test-digitalocean-ubuntu1604_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_container-x64-1",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -464,7 +464,7 @@
   "test-digitalocean-ubuntu1804_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1604_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -475,7 +475,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-1": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-1",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-1",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -486,29 +486,29 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-3",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-3",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -519,18 +519,18 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-4",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-5",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-5",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -541,7 +541,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-6",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-6",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -552,7 +552,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-7",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-7",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -563,18 +563,18 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-8": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-8",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-8",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-9",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-1 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-9",
-    "diskUsage": 67,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -833,7 +833,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix-ubuntu2004_container-armv7l-1": {
     "name": "test-equinix-ubuntu2004_container-armv7l-1",
@@ -910,7 +910,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-6",
@@ -976,7 +976,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix_mnx-smartos20-x64-4": {
     "name": "test-equinix_mnx-smartos20-x64-4",
@@ -998,7 +998,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1355,7 +1355,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1498,13 +1498,13 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 81,
+    "diskUsage": 96,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
@@ -1537,7 +1537,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1625,7 +1625,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
@@ -1702,7 +1702,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
@@ -1746,12 +1746,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-debian11-x64-1": {
     "name": "test-rackspace-debian11-x64-1",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1845,7 +1845,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2016_vs2015-x64-2": {
     "name": "test-rackspace-win2016_vs2015-x64-2",
@@ -1856,12 +1856,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-1": {
     "name": "test-rackspace-win2019_vs2019-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1911,7 +1911,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
@@ -1922,7 +1922,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
@@ -1933,7 +1933,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
@@ -1955,7 +1955,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
