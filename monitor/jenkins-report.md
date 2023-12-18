@@ -175,7 +175,7 @@
 | [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **44%** | Windows Server 2019 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **47%** | Windows Server 2019 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ✅ **49%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ⚠️ **61%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ⚠️ **60%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ✅ **43%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ✅ **59%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ✅ **46%** | Windows Server 2022 (amd64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
