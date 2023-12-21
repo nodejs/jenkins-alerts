@@ -90,7 +90,7 @@
   "test-azure_msft-win2016_vs2017-x64-2": {
     "name": "test-azure_msft-win2016_vs2017-x64-2",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1861,7 +1861,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 75,
+    "diskUsage": 62,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
