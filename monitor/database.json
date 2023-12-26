@@ -387,7 +387,7 @@
   "test-digitalocean-freebsd12-x64-1": {
     "name": "test-digitalocean-freebsd12-x64-1",
     "description": "",
-    "diskUsage": 51,
+    "diskUsage": 38,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -987,7 +987,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
@@ -1262,7 +1262,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1586,7 +1586,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 68,
+    "diskUsage": 67,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1911,7 +1911,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
