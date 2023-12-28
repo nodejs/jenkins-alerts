@@ -1993,7 +1993,7 @@
   "test-softlayer-centos7-x64-1": {
     "name": "test-softlayer-centos7-x64-1",
     "description": "CentOS 7 64-bit",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
