@@ -211,7 +211,7 @@
   "test-azure_msft-win2016_vs2017-x64-5": {
     "name": "test-azure_msft-win2016_vs2017-x64-5",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 29,
+    "diskUsage": 28,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1564,7 +1564,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 99,
+    "diskUsage": 84,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1817,7 +1817,7 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 86,
+    "diskUsage": 87,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
