@@ -1410,7 +1410,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 53,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1817,7 +1817,7 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 79,
+    "diskUsage": 80,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
