@@ -122,7 +122,7 @@
 | [test-iinthecloud-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-1) | ✅ **53%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-iinthecloud-ibmi73-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-2) | ✅ **34%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-joyent-ubuntu1604_arm_cross-x64-1](https://ci.nodejs.org/manage/computer/test-joyent-ubuntu1604_arm_cross-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **19%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
+| [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [test-macstadium-macos11.0-arm64-3](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-3) | 🔥 **87%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-macstadium-macos11.0-arm64-4](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-4) | ✅ **58%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-marist-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-marist-zos24-s390x-1) | ✅ **14%** | z/OS (s390x) | N/A | 4.13.3 | ✅ **UP** | N/A |    
@@ -131,7 +131,7 @@
 | [test-nearform-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-2) | ⚠️ **66%** | Mac OS X (x86_64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-nearform-macos10.15-x64-3](https://ci.nodejs.org/manage/computer/test-nearform-macos10.15-x64-3) | ✅ **57%** | Mac OS X (x86_64) | N/A | 4.13.3 | ❌ **DOWN** | N/A |    
 | [test-nearform-macos11.0-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform-macos11.0-arm64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
-| [test-nearform_arm-win10_vs2019-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-1) | ✅ **35%** | Windows 11 (amd64) | N/A | 3160.vd76b_9ddd10cc | ❌ **DOWN** | 🔥 **Connection was broken** |    
+| [test-nearform_arm-win10_vs2019-arm64-1](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [test-nearform_arm-win10_vs2019-arm64-2](https://ci.nodejs.org/manage/computer/test-nearform_arm-win10_vs2019-arm64-2) | ✅ **38%** | Windows 11 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-1) | ✅ **16%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-2) | ✅ **10%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -139,7 +139,7 @@
 | [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | 🔥 **100%** | Mac OS X (x86_64) | N/A | 3131.vf2b_b_798b_ce99 | ❌ **DOWN** | 🔥 **Disk space is too low. Only 0.094GB left on /Users/iojs/build.** |    
 | [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | 🔥 **100%** | Mac OS X (x86_64) | N/A | 3107.v665000b_51092 | ❌ **DOWN** | 🔥 **Disk space is too low. Only 0.063GB left on /Users/iojs/build.** |    
-| [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **27%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **29%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ⚠️ **70%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-4) | ✅ **49%** | AIX (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-centos7-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-centos7-ppc64_le-1) | ✅ **21%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -147,7 +147,7 @@
 | [test-osuosl-centos7-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-centos7-ppc64_le-3) | ✅ **17%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-centos7_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-centos7_container-arm64-1) | ✅ **30%** | Linux (aarch64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-debian11_container-armv7l-1) | ✅ **30%** | Linux (arm) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **40%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **39%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **38%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-3) | ✅ **43%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **55%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    

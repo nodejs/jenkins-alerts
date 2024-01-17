@@ -1300,12 +1300,12 @@
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
     "description": "Machine for nightly loongson test job",
-    "diskUsage": 19,
-    "architecture": "Linux (loongarch64)",
-    "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-macstadium-macos11.0-arm64-3": {
@@ -1399,9 +1399,9 @@
   "test-nearform_arm-win10_vs2019-arm64-1": {
     "name": "test-nearform_arm-win10_vs2019-arm64-1",
     "description": "[DEPRECATED] Windows 10 ARM64 with Visual Studio 2019\n\nHad these labels before removing them: win10-arm64 win10-vs2019-arm64 win10-arm64-COMPILED_BY-vs2019-arm64 win10-vs2019-arm64-COMPILED_BY-vs2019-arm64",
-    "diskUsage": 35,
-    "architecture": "Windows 11 (amd64)",
-    "monitorVersion": "3160.vd76b_9ddd10cc",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1487,7 +1487,7 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 27,
+    "diskUsage": 29,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1575,7 +1575,7 @@
   "test-osuosl-rhel8-ppc64_le-1": {
     "name": "test-osuosl-rhel8-ppc64_le-1",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 40,
+    "diskUsage": 39,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
