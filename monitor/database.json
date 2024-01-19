@@ -800,7 +800,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2004_container-armv7l-1": {
     "name": "test-equinix-ubuntu2004_container-armv7l-1",
@@ -899,7 +899,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
@@ -910,7 +910,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix_mnx-smartos18-x64-3": {
     "name": "test-equinix_mnx-smartos18-x64-3",
@@ -1174,7 +1174,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1424,20 +1424,20 @@
     "diskUsage": 16,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-nearform_intel-ubuntu2204-x64-2": {
     "name": "test-nearform_intel-ubuntu2204-x64-2",
     "description": "Hardware donated by Intel, July 2017, hosted by nearForm, Wildcat Pass 2U 8x3.5\" HDD 10Gbe Xeon DP v4 Server [more info @ https://github.com/nodejs/build/issues/791#issuecomment-316206973]",
-    "diskUsage": 10,
+    "diskUsage": 9,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-orka-macos10.15-x64-1": {
@@ -1482,7 +1482,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1669,7 +1669,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu2004_sharedlibs_container-arm64-1",
