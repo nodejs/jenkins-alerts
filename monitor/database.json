@@ -1311,7 +1311,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 86,
+    "diskUsage": 87,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 52,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-nearform_arm-win10_vs2019-arm64-2": {
     "name": "test-nearform_arm-win10_vs2019-arm64-2",
     "description": "[DEPRECATED] Windows 10 ARM64 with Visual Studio 2019\n\nHad these labels before removing them: win10-arm64 win10-vs2019-arm64 win10-arm64-COMPILED_BY-vs2019-arm64 win10-vs2019-arm64-COMPILED_BY-vs2019-arm64",
-    "diskUsage": 38,
+    "diskUsage": 37,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1465,7 +1465,7 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 82,
+    "diskUsage": 86,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1476,7 +1476,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 88,
+    "diskUsage": 89,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
