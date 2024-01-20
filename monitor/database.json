@@ -1058,7 +1058,7 @@
   "test-ibm-rhel7-s390x-4": {
     "name": "test-ibm-rhel7-s390x-4",
     "description": "RHEL7  running on s390x",
-    "diskUsage": 16,
+    "diskUsage": 17,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1311,7 +1311,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
