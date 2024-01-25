@@ -519,7 +519,7 @@
   "test-digitalocean-ubuntu2204-x64-1": {
     "name": "test-digitalocean-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 29,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
