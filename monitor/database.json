@@ -1168,7 +1168,7 @@
   "test-ibm-ubuntu1804-x64-1": {
     "name": "test-ibm-ubuntu1804-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 28,
+    "diskUsage": 27,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
