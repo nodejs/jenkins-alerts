@@ -103,7 +103,7 @@
 | [test-ibm-rhel7-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-4) | ✅ **16%** | Linux (s390x) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **23%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **28%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **54%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **55%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **27%** | Linux (s390x) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **32%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **26%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
@@ -177,7 +177,7 @@
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ✅ **55%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ✅ **52%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi73-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-softlayer-centos7-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-centos7-x64-1) | ✅ **57%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-softlayer-centos7-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-centos7-x64-1) | ✅ **58%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-softlayer-debian10-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-debian10-x64-1) | ⚠️ **76%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-softlayer-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-debian12-x64-1) | ✅ **36%** | Linux (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-softlayer-ubuntu1404-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-ubuntu1404-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
