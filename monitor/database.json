@@ -1498,7 +1498,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 73,
+    "diskUsage": 72,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
