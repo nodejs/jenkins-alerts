@@ -255,7 +255,7 @@
   "test-digitalocean-fedora32-x64-1": {
     "name": "test-digitalocean-fedora32-x64-1",
     "description": "",
-    "diskUsage": 56,
+    "diskUsage": 55,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1113,7 +1113,7 @@
   "test-ibm-rhel8-x64-1": {
     "name": "test-ibm-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 32,
+    "diskUsage": 33,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": true,
@@ -1168,7 +1168,7 @@
   "test-ibm-ubuntu1804-x64-1": {
     "name": "test-ibm-ubuntu1804-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 28,
+    "diskUsage": 27,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
