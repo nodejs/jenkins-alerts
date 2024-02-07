@@ -6,7 +6,7 @@
 | -- | -- | -- | -- | -- | -- | -- |
 | [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **43%** | Linux (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **41%** | Windows 10 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **40%** | Windows 10 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **39%** | Windows 10 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **38%** | Windows 10 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **39%** | Windows 10 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **4%** | Windows 11 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
@@ -170,7 +170,7 @@
 | [test-rackspace-win2019_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-2) | ✅ **58%** | Windows Server 2019 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **56%** | Windows Server 2019 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **52%** | Windows Server 2019 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ✅ **46%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ✅ **47%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ✅ **55%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ✅ **49%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ⚠️ **62%** | Windows Server 2022 (amd64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
