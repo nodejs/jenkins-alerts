@@ -409,7 +409,7 @@
   "test-digitalocean-ubuntu1804-x64-1": {
     "name": "test-digitalocean-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 58,
+    "diskUsage": 59,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
