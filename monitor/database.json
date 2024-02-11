@@ -1729,7 +1729,7 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 72,
+    "diskUsage": 71,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
