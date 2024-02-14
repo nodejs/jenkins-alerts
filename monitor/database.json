@@ -37,7 +37,7 @@
     "description": "Windows 10 with Visual Studio 2019",
     "diskUsage": 39,
     "architecture": "Windows 10 (amd64)",
-    "monitorVersion": "3160.vd76b_9ddd10cc",
+    "monitorVersion": null,
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
