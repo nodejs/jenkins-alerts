@@ -1174,7 +1174,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu1804-x64-2": {
     "name": "test-ibm-ubuntu1804-x64-2",
@@ -1311,7 +1311,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 85,
+    "diskUsage": 86,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1465,18 +1465,18 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 53,
+    "diskUsage": 50,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 74,
+    "diskUsage": 57,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
