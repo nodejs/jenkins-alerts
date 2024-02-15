@@ -1586,7 +1586,7 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 35,
+    "diskUsage": 36,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1691,7 +1691,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-centos7-x64-1": {
     "name": "test-rackspace-centos7-x64-1",
