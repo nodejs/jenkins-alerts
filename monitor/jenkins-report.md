@@ -138,9 +138,9 @@
 | [test-orka-macos10.15-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-1) | ✅ **32%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | ✅ **35%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ⚠️ **63%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | 🔥 **87%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ⚠️ **68%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **28%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ⚠️ **74%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ⚠️ **73%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-4) | ✅ **50%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-centos7-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-centos7-ppc64_le-1) | ✅ **21%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-osuosl-centos7-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-centos7-ppc64_le-2) | ✅ **17%** | Linux (ppc64le) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
