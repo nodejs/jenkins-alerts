@@ -607,7 +607,7 @@
   "test-equinix-centos7_container-arm64-2": {
     "name": "test-equinix-centos7_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -651,7 +651,7 @@
   "test-equinix-debian11_container-armv7l-2": {
     "name": "test-equinix-debian11_container-armv7l-2",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-3 in /home/iojs/test-equinix-debian11_container-armv7l-2",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (arm)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -673,7 +673,7 @@
   "test-equinix-rhel8_container-arm64-2": {
     "name": "test-equinix-rhel8_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -695,7 +695,7 @@
   "test-equinix-ubuntu1804_container-arm64-2": {
     "name": "test-equinix-ubuntu1804_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -739,7 +739,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-4": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-4",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -750,7 +750,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-5": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-5",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -761,7 +761,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-6",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -794,7 +794,7 @@
   "test-equinix-ubuntu2004_container-arm64-2": {
     "name": "test-equinix-ubuntu2004_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -816,7 +816,7 @@
   "test-equinix-ubuntu2004_container-armv7l-2": {
     "name": "test-equinix-ubuntu2004_container-armv7l-2",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-2 in /home/iojs/test-equinix-ubuntu2004_container-armv7l-2",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (arm)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -860,7 +860,7 @@
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-4": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-4",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -871,7 +871,7 @@
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-5": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-5",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -882,7 +882,7 @@
   "test-equinix-ubuntu2004_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu2004_sharedlibs_container-arm64-6",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 33,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1476,7 +1476,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 77,
+    "diskUsage": 82,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1487,7 +1487,7 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 29,
+    "diskUsage": 28,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1762,7 +1762,7 @@
   "test-rackspace-win2016_vs2015-x64-1": {
     "name": "test-rackspace-win2016_vs2015-x64-1",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": 32,
+    "diskUsage": 33,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1817,7 +1817,7 @@
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 53,
+    "diskUsage": 58,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1828,7 +1828,7 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 65,
+    "diskUsage": 53,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1839,7 +1839,7 @@
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 76,
+    "diskUsage": 61,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1861,7 +1861,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 61,
+    "diskUsage": 67,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1872,7 +1872,7 @@
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 68,
+    "diskUsage": 69,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
