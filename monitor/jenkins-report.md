@@ -136,9 +136,9 @@
 | [test-nearform_intel-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-1) | ✅ **16%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-2) | ✅ **10%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-1) | ✅ **40%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | ✅ **42%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ✅ **52%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ✅ **55%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | ✅ **44%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ✅ **50%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ✅ **56%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **28%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ⚠️ **75%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-4) | ✅ **50%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
