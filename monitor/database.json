@@ -1105,8 +1105,8 @@
     "diskUsage": 31,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
+    "isOffline": true,
+    "isTemporarilyOffline": true,
     "offlineCauseReason": "",
     "isIdle": true
   },
