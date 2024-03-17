@@ -288,7 +288,7 @@
   "test-digitalocean-fedora38-x64-2": {
     "name": "test-digitalocean-fedora38-x64-2",
     "description": "",
-    "diskUsage": 31,
+    "diskUsage": 32,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1168,7 +1168,7 @@
   "test-ibm-ubuntu1804-x64-1": {
     "name": "test-ibm-ubuntu1804-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1586,7 +1586,7 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 41,
+    "diskUsage": 38,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
