@@ -63,7 +63,7 @@
 | [test-equinix-centos7_sharedlibs_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-centos7_sharedlibs_container-arm64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-equinix-centos8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-centos8_container-arm64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-equinix-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-equinix-debian11_container-armv7l-1) | ✅ **47%** | Linux (arm) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-equinix-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-debian11_container-armv7l-2) | ✅ **39%** | Linux (arm) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-equinix-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-debian11_container-armv7l-2) | ✅ **36%** | Linux (arm) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-equinix-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-rhel8_container-arm64-1) | ✅ **47%** | Linux (aarch64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-equinix-rhel8_container-arm64-2](https://ci.nodejs.org/manage/computer/test-equinix-rhel8_container-arm64-2) | ✅ **39%** | Linux (aarch64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu1804_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu1804_container-arm64-1) | ✅ **47%** | Linux (aarch64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
@@ -78,7 +78,7 @@
 | [test-equinix-ubuntu2004_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-arm64-1) | ✅ **47%** | Linux (aarch64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_container-arm64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-arm64-2) | ✅ **39%** | Linux (aarch64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-armv7l-1) | ✅ **47%** | Linux (arm) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-equinix-ubuntu2004_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-armv7l-2) | ✅ **39%** | Linux (arm) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-equinix-ubuntu2004_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_container-armv7l-2) | ✅ **36%** | Linux (arm) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-1) | ✅ **47%** | Linux (aarch64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-2) | ✅ **47%** | Linux (aarch64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2004_sharedlibs_container-arm64-3](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2004_sharedlibs_container-arm64-3) | ✅ **47%** | Linux (aarch64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
@@ -137,8 +137,8 @@
 | [test-nearform_intel-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-1) | ✅ **16%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-nearform_intel-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-nearform_intel-ubuntu2204-x64-2) | ✅ **9%** | Linux (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-orka-macos10.15-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-1) | ✅ **39%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | ✅ **52%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
-| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ⚠️ **74%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-orka-macos10.15-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos10.15-x64-2) | ✅ **40%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
+| [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ⚠️ **73%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ⚠️ **80%** | Mac OS X (x86_64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **30%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ⚠️ **80%** | AIX (ppc64) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
