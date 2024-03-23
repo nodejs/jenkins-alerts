@@ -1476,18 +1476,18 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 78,
+    "diskUsage": 88,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 99,
+    "diskUsage": 80,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1740,13 +1740,13 @@
   "test-rackspace-fedora32-x64-1": {
     "name": "test-rackspace-fedora32-x64-1",
     "description": "",
-    "diskUsage": 84,
+    "diskUsage": 86,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-ubuntu1604-x64-1": {
     "name": "test-rackspace-ubuntu1604-x64-1",
@@ -1938,7 +1938,7 @@
   "test-softlayer-debian12-x64-1": {
     "name": "test-softlayer-debian12-x64-1",
     "description": "",
-    "diskUsage": 48,
+    "diskUsage": 49,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
