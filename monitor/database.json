@@ -1176,6 +1176,17 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
+  "test-ibm-rhel9-x64-1": {
+    "name": "test-ibm-rhel9-x64-1",
+    "description": "RHEL 9 running on x64",
+    "diskUsage": null,
+    "architecture": "Linux (amd64)",
+    "monitorVersion": "3206.vb_15dcf73f6a_9",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
   "test-ibm-ubi81_container-x64-1": {
     "name": "test-ibm-ubi81_container-x64-1",
     "description": "Docker container running Universal Base Image 8.1 on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubi81_container-x64-1",
