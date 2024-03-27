@@ -1509,7 +1509,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 98,
+    "diskUsage": 79,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1941,9 +1941,9 @@
     "diskUsage": 58,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Migrating https://github.com/nodejs/build/issues/3279",
     "isIdle": true
   },
   "test-softlayer-debian10-x64-1": {
