@@ -519,7 +519,7 @@
   "test-digitalocean-ubuntu2204-x64-1": {
     "name": "test-digitalocean-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1355,7 +1355,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 98,
+    "diskUsage": 91,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
