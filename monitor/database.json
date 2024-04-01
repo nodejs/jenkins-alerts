@@ -200,7 +200,7 @@
   "test-digitalocean-alpine315_container-x64-2": {
     "name": "test-digitalocean-alpine315_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine315_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -222,7 +222,7 @@
   "test-digitalocean-alpine318_container-x64-2": {
     "name": "test-digitalocean-alpine318_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine318_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -343,7 +343,7 @@
   "test-digitalocean-rhel8_arm_cross_container-x64-2": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-rhel8_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -365,7 +365,7 @@
   "test-digitalocean-ubi81_container-x64-2": {
     "name": "test-digitalocean-ubi81_container-x64-2",
     "description": "Docker container running Universal Base Image 8.1 on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubi81_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -420,7 +420,7 @@
   "test-digitalocean-ubuntu1804_arm_cross_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -431,7 +431,7 @@
   "test-digitalocean-ubuntu1804_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1604_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -442,7 +442,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-10",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -453,7 +453,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-2": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-2",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -464,7 +464,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-4",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-4",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -475,7 +475,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-6",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-6",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -486,7 +486,7 @@
   "test-digitalocean-ubuntu1804_sharedlibs_container-x64-8": {
     "name": "test-digitalocean-ubuntu1804_sharedlibs_container-x64-8",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu1804_sharedlibs_container-x64-8",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1526,7 +1526,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1548,7 +1548,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1872,13 +1872,13 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 48,
+    "diskUsage": 47,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
@@ -1894,24 +1894,24 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 69,
+    "diskUsage": 71,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
