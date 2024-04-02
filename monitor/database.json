@@ -530,7 +530,7 @@
   "test-digitalocean-ubuntu2204-x64-2": {
     "name": "test-digitalocean-ubuntu2204-x64-2",
     "description": "",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -959,7 +959,7 @@
   "test-equinix_mnx-ubuntu1804-x64-1": {
     "name": "test-equinix_mnx-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 12,
+    "diskUsage": 13,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1223,7 +1223,7 @@
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 69,
+    "diskUsage": 70,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1355,7 +1355,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 92,
+    "diskUsage": 93,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": true,
@@ -1402,9 +1402,9 @@
     "diskUsage": 75,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3615",
     "isIdle": true
   },
   "test-nearform-macos10.15-x64-2": {
@@ -1413,9 +1413,9 @@
     "diskUsage": 67,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "4.13.3",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3615",
     "isIdle": true
   },
   "test-nearform-macos10.15-x64-3": {
@@ -1426,7 +1426,7 @@
     "monitorVersion": "4.13.3",
     "isOffline": true,
     "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3615",
     "isIdle": true
   },
   "test-nearform-macos11.0-arm64-1": {
@@ -1436,8 +1436,8 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3615",
     "isIdle": true
   },
   "test-nearform_arm-win10_vs2019-arm64-1": {
@@ -1447,8 +1447,8 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3615",
     "isIdle": true
   },
   "test-nearform_arm-win10_vs2019-arm64-2": {
@@ -1458,8 +1458,8 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "https://github.com/nodejs/build/issues/3615",
     "isIdle": true
   },
   "test-nearform_intel-ubuntu2204-x64-1": {
