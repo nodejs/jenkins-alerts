@@ -1355,7 +1355,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 93,
+    "diskUsage": 94,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": true,
@@ -1960,7 +1960,7 @@
   "test-softlayer-debian12-x64-1": {
     "name": "test-softlayer-debian12-x64-1",
     "description": "",
-    "diskUsage": 53,
+    "diskUsage": 54,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
