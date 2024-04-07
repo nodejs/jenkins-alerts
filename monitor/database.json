@@ -1586,7 +1586,7 @@
   "test-osuosl-centos7-ppc64_le-3": {
     "name": "test-osuosl-centos7-ppc64_le-3",
     "description": "centos 7 running on powerpc le",
-    "diskUsage": 18,
+    "diskUsage": 17,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
