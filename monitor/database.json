@@ -354,13 +354,13 @@
   "test-digitalocean-rhel9-x64-1": {
     "name": "test-digitalocean-rhel9-x64-1",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 11,
+    "diskUsage": 12,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubi81_container-x64-1": {
     "name": "test-digitalocean-ubi81_container-x64-1",
