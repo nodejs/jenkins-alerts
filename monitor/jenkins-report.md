@@ -45,7 +45,7 @@
 | [test-digitalocean-ubuntu2004_docker-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2004_docker-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu2004_docker-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2004_docker-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204-x64-1) | ✅ **33%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204-x64-2) | ✅ **29%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204-x64-2) | ✅ **30%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-1) | ✅ **43%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-10](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-10) | ✅ **38%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-2) | ✅ **38%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
