@@ -102,7 +102,7 @@
 | [test-ibm-rhel7-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-3) | ✅ **16%** | Linux (s390x) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-ibm-rhel7-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel7-s390x-4) | ✅ **16%** | Linux (s390x) | N/A | 3160.vd76b_9ddd10cc | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **34%** | Linux (s390x) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **55%** | Linux (s390x) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **31%** | Linux (s390x) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **59%** | Linux (s390x) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **39%** | Linux (s390x) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
