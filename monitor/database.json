@@ -1028,9 +1028,9 @@
     "diskUsage": 16,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel7-s390x-2": {
@@ -1039,9 +1039,9 @@
     "diskUsage": 16,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel7-s390x-3": {
@@ -1050,9 +1050,9 @@
     "diskUsage": 16,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel7-s390x-4": {
@@ -1061,9 +1061,9 @@
     "diskUsage": 16,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-1": {
@@ -1072,9 +1072,9 @@
     "diskUsage": 34,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-2": {
@@ -1083,9 +1083,9 @@
     "diskUsage": 30,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-3": {
@@ -1094,9 +1094,9 @@
     "diskUsage": 60,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-4": {
@@ -1105,9 +1105,9 @@
     "diskUsage": 39,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-ibm-rhel8-x64-1": {
@@ -1289,7 +1289,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
