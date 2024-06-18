@@ -1300,7 +1300,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-2",
     "description": "",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 97,
+    "diskUsage": 90,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
