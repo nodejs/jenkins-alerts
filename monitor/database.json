@@ -156,7 +156,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 50,
+    "diskUsage": 49,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -877,7 +877,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204-x64-2": {
     "name": "test-equinix-ubuntu2204-x64-2",
@@ -937,7 +937,7 @@
   "test-equinix_mnx-ubuntu1804-x64-1": {
     "name": "test-equinix_mnx-ubuntu1804-x64-1",
     "description": "",
-    "diskUsage": 12,
+    "diskUsage": 13,
     "architecture": "Linux (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -948,7 +948,7 @@
   "test-hetzner-ubuntu2204-x64-1": {
     "name": "test-hetzner-ubuntu2204-x64-1",
     "description": "Performance machines hosted at Hetzner managed by Linux IT",
-    "diskUsage": 17,
+    "diskUsage": 15,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1124,7 +1124,7 @@
   "test-ibm-rhel8-x64-2": {
     "name": "test-ibm-rhel8-x64-2",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 34,
+    "diskUsage": 35,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1190,7 +1190,7 @@
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 99,
+    "diskUsage": 97,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1322,13 +1322,13 @@
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
     "description": "Machine for nightly loongson test job",
-    "diskUsage": 23,
-    "architecture": "Linux (loongarch64)",
-    "monitorVersion": "3131.vf2b_b_798b_ce99",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
+    "offlineCauseReason": "Connection was broken",
+    "isIdle": true
   },
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
@@ -1410,10 +1410,10 @@
   "test-mnx-smartos23-x64-2": {
     "name": "test-mnx-smartos23-x64-2",
     "description": "",
-    "diskUsage": 7,
-    "architecture": "SunOS (amd64)",
-    "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1425,8 +1425,8 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Installing. Not yet ready",
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-2": {
@@ -1436,8 +1436,8 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Installing, not yet ready",
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-orka-macos10.15-x64-1": {
@@ -1476,13 +1476,13 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 82,
+    "diskUsage": 85,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
