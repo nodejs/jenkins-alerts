@@ -871,7 +871,7 @@
   "test-equinix-ubuntu2204-x64-1": {
     "name": "test-equinix-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 72,
+    "diskUsage": 71,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1218,7 +1218,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
@@ -1300,7 +1300,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-2",
     "description": "",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1322,13 +1322,13 @@
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
     "description": "Machine for nightly loongson test job",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (loongarch64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
