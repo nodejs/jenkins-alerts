@@ -1346,10 +1346,10 @@
     "description": "",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": "4.13.3",
-    "isOffline": true,
+    "monitorVersion": null,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-marist-zos24-s390x-1": {
