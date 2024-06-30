@@ -1346,7 +1346,7 @@
     "description": "",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": null,
+    "monitorVersion": "4.13.3",
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
