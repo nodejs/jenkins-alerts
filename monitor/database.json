@@ -1344,8 +1344,8 @@
   "test-macstadium-macos11.0-arm64-4": {
     "name": "test-macstadium-macos11.0-arm64-4",
     "description": "",
-    "diskUsage": 90,
-    "architecture": "Mac OS X (aarch64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
