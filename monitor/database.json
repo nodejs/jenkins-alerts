@@ -1135,7 +1135,7 @@
   "test-ibm-rhel8-x64-3": {
     "name": "test-ibm-rhel8-x64-3",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1347,9 +1347,9 @@
     "diskUsage": null,
     "architecture": null,
     "monitorVersion": null,
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-marist-zos24-s390x-1": {
