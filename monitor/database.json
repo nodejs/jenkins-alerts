@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 51,
+    "diskUsage": 50,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1289,7 +1289,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 55,
+    "diskUsage": 54,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1347,9 +1347,9 @@
     "diskUsage": null,
     "architecture": null,
     "monitorVersion": null,
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-marist-zos24-s390x-1": {
@@ -1696,7 +1696,7 @@
   "test-rackspace-centos7-x64-1": {
     "name": "test-rackspace-centos7-x64-1",
     "description": "",
-    "diskUsage": 40,
+    "diskUsage": 39,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
