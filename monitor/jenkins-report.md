@@ -52,7 +52,7 @@
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-2) | ✅ **39%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-3](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-3) | ✅ **42%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-4](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-4) | ✅ **39%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2204_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-5) | ✅ **42%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2204_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-5) | ✅ **41%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-6](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-6) | ✅ **39%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-7](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-7) | ✅ **42%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2204_sharedlibs_container-x64-8](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2204_sharedlibs_container-x64-8) | ✅ **39%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
@@ -91,7 +91,7 @@
 | [test-equinix_mnx-ubuntu1804-x64-1](https://ci.nodejs.org/manage/computer/test-equinix_mnx-ubuntu1804-x64-1) | ✅ **13%** | Linux (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-1) | ✅ **17%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-2) | ✅ **17%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | 🔥 **87%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
+| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ✅ **28%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **12%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ❌ **DOWN** | 🔥 **https://github.com/nodejs/build/issues/3571** |    
 | [test-ibm-aix73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-ibm-alpine318_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine318_container-x64-1) | ✅ **32%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
