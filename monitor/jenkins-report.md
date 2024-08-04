@@ -124,7 +124,7 @@
 | [test-linuxonecc-rhel9-s390x-4](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-4) | ✅ **14%** | Linux (s390x) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **25%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-macstadium-macos11.0-arm64-3](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-3) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-macstadium-macos11.0-arm64-4](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-4) | 🔥 **91%** | Mac OS X (aarch64) | N/A | N/A | ✅ **UP** | N/A |    
+| [test-macstadium-macos11.0-arm64-4](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-4) | N/A | N/A | N/A | N/A | ✅ **UP** | N/A |    
 | [test-mnx-smartos21-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-smartos21-x64-1) | ✅ **3%** | SunOS (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-mnx-smartos21-x64-2](https://ci.nodejs.org/manage/computer/test-mnx-smartos21-x64-2) | ✅ **3%** | SunOS (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-mnx-smartos23-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-1) | ✅ **4%** | SunOS (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
