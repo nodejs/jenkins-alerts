@@ -899,7 +899,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix_mnx-smartos20-x64-4": {
     "name": "test-equinix_mnx-smartos20-x64-4",
@@ -1383,7 +1383,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
