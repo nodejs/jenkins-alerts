@@ -1460,7 +1460,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1834,7 +1834,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rzkh-ibmi73-ppc64_be-1": {
     "name": "test-rzkh-ibmi73-ppc64_be-1",
