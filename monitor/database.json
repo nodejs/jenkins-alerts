@@ -1432,7 +1432,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 99,
+    "diskUsage": 79,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1531,7 +1531,7 @@
   "test-osuosl-rhel8-ppc64_le-4": {
     "name": "test-osuosl-rhel8-ppc64_le-4",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 58,
+    "diskUsage": 59,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
