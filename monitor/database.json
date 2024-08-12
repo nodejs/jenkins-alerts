@@ -1740,8 +1740,8 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 53,
+    "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
