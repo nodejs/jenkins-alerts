@@ -77,7 +77,7 @@
 | [test-equinix-ubuntu2204_container-arm64-7](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204_container-arm64-7) | ⚠️ **70%** | Linux (aarch64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2204_container-arm64-8](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204_container-arm64-8) | ⚠️ **66%** | Linux (aarch64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-equinix-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204_container-armv7l-1) | ⚠️ **70%** | Linux (arm) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-equinix-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204_container-armv7l-2) | ⚠️ **66%** | Linux (arm) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-equinix-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-equinix-ubuntu2204_container-armv7l-2) | ⚠️ **68%** | Linux (arm) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos18-x64-3](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos18-x64-3) | ✅ **10%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos18-x64-4](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos18-x64-4) | ✅ **9%** | SunOS (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-equinix_mnx-smartos20-x64-3](https://ci.nodejs.org/manage/computer/test-equinix_mnx-smartos20-x64-3) | ✅ **30%** | SunOS (amd64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
