@@ -30,7 +30,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
@@ -1179,7 +1179,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1256,7 +1256,7 @@
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
     "description": "Machine for nightly loongson test job",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (loongarch64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,

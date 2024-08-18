@@ -111,14 +111,14 @@
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-4](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-4) | ✅ **32%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-5) | ✅ **32%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-ibm-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-zos24-s390x-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-iinthecloud-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-1) | ✅ **50%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
+| [test-iinthecloud-ibmi73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-1) | ✅ **51%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-iinthecloud-ibmi73-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi73-ppc64_be-2) | ✅ **40%** | OS400 (ppc64) | N/A | 3107.v665000b_51092 | ✅ **UP** | N/A |    
 | [test-joyent-ubuntu1604_arm_cross-x64-1](https://ci.nodejs.org/manage/computer/test-joyent-ubuntu1604_arm_cross-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-linuxonecc-rhel9-s390x-1](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-1) | ✅ **18%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **14%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-3](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-3) | ✅ **15%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-4](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-4) | ✅ **15%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **25%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
+| [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **24%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
 | [test-macstadium-macos11.0-arm64-3](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-3) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-macstadium-macos11.0-arm64-4](https://ci.nodejs.org/manage/computer/test-macstadium-macos11.0-arm64-4) | 🔥 **92%** | Mac OS X (aarch64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-mnx-smartos20220407-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-smartos20220407-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
