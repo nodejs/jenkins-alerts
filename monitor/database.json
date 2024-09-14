@@ -1179,7 +1179,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 52,
+    "diskUsage": 55,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1735,7 +1735,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
@@ -1757,18 +1757,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 83,
+    "diskUsage": 78,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
