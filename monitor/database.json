@@ -35,7 +35,7 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 42,
+    "diskUsage": 43,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -118,7 +118,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-6": {
     "name": "test-azure_msft-win11_vs2022-arm64-6",
@@ -167,7 +167,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 44,
+    "diskUsage": 45,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1108,7 +1108,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
@@ -1443,8 +1443,8 @@
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-debian11_container-armv7l-1",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (arm)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1498,8 +1498,8 @@
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-rhel8_container-arm64-1",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1542,8 +1542,8 @@
   "test-osuosl-ubuntu1804_container-arm64-1": {
     "name": "test-osuosl-ubuntu1804_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu1804_container-arm64-1",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1553,8 +1553,8 @@
   "test-osuosl-ubuntu1804_sharedlibs_container-arm64-1": {
     "name": "test-osuosl-ubuntu1804_sharedlibs_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu1804_sharedlibs_container-arm64-1",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1564,8 +1564,8 @@
   "test-osuosl-ubuntu2204_container-arm64-1": {
     "name": "test-osuosl-ubuntu2204_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-arm64-1",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1575,8 +1575,8 @@
   "test-osuosl-ubuntu2204_container-arm64-2": {
     "name": "test-osuosl-ubuntu2204_container-arm64-2",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-arm64-2",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1586,8 +1586,8 @@
   "test-osuosl-ubuntu2204_container-armv7l-1": {
     "name": "test-osuosl-ubuntu2204_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-armv7l-1",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 72,
+    "architecture": "Linux (arm)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1707,7 +1707,7 @@
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 48,
+    "diskUsage": 49,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
