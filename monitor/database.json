@@ -332,7 +332,7 @@
   "test-digitalocean-freebsd13-x64-1": {
     "name": "test-digitalocean-freebsd13-x64-1",
     "description": "",
-    "diskUsage": null,
+    "diskUsage": 6,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
@@ -1383,7 +1383,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-orka-macos10.15-x64-1": {
     "name": "test-orka-macos10.15-x64-1",
@@ -1707,18 +1707,18 @@
   "test-rackspace-win2019_vs2019-x64-1": {
     "name": "test-rackspace-win2019_vs2019-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 68,
+    "diskUsage": 61,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 59,
+    "diskUsage": 42,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1740,7 +1740,7 @@
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 42,
+    "diskUsage": 43,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
