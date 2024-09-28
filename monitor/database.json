@@ -332,13 +332,13 @@
   "test-digitalocean-freebsd13-x64-1": {
     "name": "test-digitalocean-freebsd13-x64-1",
     "description": "",
-    "diskUsage": 7,
+    "diskUsage": 6,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -849,7 +849,7 @@
   "test-equinix_mnx-smartos18-x64-4": {
     "name": "test-equinix_mnx-smartos18-x64-4",
     "description": "",
-    "diskUsage": 9,
+    "diskUsage": null,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
@@ -1372,7 +1372,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
