@@ -849,7 +849,7 @@
   "test-equinix_mnx-smartos18-x64-4": {
     "name": "test-equinix_mnx-smartos18-x64-4",
     "description": "",
-    "diskUsage": null,
+    "diskUsage": 9,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "4.13.3",
     "isOffline": false,
