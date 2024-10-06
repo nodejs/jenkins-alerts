@@ -4,7 +4,7 @@
 
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
-| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ⚠️ **61%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **48%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [smartos20220407-x64-2](https://ci.nodejs.org/manage/computer/smartos20220407-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **42%** | Windows 10 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **41%** | Windows 10 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
