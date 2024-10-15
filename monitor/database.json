@@ -1190,7 +1190,7 @@
   "test-iinthecloud-ibmi73-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi73-ppc64_be-1",
     "description": "",
-    "diskUsage": 51,
+    "diskUsage": 50,
     "architecture": "OS400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1847,6 +1847,17 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
+  "vm-lc2zq": {
+    "name": "vm-lc2zq",
+    "description": null,
+    "diskUsage": 34,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
   "vm-qj2dn": {
     "name": "vm-qj2dn",
     "description": null,
@@ -1856,6 +1867,17 @@
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
+    "isIdle": true
+  },
+  "vm-s4txn": {
+    "name": "vm-s4txn",
+    "description": null,
+    "diskUsage": 40,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "vm-tt5th": {
