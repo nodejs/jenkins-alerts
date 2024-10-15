@@ -1102,7 +1102,7 @@
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 75,
+    "diskUsage": 74,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 90,
+    "diskUsage": 69,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1421,7 +1421,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 61,
+    "diskUsage": 41,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1443,7 +1443,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 39,
+    "diskUsage": 38,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1853,9 +1853,9 @@
     "diskUsage": 29,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "vm-tt5th": {
@@ -1875,9 +1875,9 @@
     "diskUsage": 34,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   }
 }
