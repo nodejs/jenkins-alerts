@@ -30,7 +30,7 @@
 | [test-digitalocean-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian12-x64-1) | ✅ **42%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora39-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora39-x64-1) | ✅ **32%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora39-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora39-x64-2) | ✅ **29%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-digitalocean-fedora40-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-1) | ✅ **30%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
+| [test-digitalocean-fedora40-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-1) | ✅ **29%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora40-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-2) | ✅ **29%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-freebsd12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-1) | ⚠️ **66%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
 | [test-digitalocean-freebsd12-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd12-x64-2) | ⚠️ **69%** | FreeBSD (amd64) | N/A | 4.13.3 | ✅ **UP** | N/A |    
@@ -135,7 +135,7 @@
 | [test-orka-macos11-x64-1](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-1) | ⚠️ **78%** | Mac OS X (x86_64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-orka-macos11-x64-2](https://ci.nodejs.org/manage/computer/test-orka-macos11-x64-2) | ✅ **42%** | Mac OS X (x86_64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | ✅ **27%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ✅ **41%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
+| [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ✅ **40%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-4) | ⚠️ **61%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-osuosl-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-debian11_container-armv7l-1) | ✅ **46%** | Linux (arm) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **43%** | Linux (ppc64le) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
