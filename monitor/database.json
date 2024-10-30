@@ -789,7 +789,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204_container-arm64-7": {
     "name": "test-equinix-ubuntu2204_container-arm64-7",
