@@ -79,12 +79,12 @@
   "test-azure_msft-win11_vs2022-arm64-2": {
     "name": "test-azure_msft-win11_vs2022-arm64-2",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 5,
-    "architecture": "Windows 11 (amd64)",
-    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-3": {
@@ -167,7 +167,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -244,7 +244,7 @@
   "test-digitalocean-debian11-x64-1": {
     "name": "test-digitalocean-debian11-x64-1",
     "description": "",
-    "diskUsage": 45,
+    "diskUsage": 44,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1102,7 +1102,7 @@
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 77,
+    "diskUsage": 76,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1223,7 +1223,7 @@
   "test-linuxonecc-rhel9-s390x-1": {
     "name": "test-linuxonecc-rhel9-s390x-1",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": 20,
+    "diskUsage": 19,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1278,7 +1278,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 46,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1718,7 +1718,7 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 58,
+    "diskUsage": 59,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1784,7 +1784,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 71,
+    "diskUsage": 72,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
