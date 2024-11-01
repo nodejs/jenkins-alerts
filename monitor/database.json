@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
@@ -1273,7 +1273,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
@@ -1366,7 +1366,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 57,
+    "diskUsage": 56,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1498,7 +1498,7 @@
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 48,
+    "diskUsage": 49,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
