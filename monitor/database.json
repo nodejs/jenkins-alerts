@@ -343,13 +343,13 @@
   "test-digitalocean-freebsd13-x64-2": {
     "name": "test-digitalocean-freebsd13-x64-2",
     "description": "",
-    "diskUsage": 21,
+    "diskUsage": 22,
     "architecture": "FreeBSD (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204-x64-3": {
     "name": "test-ibm-ubuntu2204-x64-3",
