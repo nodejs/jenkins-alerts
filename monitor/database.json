@@ -992,7 +992,7 @@
   "test-ibm-rhel8-s390x-2": {
     "name": "test-ibm-rhel8-s390x-2",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 34,
+    "diskUsage": 29,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1498,7 +1498,7 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 39,
+    "diskUsage": 32,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1553,7 +1553,7 @@
   "test-osuosl-rhel9-ppc64_le-2": {
     "name": "test-osuosl-rhel9-ppc64_le-2",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 19,
+    "diskUsage": 18,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
