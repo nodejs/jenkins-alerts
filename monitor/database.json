@@ -211,7 +211,7 @@
   "test-digitalocean-alpine318_container-x64-2": {
     "name": "test-digitalocean-alpine318_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine318_container-x64-2",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -233,7 +233,7 @@
   "test-digitalocean-alpine319_container-x64-2": {
     "name": "test-digitalocean-alpine319_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-alpine319_container-x64-2",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -288,7 +288,7 @@
   "test-digitalocean-fedora40-x64-1": {
     "name": "test-digitalocean-fedora40-x64-1",
     "description": "",
-    "diskUsage": 29,
+    "diskUsage": 30,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -354,7 +354,7 @@
   "test-digitalocean-rhel8_arm_cross_container-x64-2": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-rhel8_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -387,7 +387,7 @@
   "test-digitalocean-rhel9_arm_cross_container-x64-2": {
     "name": "test-digitalocean-rhel9_arm_cross_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-rhel9_arm_cross_container-x64-2 (ARM cross compiler)",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -409,7 +409,7 @@
   "test-digitalocean-ubi81_container-x64-2": {
     "name": "test-digitalocean-ubi81_container-x64-2",
     "description": "Docker container running Universal Base Image 8.1 on test-digitalocean-ubuntu1804_docker-x64-2 in /home/iojs/test-digitalocean-ubi81_container-x64-2",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -464,13 +464,13 @@
   "test-digitalocean-ubuntu2204-x64-2": {
     "name": "test-digitalocean-ubuntu2204-x64-2",
     "description": "",
-    "diskUsage": 86,
+    "diskUsage": 31,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-1",
@@ -486,7 +486,7 @@
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-10": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-10",
     "description": "Docker container running on test-digitalocean-ubuntu2204_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu2204_sharedlibs_container-x64-10",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -497,7 +497,7 @@
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-2": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-2",
     "description": "Docker container running on test-digitalocean-ubuntu2204_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu2204_sharedlibs_container-x64-2",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -519,7 +519,7 @@
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4",
     "description": "Docker container running on test-digitalocean-ubuntu2204_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu2204_sharedlibs_container-x64-4",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -541,7 +541,7 @@
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6",
     "description": "Docker container running on test-digitalocean-ubuntu2204_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu2204_sharedlibs_container-x64-6",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -563,7 +563,7 @@
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-8": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-8",
     "description": "Docker container running on test-digitalocean-ubuntu2204_docker-x64-2 in /home/iojs/test-digitalocean-ubuntu2204_sharedlibs_container-x64-8",
-    "diskUsage": 50,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -585,7 +585,7 @@
   "test-equinix-debian11_container-armv7l-1": {
     "name": "test-equinix-debian11_container-armv7l-1",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-1 in /home/iojs/test-equinix-debian11_container-armv7l-1",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (arm)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -607,7 +607,7 @@
   "test-equinix-rhel8_container-arm64-1": {
     "name": "test-equinix-rhel8_container-arm64-1",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -629,7 +629,7 @@
   "test-equinix-ubuntu1804_container-arm64-1": {
     "name": "test-equinix-ubuntu1804_container-arm64-1",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -651,7 +651,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-1": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-1",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -662,7 +662,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-2": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -673,7 +673,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-3": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-3",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -717,7 +717,7 @@
   "test-equinix-ubuntu2204_container-arm64-1": {
     "name": "test-equinix-ubuntu2204_container-arm64-1",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -739,7 +739,7 @@
   "test-equinix-ubuntu2204_container-arm64-3": {
     "name": "test-equinix-ubuntu2204_container-arm64-3",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -761,7 +761,7 @@
   "test-equinix-ubuntu2204_container-arm64-5": {
     "name": "test-equinix-ubuntu2204_container-arm64-5",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -783,7 +783,7 @@
   "test-equinix-ubuntu2204_container-arm64-7": {
     "name": "test-equinix-ubuntu2204_container-arm64-7",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)\t\t\t",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -805,7 +805,7 @@
   "test-equinix-ubuntu2204_container-armv7l-1": {
     "name": "test-equinix-ubuntu2204_container-armv7l-1",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Linux (arm)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -849,7 +849,7 @@
   "test-equinix_mnx-smartos20-x64-3": {
     "name": "test-equinix_mnx-smartos20-x64-3",
     "description": "",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3107.v665000b_51092",
     "isOffline": false,
@@ -1025,13 +1025,13 @@
   "test-ibm-rhel8-x64-3": {
     "name": "test-ibm-rhel8-x64-3",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 56,
+    "diskUsage": 30,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-rhel8_arm_cross_container-x64-1": {
     "name": "test-ibm-rhel8_arm_cross_container-x64-1",
@@ -1058,7 +1058,7 @@
   "test-ibm-rhel9-x64-2": {
     "name": "test-ibm-rhel9-x64-2",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 48,
+    "diskUsage": 49,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1091,7 +1091,7 @@
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 75,
+    "diskUsage": 76,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1377,7 +1377,7 @@
   "test-orka-macos10.15-x64-1": {
     "name": "test-orka-macos10.15-x64-1",
     "description": "",
-    "diskUsage": 52,
+    "diskUsage": 62,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3160.vd76b_9ddd10cc",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 62,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1432,13 +1432,13 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 40,
+    "diskUsage": 42,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1542,7 +1542,7 @@
   "test-osuosl-rhel9-ppc64_le-3": {
     "name": "test-osuosl-rhel9-ppc64_le-3",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 18,
+    "diskUsage": 19,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1652,7 +1652,7 @@
   "test-rackspace-debian12-x64-1": {
     "name": "test-rackspace-debian12-x64-1",
     "description": "",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1740,7 +1740,7 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 65,
+    "diskUsage": 63,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1762,24 +1762,24 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 66,
+    "diskUsage": 62,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 56,
+    "diskUsage": 57,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
