@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 40,
+    "diskUsage": 38,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -35,23 +35,23 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 47,
+    "architecture": "Windows 10 (amd64)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 44,
+    "architecture": "Windows 10 (amd64)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-4": {
@@ -1795,12 +1795,12 @@
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 62,
-    "architecture": "Windows Server 2022 (amd64)",
-    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-rzkh-ibmi73-ppc64_be-1": {
