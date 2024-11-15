@@ -1520,7 +1520,7 @@
   "test-osuosl-rhel9-ppc64_le-1": {
     "name": "test-osuosl-rhel9-ppc64_le-1",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 17,
+    "diskUsage": 13,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
