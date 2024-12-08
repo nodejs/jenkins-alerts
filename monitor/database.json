@@ -145,7 +145,7 @@
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 49,
+    "diskUsage": 50,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -288,7 +288,7 @@
   "test-digitalocean-fedora41-x64-1": {
     "name": "test-digitalocean-fedora41-x64-1",
     "description": "",
-    "diskUsage": 14,
+    "diskUsage": 15,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1361,7 +1361,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1696,7 +1696,7 @@
   "test-rackspace-win2019_vs2019-x64-1": {
     "name": "test-rackspace-win2019_vs2019-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1707,7 +1707,7 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1729,7 +1729,7 @@
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 47,
+    "diskUsage": 48,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1740,7 +1740,7 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 55,
+    "diskUsage": 56,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1773,7 +1773,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 68,
+    "diskUsage": 69,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1795,7 +1795,7 @@
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 44,
+    "diskUsage": 45,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
