@@ -503,7 +503,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4",
@@ -525,7 +525,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6",
@@ -756,7 +756,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-6": {
     "name": "test-equinix-ubuntu2204_container-arm64-6",
@@ -1405,7 +1405,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
@@ -1449,7 +1449,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
@@ -1515,7 +1515,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu1804_container-arm64-1": {
     "name": "test-osuosl-ubuntu1804_container-arm64-1",
