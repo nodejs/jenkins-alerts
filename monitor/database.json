@@ -79,7 +79,7 @@
   "test-azure_msft-win11_vs2022-arm64-3": {
     "name": "test-azure_msft-win11_vs2022-arm64-3",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 3,
+    "diskUsage": 4,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -123,7 +123,7 @@
   "test-azure_msft-win11_vs2022-x64-1": {
     "name": "test-azure_msft-win11_vs2022-x64-1",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 54,
+    "diskUsage": 50,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1311,13 +1311,13 @@
   "test-mnx-smartos23-x64-5": {
     "name": "test-mnx-smartos23-x64-5",
     "description": "",
-    "diskUsage": 8,
+    "diskUsage": 9,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
@@ -1377,7 +1377,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 58,
+    "diskUsage": 60,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1630,7 +1630,7 @@
   "test-rackspace-ubuntu2204-x64-1": {
     "name": "test-rackspace-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 24,
+    "diskUsage": 23,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1663,7 +1663,7 @@
   "test-rackspace-win2019_vs2019-x64-1": {
     "name": "test-rackspace-win2019_vs2019-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 57,
+    "diskUsage": 54,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1795,7 +1795,7 @@
   "test-softlayer-debian12-x64-1": {
     "name": "test-softlayer-debian12-x64-1",
     "description": "",
-    "diskUsage": 91,
+    "diskUsage": 89,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
