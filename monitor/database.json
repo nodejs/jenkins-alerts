@@ -486,7 +486,7 @@
   "test-digitalocean-ubuntu2204-x64-1": {
     "name": "test-digitalocean-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -497,7 +497,7 @@
   "test-digitalocean-ubuntu2204-x64-2": {
     "name": "test-digitalocean-ubuntu2204-x64-2",
     "description": "",
-    "diskUsage": 30,
+    "diskUsage": 32,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -536,7 +536,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-3",
@@ -547,7 +547,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4",
@@ -558,7 +558,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-5",
@@ -569,7 +569,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6",
@@ -580,7 +580,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-7",
@@ -602,7 +602,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-9",
@@ -937,13 +937,13 @@
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "",
-    "diskUsage": 24,
+    "diskUsage": 28,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
@@ -951,9 +951,9 @@
     "diskUsage": 18,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "https://github.com/nodejs/build/issues/3571",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-1": {
@@ -993,9 +993,9 @@
     "name": "test-ibm-alpine320_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-alpine320_container-x64-1",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "architecture": "Linux (amd64)",
+    "monitorVersion": "3261.v9c670a_4748a_9",
+    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1004,9 +1004,9 @@
     "name": "test-ibm-alpine321_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-alpine321_container-x64-1",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "architecture": "Linux (amd64)",
+    "monitorVersion": "3261.v9c670a_4748a_9",
+    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1102,13 +1102,13 @@
   "test-ibm-rhel9-x64-1": {
     "name": "test-ibm-rhel9-x64-1",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 75,
+    "diskUsage": 82,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
+    "isOffline": false,
+    "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-rhel9-x64-2": {
     "name": "test-ibm-rhel9-x64-2",
@@ -1141,12 +1141,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 78,
+    "diskUsage": 76,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1160,8 +1160,8 @@
     "diskUsage": 19,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
+    "isOffline": true,
+    "isTemporarilyOffline": true,
     "offlineCauseReason": "",
     "isIdle": false
   },
@@ -1185,7 +1185,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-3": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-3",
@@ -1196,7 +1196,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-4": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-4",
@@ -1207,7 +1207,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-5": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-5",
@@ -1300,13 +1300,13 @@
   "test-linuxonecc-rhel9-s390x-4": {
     "name": "test-linuxonecc-rhel9-s390x-4",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": 18,
+    "diskUsage": 20,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
@@ -1322,7 +1322,7 @@
   "test-macstadium-macos11.0-arm64-3": {
     "name": "test-macstadium-macos11.0-arm64-3",
     "description": "",
-    "diskUsage": 87,
+    "diskUsage": 80,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1432,7 +1432,7 @@
   "test-orka-macos11-x64-1": {
     "name": "test-orka-macos11-x64-1",
     "description": "",
-    "diskUsage": 81,
+    "diskUsage": 70,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1443,7 +1443,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 75,
+    "diskUsage": 68,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1556,8 +1556,8 @@
     "diskUsage": 18,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
+    "isOffline": false,
+    "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
   },
@@ -1575,13 +1575,13 @@
   "test-osuosl-rhel9-ppc64_le-3": {
     "name": "test-osuosl-rhel9-ppc64_le-3",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 19,
+    "diskUsage": 21,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-ubuntu1804_container-arm64-1": {
     "name": "test-osuosl-ubuntu1804_container-arm64-1",
@@ -1680,7 +1680,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2016_vs2015-x64-1": {
     "name": "test-rackspace-win2016_vs2015-x64-1",
@@ -1713,7 +1713,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
@@ -1724,18 +1724,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 49,
+    "diskUsage": 50,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1773,13 +1773,13 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
@@ -1828,12 +1828,12 @@
   "test-softlayer-debian12-x64-1": {
     "name": "test-softlayer-debian12-x64-1",
     "description": "",
-    "diskUsage": 88,
+    "diskUsage": 95,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
+    "isOffline": false,
+    "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   }
 }
