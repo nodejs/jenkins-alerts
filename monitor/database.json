@@ -1245,7 +1245,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-2",
     "description": "",
-    "diskUsage": 44,
+    "diskUsage": 45,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
