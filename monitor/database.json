@@ -1344,7 +1344,7 @@
   "test-mnx-smartos22-x64-1": {
     "name": "test-mnx-smartos22-x64-1",
     "description": "",
-    "diskUsage": 20,
+    "diskUsage": 14,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1355,7 +1355,7 @@
   "test-mnx-smartos22-x64-2": {
     "name": "test-mnx-smartos22-x64-2",
     "description": "",
-    "diskUsage": 17,
+    "diskUsage": 13,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1366,7 +1366,7 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 15,
+    "diskUsage": 11,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1377,7 +1377,7 @@
   "test-mnx-smartos23-x64-5": {
     "name": "test-mnx-smartos23-x64-5",
     "description": "",
-    "diskUsage": 17,
+    "diskUsage": 11,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
