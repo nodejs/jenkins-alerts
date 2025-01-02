@@ -1652,7 +1652,7 @@
   "test-rackspace-debian11-x64-1": {
     "name": "test-rackspace-debian11-x64-1",
     "description": "",
-    "diskUsage": 52,
+    "diskUsage": 51,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
