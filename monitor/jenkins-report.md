@@ -15,10 +15,10 @@
 | [test-azure_msft-win11_vs2022-arm64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-4) | ✅ **4%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-5](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-5) | ✅ **4%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-6](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-6) | ✅ **4%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-1) | ✅ **49%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-1) | ✅ **50%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-2) | ✅ **53%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-3) | ✅ **55%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-4) | ✅ **57%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-3) | ✅ **56%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-4) | ✅ **58%** | Windows 11 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-azure_msft-win2016_vs2017-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-1) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-azure_msft-win2016_vs2017-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-2) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine318_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine318_container-x64-1) | ✅ **56%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
@@ -120,7 +120,7 @@
 | [test-iinthecloud-ibmi74-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-2) | ✅ **45%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-joyent-ubuntu1604_arm_cross-x64-1](https://ci.nodejs.org/manage/computer/test-joyent-ubuntu1604_arm_cross-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-linuxonecc-rhel9-s390x-1](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-1) | ✅ **24%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **19%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **20%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-3](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-3) | ✅ **24%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-4](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-4) | ✅ **23%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **25%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
