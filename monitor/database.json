@@ -27,9 +27,9 @@
     "diskUsage": 45,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-3": {
@@ -49,9 +49,9 @@
     "diskUsage": 44,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-1": {
@@ -756,7 +756,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204_container-arm64-2": {
     "name": "test-equinix-ubuntu2204_container-arm64-2",
@@ -1399,7 +1399,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 81,
+    "diskUsage": 60,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
