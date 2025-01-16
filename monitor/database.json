@@ -169,7 +169,7 @@
     "description": "Windows 2016 on Azure with Visual Studio 2017",
     "diskUsage": 33,
     "architecture": "Windows Server 2016 (amd64)",
-    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
@@ -178,9 +178,9 @@
   "test-azure_msft-win2016_vs2017-x64-2": {
     "name": "test-azure_msft-win2016_vs2017-x64-2",
     "description": "Windows 2016 on Azure with Visual Studio 2017",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Windows Server 2016 (amd64)",
-    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
@@ -970,12 +970,12 @@
   "test-ibm-rhel8-s390x-1": {
     "name": "test-ibm-rhel8-s390x-1",
     "description": "RHEL8 running on s390x",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 34,
+    "architecture": "Linux (s390x)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-2": {
@@ -992,12 +992,12 @@
   "test-ibm-rhel8-s390x-3": {
     "name": "test-ibm-rhel8-s390x-3",
     "description": "RHEL8 running on s390x",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 41,
+    "architecture": "Linux (s390x)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-4": {
@@ -1234,12 +1234,12 @@
   "test-linuxonecc-rhel9-s390x-2": {
     "name": "test-linuxonecc-rhel9-s390x-2",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 19,
+    "architecture": "Linux (s390x)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-linuxonecc-rhel9-s390x-3": {
@@ -1256,12 +1256,12 @@
   "test-linuxonecc-rhel9-s390x-4": {
     "name": "test-linuxonecc-rhel9-s390x-4",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 24,
+    "architecture": "Linux (s390x)",
+    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-loongson-clfs_loong64-1": {
