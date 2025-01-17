@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 43,
+    "diskUsage": 44,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
@@ -156,7 +156,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 55,
+    "diskUsage": 60,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
@@ -1311,7 +1311,7 @@
   "test-mnx-smartos22-x64-2": {
     "name": "test-mnx-smartos22-x64-2",
     "description": "",
-    "diskUsage": 20,
+    "diskUsage": 18,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 17,
+    "diskUsage": 15,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1333,7 +1333,7 @@
   "test-mnx-smartos23-x64-5": {
     "name": "test-mnx-smartos23-x64-5",
     "description": "",
-    "diskUsage": 18,
+    "diskUsage": 17,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1399,7 +1399,7 @@
   "test-orka-macos11-x64-2": {
     "name": "test-orka-macos11-x64-2",
     "description": "",
-    "diskUsage": 81,
+    "diskUsage": 60,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1685,7 +1685,7 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
