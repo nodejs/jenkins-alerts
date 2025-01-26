@@ -1311,7 +1311,7 @@
   "test-mnx-smartos22-x64-2": {
     "name": "test-mnx-smartos22-x64-2",
     "description": "",
-    "diskUsage": 21,
+    "diskUsage": 22,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
