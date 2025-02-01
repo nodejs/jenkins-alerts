@@ -112,7 +112,7 @@
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-4](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-4) | ✅ **35%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-5) | ✅ **35%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-ibm-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-zos24-s390x-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-iinthecloud-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-1) | ⚠️ **64%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-iinthecloud-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-1) | ⚠️ **65%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-iinthecloud-ibmi74-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-2) | ✅ **43%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-joyent-ubuntu1604_arm_cross-x64-1](https://ci.nodejs.org/manage/computer/test-joyent-ubuntu1604_arm_cross-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-linuxonecc-rhel9-s390x-1](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-1) | ✅ **25%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
@@ -169,7 +169,7 @@
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-softlayer-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-debian12-x64-1) | 🔥 **100%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ❌ **DOWN** | 🔥 **Disk space is below threshold of 204.80 MiB. Only 43.14 MiB out of 23.59 GiB left on /home/iojs/build.** |    
 | [vm-4z8s5](https://ci.nodejs.org/manage/computer/vm-4z8s5) | ✅ **46%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [vm-cn7q6](https://ci.nodejs.org/manage/computer/vm-cn7q6) | ✅ **57%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [vm-cn7q6](https://ci.nodejs.org/manage/computer/vm-cn7q6) | ✅ **39%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [vm-jbbmk](https://ci.nodejs.org/manage/computer/vm-jbbmk) | ✅ **45%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [vm-tl5th](https://ci.nodejs.org/manage/computer/vm-tl5th) | ✅ **38%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 
