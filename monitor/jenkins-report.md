@@ -160,18 +160,18 @@
 | [test-rackspace-win2019_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-2) | ✅ **56%** | Windows Server 2019 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **49%** | Windows Server 2019 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **51%** | Windows Server 2019 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ⚠️ **74%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ⚠️ **67%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ⚠️ **74%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ⚠️ **78%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | 🔥 **85%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ⚠️ **68%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ⚠️ **70%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ⚠️ **65%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ⚠️ **76%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ⚠️ **77%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ⚠️ **84%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ⚠️ **69%** | Windows Server 2022 (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-softlayer-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-debian12-x64-1) | N/A | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ❌ **DOWN** | 🔥 **Disk space is below threshold of 204.80 MiB. Only 43.14 MiB out of 23.59 GiB left on /home/iojs/build.** |    
 | [vm-8vdtn](https://ci.nodejs.org/manage/computer/vm-8vdtn) | ✅ **43%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [vm-cn7q6](https://ci.nodejs.org/manage/computer/vm-cn7q6) | ✅ **46%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [vm-jbbmk](https://ci.nodejs.org/manage/computer/vm-jbbmk) | ⚠️ **70%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
-| [vm-jmb2t](https://ci.nodejs.org/manage/computer/vm-jmb2t) | ⚠️ **74%** | Mac OS X (aarch64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [vm-cn7q6](https://ci.nodejs.org/manage/computer/vm-cn7q6) | ✅ **45%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [vm-jbbmk](https://ci.nodejs.org/manage/computer/vm-jbbmk) | ✅ **48%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [vm-jmb2t](https://ci.nodejs.org/manage/computer/vm-jmb2t) | ✅ **56%** | Mac OS X (aarch64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [vm-r8dhn](https://ci.nodejs.org/manage/computer/vm-r8dhn) | ✅ **56%** | Mac OS X (aarch64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [vm-wtknr](https://ci.nodejs.org/manage/computer/vm-wtknr) | ✅ **46%** | Mac OS X (x86_64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 
