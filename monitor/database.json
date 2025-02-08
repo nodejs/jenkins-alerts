@@ -1736,38 +1736,5 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
-  },
-  "vm-8vdtn": {
-    "name": "vm-8vdtn",
-    "description": null,
-    "diskUsage": 45,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-bcpq4": {
-    "name": "vm-bcpq4",
-    "description": null,
-    "diskUsage": 47,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-mplzt": {
-    "name": "vm-mplzt",
-    "description": null,
-    "diskUsage": 55,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
   }
 }
