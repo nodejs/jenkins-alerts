@@ -1740,7 +1740,7 @@
   "vm-jkb9c": {
     "name": "vm-jkb9c",
     "description": null,
-    "diskUsage": 64,
+    "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1751,23 +1751,23 @@
   "vm-jq5ff": {
     "name": "vm-jq5ff",
     "description": null,
-    "diskUsage": 48,
+    "diskUsage": 65,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "vm-k82v2": {
     "name": "vm-k82v2",
     "description": null,
-    "diskUsage": 50,
+    "diskUsage": 47,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   }
 }
