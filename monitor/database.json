@@ -1740,7 +1740,7 @@
   "vm-2wql4": {
     "name": "vm-2wql4",
     "description": null,
-    "diskUsage": 54,
+    "diskUsage": 67,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1751,18 +1751,7 @@
   "vm-gm8h6": {
     "name": "vm-gm8h6",
     "description": null,
-    "diskUsage": 46,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-q7f5x": {
-    "name": "vm-q7f5x",
-    "description": null,
-    "diskUsage": 61,
+    "diskUsage": 56,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
