@@ -1410,7 +1410,7 @@
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 49,
+    "diskUsage": 50,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1736,16 +1736,5 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
-  },
-  "vm-ftl9c": {
-    "name": "vm-ftl9c",
-    "description": null,
-    "diskUsage": 66,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
   }
 }
