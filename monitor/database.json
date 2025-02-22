@@ -1740,12 +1740,12 @@
   "vm-csbw2": {
     "name": "vm-csbw2",
     "description": null,
-    "diskUsage": 48,
+    "diskUsage": 67,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   }
 }
