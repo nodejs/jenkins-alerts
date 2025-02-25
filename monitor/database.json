@@ -90,7 +90,7 @@
   "test-azure_msft-win11_vs2022-arm64-4": {
     "name": "test-azure_msft-win11_vs2022-arm64-4",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 4,
+    "diskUsage": 5,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -995,9 +995,9 @@
     "diskUsage": 41,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Increasing swap",
     "isIdle": true
   },
   "test-ibm-rhel8-s390x-4": {
@@ -1413,9 +1413,9 @@
     "diskUsage": 49,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Increasing swap",
     "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-4": {
@@ -1740,7 +1740,7 @@
   "vm-6f966": {
     "name": "vm-6f966",
     "description": null,
-    "diskUsage": 62,
+    "diskUsage": 53,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1751,7 +1751,7 @@
   "vm-7t8z7": {
     "name": "vm-7t8z7",
     "description": null,
-    "diskUsage": 57,
+    "diskUsage": 68,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1762,12 +1762,12 @@
   "vm-rqzqk": {
     "name": "vm-rqzqk",
     "description": null,
-    "diskUsage": 49,
+    "diskUsage": 68,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   }
 }
