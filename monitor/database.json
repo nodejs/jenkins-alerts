@@ -46,7 +46,7 @@
   "test-azure_msft-win10_vs2019-x64-4": {
     "name": "test-azure_msft-win10_vs2019-x64-4",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 47,
+    "diskUsage": 46,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -156,7 +156,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 53,
+    "diskUsage": 52,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -321,7 +321,7 @@
   "test-digitalocean-fedora41-x64-1": {
     "name": "test-digitalocean-fedora41-x64-1",
     "description": "",
-    "diskUsage": 22,
+    "diskUsage": 23,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1190,7 +1190,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 65,
+    "diskUsage": 66,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1674,18 +1674,18 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 69,
+    "diskUsage": 59,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 91,
+    "diskUsage": 90,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
