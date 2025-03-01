@@ -904,7 +904,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 21,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1278,7 +1278,7 @@
   "test-mnx-smartos22-x64-1": {
     "name": "test-mnx-smartos22-x64-1",
     "description": "",
-    "diskUsage": 26,
+    "diskUsage": 22,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1289,7 +1289,7 @@
   "test-mnx-smartos22-x64-2": {
     "name": "test-mnx-smartos22-x64-2",
     "description": "",
-    "diskUsage": 22,
+    "diskUsage": 21,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1300,7 +1300,7 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 17,
+    "diskUsage": 15,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1311,7 +1311,7 @@
   "test-mnx-smartos23-x64-5": {
     "name": "test-mnx-smartos23-x64-5",
     "description": "",
-    "diskUsage": 22,
+    "diskUsage": 18,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1333,7 +1333,7 @@
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
     "description": "jenkins-workspace",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 52,
+    "diskUsage": 49,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
