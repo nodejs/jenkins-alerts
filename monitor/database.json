@@ -756,7 +756,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-equinix-ubuntu2204_container-arm64-2": {
     "name": "test-equinix-ubuntu2204_container-arm64-2",
@@ -1355,7 +1355,7 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 46,
+    "diskUsage": 45,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1736,16 +1736,5 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
-  },
-  "vm-hjj7g": {
-    "name": "vm-hjj7g",
-    "description": null,
-    "diskUsage": 53,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
   }
 }
