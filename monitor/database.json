@@ -310,7 +310,7 @@
   "test-digitalocean-fedora40-x64-2": {
     "name": "test-digitalocean-fedora40-x64-2",
     "description": "",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -426,7 +426,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubi81_container-x64-1": {
     "name": "test-digitalocean-ubi81_container-x64-1",
@@ -904,7 +904,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 29,
+    "diskUsage": 28,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 27,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1652,18 +1652,18 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 82,
+    "diskUsage": 86,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 70,
+    "diskUsage": 73,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1674,28 +1674,6 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 73,
-    "architecture": "Windows Server 2022 (amd64)",
-    "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "test-rackspace-win2022_vs2022-x64-4": {
-    "name": "test-rackspace-win2022_vs2022-x64-4",
-    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 72,
-    "architecture": "Windows Server 2022 (amd64)",
-    "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "test-rackspace-win2022_vs2022-x64-5": {
-    "name": "test-rackspace-win2022_vs2022-x64-5",
-    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
     "diskUsage": 84,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
@@ -1704,16 +1682,38 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-rackspace-win2022_vs2022-x64-6": {
-    "name": "test-rackspace-win2022_vs2022-x64-6",
+  "test-rackspace-win2022_vs2022-x64-4": {
+    "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 72,
+    "diskUsage": 69,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "test-rackspace-win2022_vs2022-x64-5": {
+    "name": "test-rackspace-win2022_vs2022-x64-5",
+    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
+    "diskUsage": 73,
+    "architecture": "Windows Server 2022 (amd64)",
+    "monitorVersion": "3283.v92c105e0f819",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": false
+  },
+  "test-rackspace-win2022_vs2022-x64-6": {
+    "name": "test-rackspace-win2022_vs2022-x64-6",
+    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
+    "diskUsage": 85,
+    "architecture": "Windows Server 2022 (amd64)",
+    "monitorVersion": "3261.v9c670a_4748a_9",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
   },
   "test-rzkh-ibmi74-ppc64_be-1": {
     "name": "test-rzkh-ibmi74-ppc64_be-1",
@@ -1737,10 +1737,21 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
+  "vm-ct944": {
+    "name": "vm-ct944",
+    "description": null,
+    "diskUsage": 46,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3283.v92c105e0f819",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
   "vm-dffnb": {
     "name": "vm-dffnb",
     "description": null,
-    "diskUsage": 49,
+    "diskUsage": 55,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1751,7 +1762,7 @@
   "vm-xkq69": {
     "name": "vm-xkq69",
     "description": null,
-    "diskUsage": 49,
+    "diskUsage": 55,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
