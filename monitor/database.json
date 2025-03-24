@@ -1625,7 +1625,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
@@ -1680,7 +1680,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
@@ -1737,8 +1737,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-h2vqp": {
-    "name": "vm-h2vqp",
+  "vm-4nxhf": {
+    "name": "vm-4nxhf",
     "description": null,
     "diskUsage": 53,
     "architecture": "Mac OS X (aarch64)",
@@ -1748,8 +1748,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-hrjxk": {
-    "name": "vm-hrjxk",
+  "vm-p4dzh": {
+    "name": "vm-p4dzh",
     "description": null,
     "diskUsage": 47,
     "architecture": "Mac OS X (x86_64)",
