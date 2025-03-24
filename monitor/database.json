@@ -522,9 +522,9 @@
     "diskUsage": 63,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-2": {
@@ -544,9 +544,9 @@
     "diskUsage": 72,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-4": {
@@ -555,9 +555,9 @@
     "diskUsage": 63,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-5": {
@@ -566,9 +566,9 @@
     "diskUsage": 72,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-6": {
@@ -577,9 +577,9 @@
     "diskUsage": 63,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-7": {
@@ -599,9 +599,9 @@
     "diskUsage": 63,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-9": {
@@ -610,9 +610,9 @@
     "diskUsage": 72,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-equinix-debian11_container-armv7l-1": {
@@ -643,9 +643,9 @@
     "diskUsage": 39,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-equinix-rhel8_container-arm64-2": {
@@ -797,9 +797,9 @@
     "diskUsage": 39,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-6": {
@@ -841,9 +841,9 @@
     "diskUsage": 39,
     "architecture": "Linux (arm)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-armv7l-2": {
@@ -1006,9 +1006,9 @@
     "diskUsage": 27,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-ibm-rhel8-x64-1": {
@@ -1094,9 +1094,9 @@
     "diskUsage": 44,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-ibm-ubuntu2204-x64-1": {
@@ -1127,9 +1127,9 @@
     "diskUsage": 44,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-2": {
@@ -1138,9 +1138,9 @@
     "diskUsage": 44,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-3": {
@@ -1149,9 +1149,9 @@
     "diskUsage": 44,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-4": {
@@ -1226,9 +1226,9 @@
     "diskUsage": 25,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-linuxonecc-rhel9-s390x-2": {
@@ -1281,9 +1281,9 @@
     "diskUsage": 23,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-mnx-smartos22-x64-2": {
@@ -1314,9 +1314,9 @@
     "diskUsage": 18,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-1": {
@@ -1347,9 +1347,9 @@
     "diskUsage": 29,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-3": {
@@ -1402,9 +1402,9 @@
     "diskUsage": 35,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-3": {
@@ -1468,9 +1468,9 @@
     "diskUsage": 25,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-osuosl-rhel9-ppc64_le-4": {
@@ -1523,9 +1523,9 @@
     "diskUsage": 32,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-osuosl-ubuntu2204_container-armv7l-1": {
@@ -1578,9 +1578,9 @@
     "diskUsage": 27,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
     "isIdle": true
   },
   "test-rackspace-win2016_vs2015-x64-1": {
