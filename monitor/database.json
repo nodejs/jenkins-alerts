@@ -57,7 +57,7 @@
   "test-azure_msft-win11_vs2022-arm64-1": {
     "name": "test-azure_msft-win11_vs2022-arm64-1",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 3,
+    "diskUsage": 4,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1275,17 +1275,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-mnx-smartos22-x64-1": {
-    "name": "test-mnx-smartos22-x64-1",
-    "description": "",
-    "diskUsage": 20,
-    "architecture": "SunOS (amd64)",
-    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
-    "isIdle": true
-  },
   "test-mnx-smartos22-x64-2": {
     "name": "test-mnx-smartos22-x64-2",
     "description": "",
@@ -1301,9 +1290,9 @@
     "name": "test-mnx-smartos22-x64-3",
     "description": "",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "architecture": "SunOS (amd64)",
+    "monitorVersion": "3283.v92c105e0f819",
+    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1636,7 +1625,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
@@ -1691,7 +1680,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
@@ -1748,22 +1737,22 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-sq7dm": {
-    "name": "vm-sq7dm",
+  "vm-8b6h2": {
+    "name": "vm-8b6h2",
     "description": null,
-    "diskUsage": 46,
-    "architecture": "Mac OS X (x86_64)",
+    "diskUsage": 53,
+    "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-svwg4": {
-    "name": "vm-svwg4",
+  "vm-9j27g": {
+    "name": "vm-9j27g",
     "description": null,
-    "diskUsage": 53,
-    "architecture": "Mac OS X (aarch64)",
+    "diskUsage": 47,
+    "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
