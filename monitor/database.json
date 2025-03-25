@@ -8,7 +8,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
@@ -1319,24 +1319,13 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-mnx-smartos23-x64-5": {
-    "name": "test-mnx-smartos23-x64-5",
-    "description": "",
-    "diskUsage": 17,
-    "architecture": "SunOS (amd64)",
-    "monitorVersion": "3248.3250.v3277a_8e88c9b_",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
-    "isIdle": true
-  },
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
     "description": "",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "architecture": "SunOS (amd64)",
+    "monitorVersion": "3283.v92c105e0f819",
+    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1344,7 +1333,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 59,
+    "diskUsage": 58,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1729,7 +1718,7 @@
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 75,
+    "diskUsage": 76,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
