@@ -4,7 +4,7 @@
 
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
-| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **39%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
+| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **38%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **46%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **45%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **46%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
@@ -159,7 +159,7 @@
 | [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ⚠️ **72%** | Windows Server 2022 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ⚠️ **67%** | Windows Server 2022 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ⚠️ **66%** | Windows Server 2022 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ⚠️ **83%** | Windows Server 2022 (amd64) | N/A | 3283.v92c105e0f819 | ❌ **DOWN** | 🔥 **Investigating Windows-specific issues only reproducible in the CI** |    
+| [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ⚠️ **84%** | Windows Server 2022 (amd64) | N/A | 3283.v92c105e0f819 | ❌ **DOWN** | 🔥 **Investigating Windows-specific issues only reproducible in the CI** |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-softlayer-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-softlayer-debian12-x64-1) | ⚠️ **77%** | Linux (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 
