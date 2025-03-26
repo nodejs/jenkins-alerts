@@ -1619,13 +1619,13 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 48,
+    "diskUsage": 47,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
@@ -1674,13 +1674,13 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 72,
+    "diskUsage": 73,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
@@ -1737,10 +1737,10 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-459k6": {
-    "name": "vm-459k6",
+  "vm-j6q9h": {
+    "name": "vm-j6q9h",
     "description": null,
-    "diskUsage": 53,
+    "diskUsage": 52,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1748,8 +1748,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-8kg66": {
-    "name": "vm-8kg66",
+  "vm-x2569": {
+    "name": "vm-x2569",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
