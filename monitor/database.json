@@ -332,7 +332,7 @@
   "test-digitalocean-fedora41-x64-2": {
     "name": "test-digitalocean-fedora41-x64-2",
     "description": "",
-    "diskUsage": 24,
+    "diskUsage": 23,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
