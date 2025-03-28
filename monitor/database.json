@@ -332,7 +332,7 @@
   "test-digitalocean-fedora41-x64-2": {
     "name": "test-digitalocean-fedora41-x64-2",
     "description": "",
-    "diskUsage": 23,
+    "diskUsage": 24,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1278,7 +1278,7 @@
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
     "description": "",
-    "diskUsage": 4,
+    "diskUsage": 5,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1339,7 +1339,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1443,7 +1443,7 @@
   "test-osuosl-rhel9-ppc64_le-1": {
     "name": "test-osuosl-rhel9-ppc64_le-1",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 14,
+    "diskUsage": 13,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
@@ -1625,7 +1625,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
@@ -1732,28 +1732,6 @@
     "diskUsage": 77,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-547tb": {
-    "name": "vm-547tb",
-    "description": null,
-    "diskUsage": 46,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-nkj5w": {
-    "name": "vm-nkj5w",
-    "description": null,
-    "diskUsage": 52,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
