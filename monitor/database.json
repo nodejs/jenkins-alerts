@@ -134,7 +134,7 @@
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
