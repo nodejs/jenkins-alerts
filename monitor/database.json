@@ -123,7 +123,7 @@
   "test-azure_msft-win11_vs2022-x64-1": {
     "name": "test-azure_msft-win11_vs2022-x64-1",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 50,
+    "diskUsage": 49,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
@@ -310,7 +310,7 @@
   "test-digitalocean-fedora40-x64-2": {
     "name": "test-digitalocean-fedora40-x64-2",
     "description": "",
-    "diskUsage": 32,
+    "diskUsage": 31,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -904,7 +904,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 32,
+    "diskUsage": 31,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1223,7 +1223,7 @@
   "test-linuxonecc-rhel9-s390x-1": {
     "name": "test-linuxonecc-rhel9-s390x-1",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": 20,
+    "diskUsage": 19,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1740,7 +1740,7 @@
   "vm-rn44z": {
     "name": "vm-rn44z",
     "description": null,
-    "diskUsage": 67,
+    "diskUsage": 52,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
