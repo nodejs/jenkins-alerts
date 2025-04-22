@@ -6,7 +6,7 @@
 | -- | -- | -- | -- | -- | -- | -- |
 | [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **49%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **49%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **44%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **46%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **46%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **46%** | Windows 10 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **3%** | Windows 11 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
@@ -40,7 +40,7 @@
 | [test-digitalocean-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8-x64-1) | ⚠️ **77%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel8_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-digitalocean-rhel9-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9-x64-1) | ✅ **27%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-digitalocean-rhel9-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9-x64-1) | ✅ **26%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel9_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel9_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
