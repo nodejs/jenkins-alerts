@@ -877,7 +877,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-hetzner-ubuntu2204-x64-2": {
     "name": "test-hetzner-ubuntu2204-x64-2",
@@ -1322,7 +1322,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 67,
+    "diskUsage": 64,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1575,7 +1575,7 @@
   "test-rackspace-ubuntu2204-x64-1": {
     "name": "test-rackspace-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 20,
+    "diskUsage": 19,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
