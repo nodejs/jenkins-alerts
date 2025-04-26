@@ -29,7 +29,7 @@
 | [test-digitalocean-alpine320_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine320_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine321_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine321_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-digitalocean-alpine321_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine321_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-digitalocean-debian11-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian11-x64-1) | ✅ **35%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-digitalocean-debian11-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian11-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian12-x64-1) | ✅ **28%** | Linux (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora40-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora40-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-2) | ✅ **32%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
@@ -104,7 +104,7 @@
 | [test-ibm-rhel9-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel9-x64-2) | ⚠️ **69%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-ibm-rhel9_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel9_arm_cross_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-ibm-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubi81_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-ibm-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204-x64-1) | ⚠️ **81%** | Linux (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
+| [test-ibm-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204-x64-1) | ⚠️ **80%** | Linux (amd64) | N/A | 3261.v9c670a_4748a_9 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204-x64-3) | ✅ **26%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-2) | ✅ **34%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
