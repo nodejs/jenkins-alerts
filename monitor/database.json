@@ -904,7 +904,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 33,
+    "diskUsage": 32,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1229,7 +1229,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-linuxonecc-rhel9-s390x-2": {
     "name": "test-linuxonecc-rhel9-s390x-2",
@@ -1284,7 +1284,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-smartos22-x64-4": {
     "name": "test-mnx-smartos22-x64-4",
@@ -1339,7 +1339,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1619,13 +1619,13 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
@@ -1737,8 +1737,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-wnxcs": {
-    "name": "vm-wnxcs",
+  "vm-sl8n4": {
+    "name": "vm-sl8n4",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
@@ -1746,6 +1746,17 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
+  },
+  "vm-tqn2q": {
+    "name": "vm-tqn2q",
+    "description": null,
+    "diskUsage": 53,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3301.v4363ddcca_4e7",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
