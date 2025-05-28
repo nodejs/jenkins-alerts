@@ -976,7 +976,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-rhel8-s390x-2": {
     "name": "test-ibm-rhel8-s390x-2",
@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
@@ -1229,7 +1229,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-linuxonecc-rhel9-s390x-2": {
     "name": "test-linuxonecc-rhel9-s390x-2",
@@ -1322,7 +1322,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 66,
+    "diskUsage": 65,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
