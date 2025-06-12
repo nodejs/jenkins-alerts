@@ -35,7 +35,7 @@
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 47,
+    "diskUsage": 48,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -1190,13 +1190,13 @@
   "test-iinthecloud-ibmi74-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-2",
     "description": "",
-    "diskUsage": 54,
+    "diskUsage": 52,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-joyent-ubuntu1604_arm_cross-x64-1": {
     "name": "test-joyent-ubuntu1604_arm_cross-x64-1",
@@ -1328,7 +1328,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1388,7 +1388,7 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 36,
+    "diskUsage": 35,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,

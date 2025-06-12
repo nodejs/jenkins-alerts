@@ -7,7 +7,7 @@
 | [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **51%** | Linux (amd64) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **51%** | Windows 10 (amd64) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **47%** | Windows 10 (amd64) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **47%** | Windows 10 (amd64) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **48%** | Windows 10 (amd64) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **4%** | Windows 11 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-2) | ✅ **6%** | Windows 11 (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
@@ -112,7 +112,7 @@
 | [test-ibm-ubuntu2204_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204_sharedlibs_container-x64-5) | ✅ **35%** | Linux (amd64) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-ibm-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-zos24-s390x-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-iinthecloud-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-1) | ⚠️ **78%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ❌ **DOWN** | 🔥 **disable this node to test building on another to see if we still have the timeouts** |    
-| [test-iinthecloud-ibmi74-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-2) | ✅ **54%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-iinthecloud-ibmi74-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-2) | ✅ **52%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-joyent-ubuntu1604_arm_cross-x64-1](https://ci.nodejs.org/manage/computer/test-joyent-ubuntu1604_arm_cross-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-linuxonecc-rhel9-s390x-1](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-1) | ✅ **25%** | Linux (s390x) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **26%** | Linux (s390x) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
@@ -130,7 +130,7 @@
 | [test-osuosl-aix72-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-4) | 🔥 **85%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-osuosl-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-debian11_container-armv7l-1) | ✅ **32%** | Linux (arm) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **52%** | Linux (ppc64le) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **36%** | Linux (ppc64le) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **35%** | Linux (ppc64le) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-3) | ✅ **52%** | Linux (ppc64le) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **52%** | Linux (ppc64le) | N/A | 3301.v4363ddcca_4e7 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **32%** | Linux (aarch64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
