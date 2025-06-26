@@ -1262,12 +1262,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
     "description": "",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1317,7 +1317,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1361,7 +1361,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
