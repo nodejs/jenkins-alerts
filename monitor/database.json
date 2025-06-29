@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 51,
+    "diskUsage": 48,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -1108,7 +1108,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
