@@ -33,7 +33,7 @@
 | [test-digitalocean-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian12-x64-1) | ✅ **30%** | Linux (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora40-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora40-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora40-x64-2) | ✅ **32%** | Linux (amd64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
-| [test-digitalocean-fedora41-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora41-x64-1) | ✅ **24%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-digitalocean-fedora41-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora41-x64-1) | ✅ **23%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora41-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora41-x64-2) | ✅ **24%** | Linux (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-freebsd13-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd13-x64-1) | ✅ **36%** | FreeBSD (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-digitalocean-freebsd13-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-freebsd13-x64-2) | ✅ **31%** | FreeBSD (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
