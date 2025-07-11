@@ -272,7 +272,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-debian11-x64-1": {
     "name": "test-digitalocean-debian11-x64-1",
@@ -316,7 +316,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-fedora41-x64-1": {
     "name": "test-digitalocean-fedora41-x64-1",
@@ -327,7 +327,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-fedora41-x64-2": {
     "name": "test-digitalocean-fedora41-x64-2",
@@ -943,7 +943,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-alpine321_container-x64-1": {
     "name": "test-ibm-alpine321_container-x64-1",
@@ -1003,13 +1003,13 @@
   "test-ibm-rhel8-x64-1": {
     "name": "test-ibm-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 30,
+    "diskUsage": 29,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-rhel8-x64-2": {
     "name": "test-ibm-rhel8-x64-2",
@@ -1058,13 +1058,13 @@
   "test-ibm-rhel9-x64-2": {
     "name": "test-ibm-rhel9-x64-2",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 71,
+    "diskUsage": 67,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-rhel9_arm_cross_container-x64-1": {
     "name": "test-ibm-rhel9_arm_cross_container-x64-1",
@@ -1091,13 +1091,13 @@
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
     "description": "",
-    "diskUsage": 88,
+    "diskUsage": 84,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204-x64-3": {
     "name": "test-ibm-ubuntu2204-x64-3",
@@ -1317,7 +1317,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1328,7 +1328,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1553,13 +1553,13 @@
   "test-rackspace-debian12-x64-1": {
     "name": "test-rackspace-debian12-x64-1",
     "description": "",
-    "diskUsage": 39,
+    "diskUsage": 37,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-ubuntu2204-x64-1": {
     "name": "test-rackspace-ubuntu2204-x64-1",
@@ -1725,5 +1725,27 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
+  },
+  "vm-4zpf9": {
+    "name": "vm-4zpf9",
+    "description": null,
+    "diskUsage": 46,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3301.v4363ddcca_4e7",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-c8s7m": {
+    "name": "vm-c8s7m",
+    "description": null,
+    "diskUsage": 52,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3301.v4363ddcca_4e7",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
