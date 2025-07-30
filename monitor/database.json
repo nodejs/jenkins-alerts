@@ -629,7 +629,7 @@
   "test-equinix-debian11_container-armv7l-2": {
     "name": "test-equinix-debian11_container-armv7l-2",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-3 in /home/iojs/test-equinix-debian11_container-armv7l-2",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (arm)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -651,7 +651,7 @@
   "test-equinix-rhel8_container-arm64-2": {
     "name": "test-equinix-rhel8_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -673,7 +673,7 @@
   "test-equinix-ubuntu1804_container-arm64-2": {
     "name": "test-equinix-ubuntu1804_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -717,7 +717,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-4": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-4",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -728,7 +728,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-5": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-5",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -739,7 +739,7 @@
   "test-equinix-ubuntu1804_sharedlibs_container-arm64-6": {
     "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-6",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -761,7 +761,7 @@
   "test-equinix-ubuntu2204_container-arm64-2": {
     "name": "test-equinix-ubuntu2204_container-arm64-2",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-3 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -783,7 +783,7 @@
   "test-equinix-ubuntu2204_container-arm64-4": {
     "name": "test-equinix-ubuntu2204_container-arm64-4",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-3 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -805,7 +805,7 @@
   "test-equinix-ubuntu2204_container-arm64-6": {
     "name": "test-equinix-ubuntu2204_container-arm64-6",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-3 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -827,7 +827,7 @@
   "test-equinix-ubuntu2204_container-arm64-8": {
     "name": "test-equinix-ubuntu2204_container-arm64-8",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-3 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -849,7 +849,7 @@
   "test-equinix-ubuntu2204_container-armv7l-2": {
     "name": "test-equinix-ubuntu2204_container-armv7l-2",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-3 in /home/iojs/test-equinix-ubuntu2204_container-armv7l-2",
-    "diskUsage": 31,
+    "diskUsage": 27,
     "architecture": "Linux (arm)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -882,7 +882,7 @@
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "",
-    "diskUsage": 82,
+    "diskUsage": 75,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -893,7 +893,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 32,
+    "diskUsage": 31,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1267,7 +1267,7 @@
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
     "description": "",
-    "diskUsage": 32,
+    "diskUsage": 25,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1278,7 +1278,7 @@
   "test-mnx-smartos22-x64-4": {
     "name": "test-mnx-smartos22-x64-4",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 22,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1300,7 +1300,7 @@
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 18,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1443,7 +1443,7 @@
   "test-osuosl-rhel9-ppc64_le-2": {
     "name": "test-osuosl-rhel9-ppc64_le-2",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 23,
+    "diskUsage": 19,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3261.v9c670a_4748a_9",
     "isOffline": false,
