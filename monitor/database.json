@@ -13,7 +13,7 @@
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 48,
+    "diskUsage": 49,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -134,7 +134,7 @@
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 53,
+    "diskUsage": 54,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
     "isOffline": false,
@@ -558,7 +558,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-5",
@@ -602,7 +602,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-ubuntu2204_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu2204_sharedlibs_container-x64-9",
@@ -899,7 +899,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-1": {
     "name": "test-ibm-aix73-ppc64_be-1",
@@ -1086,7 +1086,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204-x64-1": {
     "name": "test-ibm-ubuntu2204-x64-1",
@@ -1130,7 +1130,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-3": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-3",
@@ -1141,7 +1141,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-4": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-4",
@@ -1163,7 +1163,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-zos24-s390x-1": {
     "name": "test-ibm-zos24-s390x-1",
@@ -1328,7 +1328,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1721,17 +1721,6 @@
     "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-k81c2": {
-    "name": "vm-k81c2",
-    "description": null,
-    "diskUsage": 46,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
