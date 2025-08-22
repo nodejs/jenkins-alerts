@@ -13,7 +13,7 @@
   "test-azure-debian11_container-armv7l-1": {
     "name": "test-azure-debian11_container-armv7l-1",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-1 in /home/iojs/test-equinix-debian11_container-armv7l-1",
-    "diskUsage": 8,
+    "diskUsage": 10,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -35,13 +35,13 @@
   "test-azure-ubuntu2204_container-arm64-1": {
     "name": "test-azure-ubuntu2204_container-arm64-1",
     "description": "DOCKER CONTAINER ON test-azure-ubuntu2404_docker-arm64-1",
-    "diskUsage": null,
+    "diskUsage": 10,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure-ubuntu2204_container-arm64-3": {
     "name": "test-azure-ubuntu2204_container-arm64-3",
@@ -57,7 +57,7 @@
   "test-azure-ubuntu2204_container-armv7l-1": {
     "name": "test-azure-ubuntu2204_container-armv7l-1",
     "description": "DOCKER CONTAINER ON test-azure-ubuntu2404_docker-arm64-1",
-    "diskUsage": 8,
+    "diskUsage": 10,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -698,9 +698,9 @@
     "diskUsage": 36,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-rhel8_container-arm64-2": {
@@ -709,97 +709,9 @@
     "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_container-arm64-1": {
-    "name": "test-equinix-ubuntu1804_container-arm64-1",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 36,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_container-arm64-2": {
-    "name": "test-equinix-ubuntu1804_container-arm64-2",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 27,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_sharedlibs_container-arm64-1": {
-    "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-1",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 36,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_sharedlibs_container-arm64-2": {
-    "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-2",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 36,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_sharedlibs_container-arm64-3": {
-    "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-3",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON 160-core Ampere Altra Baremetal ARMv8",
-    "diskUsage": 36,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_sharedlibs_container-arm64-4": {
-    "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-4",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 27,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_sharedlibs_container-arm64-5": {
-    "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-5",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 27,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-equinix-ubuntu1804_sharedlibs_container-arm64-6": {
-    "name": "test-equinix-ubuntu1804_sharedlibs_container-arm64-6",
-    "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-2 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 27,
-    "architecture": "Linux (aarch64)",
-    "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-1": {
@@ -808,9 +720,9 @@
     "diskUsage": 36,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-2": {
@@ -819,9 +731,9 @@
     "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-3": {
@@ -830,9 +742,9 @@
     "diskUsage": 36,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-4": {
@@ -841,9 +753,9 @@
     "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-5": {
@@ -852,9 +764,9 @@
     "diskUsage": 36,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-6": {
@@ -863,9 +775,9 @@
     "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-7": {
@@ -874,9 +786,9 @@
     "diskUsage": 36,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-arm64-8": {
@@ -885,9 +797,9 @@
     "diskUsage": 27,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3301.v4363ddcca_4e7",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Testing new Azure machines",
     "isIdle": true
   },
   "test-equinix-ubuntu2204_container-armv7l-1": {
@@ -1372,7 +1284,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1424,9 +1336,9 @@
     "diskUsage": 33,
     "architecture": "Linux (arm)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Testing new azure arm nodes",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-1": {
@@ -1578,9 +1490,9 @@
     "diskUsage": 33,
     "architecture": "Linux (arm)",
     "monitorVersion": "3283.v92c105e0f819",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Testing new azure nodes",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-plctlab-ubuntu2204-riscv64-1": {
