@@ -24,7 +24,7 @@
   "test-azure-debian11_container-armv7l-2": {
     "name": "test-azure-debian11_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 40,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -46,7 +46,7 @@
   "test-azure-rhel8_container-arm64-2": {
     "name": "test-azure-rhel8_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 40,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -68,7 +68,7 @@
   "test-azure-ubuntu2204_container-arm64-2": {
     "name": "test-azure-ubuntu2204_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 40,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -90,7 +90,7 @@
   "test-azure-ubuntu2204_container-arm64-4": {
     "name": "test-azure-ubuntu2204_container-arm64-4",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 40,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -475,13 +475,13 @@
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 79,
+    "diskUsage": 80,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8_arm_cross_container-x64-1": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-1",
@@ -508,13 +508,13 @@
   "test-digitalocean-rhel9-x64-1": {
     "name": "test-digitalocean-rhel9-x64-1",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel9_arm_cross_container-x64-1": {
     "name": "test-digitalocean-rhel9_arm_cross_container-x64-1",
@@ -1141,7 +1141,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-2": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-2",
@@ -1350,7 +1350,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1377,7 +1377,7 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 85,
+    "diskUsage": 84,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
@@ -1427,7 +1427,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-4": {
     "name": "test-osuosl-rhel8-ppc64_le-4",
