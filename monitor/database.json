@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 49,
+    "diskUsage": 48,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1476,7 +1476,7 @@
   "test-osuosl-rhel9-ppc64_le-3": {
     "name": "test-osuosl-rhel9-ppc64_le-3",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 30,
+    "diskUsage": 29,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,

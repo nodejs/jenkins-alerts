@@ -4,7 +4,7 @@
 
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
-| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **49%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **48%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-1) | ⚠️ **60%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-2) | ✅ **40%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-1) | ⚠️ **60%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
@@ -138,7 +138,7 @@
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **33%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-1) | ✅ **26%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-2) | ✅ **26%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-osuosl-rhel9-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-3) | ✅ **30%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel9-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-3) | ✅ **29%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-4) | ✅ **28%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-ubuntu1804_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu1804_container-arm64-1) | N/A | Linux (aarch64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-osuosl-ubuntu1804_sharedlibs_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu1804_sharedlibs_container-arm64-1) | N/A | Linux (aarch64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
