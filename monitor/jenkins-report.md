@@ -6,13 +6,13 @@
 | -- | -- | -- | -- | -- | -- | -- |
 | [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **49%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-1) | ⚠️ **60%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-2) | ✅ **34%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-2) | ✅ **37%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-1) | ⚠️ **60%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-rhel8_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-2) | ✅ **34%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-rhel8_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-2) | ✅ **37%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-1) | ⚠️ **60%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-2) | ✅ **34%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-2) | ✅ **40%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-3) | ⚠️ **60%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-4) | ✅ **34%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-4) | ✅ **37%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-1) | ⚠️ **60%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-2) | N/A | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **48%** | Windows 10 (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
