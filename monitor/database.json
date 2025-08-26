@@ -24,7 +24,7 @@
   "test-azure-debian11_container-armv7l-2": {
     "name": "test-azure-debian11_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 44,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -46,7 +46,7 @@
   "test-azure-rhel8_container-arm64-2": {
     "name": "test-azure-rhel8_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 44,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -90,7 +90,7 @@
   "test-azure-ubuntu2204_container-arm64-4": {
     "name": "test-azure-ubuntu2204_container-arm64-4",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 44,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -112,7 +112,7 @@
   "test-azure-ubuntu2204_container-armv7l-2": {
     "name": "test-azure-ubuntu2204_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 39,
+    "diskUsage": 44,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1597,7 +1597,7 @@
   "test-rackspace-win2016_vs2015-x64-1": {
     "name": "test-rackspace-win2016_vs2015-x64-1",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": 43,
+    "diskUsage": 39,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
