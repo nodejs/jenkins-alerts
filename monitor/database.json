@@ -1025,7 +1025,7 @@
   "test-ibm-rhel8-s390x-3": {
     "name": "test-ibm-rhel8-s390x-3",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 49,
+    "diskUsage": 48,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
