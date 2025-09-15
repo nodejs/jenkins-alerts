@@ -1528,15 +1528,15 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-rh6i5": {
-    "name": "vm-rh6i5",
+  "vm-mpxyx": {
+    "name": "vm-mpxyx",
     "description": null,
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 57,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3309.v27b_9314fd1a_4",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "This agent is offline because Jenkins failed to launch the agent process on it.",
-    "isIdle": true
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
