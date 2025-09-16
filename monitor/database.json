@@ -453,7 +453,7 @@
   "test-digitalocean-rhel8-x64-1": {
     "name": "test-digitalocean-rhel8-x64-1",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 81,
+    "diskUsage": 80,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -910,7 +910,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2204_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2204_sharedlibs_container-x64-1",
@@ -976,7 +976,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-zos24-s390x-1": {
     "name": "test-ibm-zos24-s390x-1",
@@ -1069,7 +1069,7 @@
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
     "description": "",
-    "diskUsage": 43,
+    "diskUsage": 38,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1080,7 +1080,7 @@
   "test-mnx-smartos22-x64-4": {
     "name": "test-mnx-smartos22-x64-4",
     "description": "",
-    "diskUsage": 23,
+    "diskUsage": 21,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1091,7 +1091,7 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 24,
+    "diskUsage": 22,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1102,7 +1102,7 @@
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
     "description": "",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1465,7 +1465,7 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 72,
+    "diskUsage": 73,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1528,30 +1528,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-6yywp": {
-    "name": "vm-6yywp",
-    "description": null,
-    "diskUsage": 33,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-km7ze": {
-    "name": "vm-km7ze",
-    "description": null,
-    "diskUsage": 57,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-vulja": {
-    "name": "vm-vulja",
+  "vm-3eclt": {
+    "name": "vm-3eclt",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
@@ -1561,15 +1539,15 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-w4knf": {
-    "name": "vm-w4knf",
+  "vm-j3pv3": {
+    "name": "vm-j3pv3",
     "description": null,
-    "diskUsage": 57,
+    "diskUsage": 29,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   }
 }
