@@ -13,8 +13,8 @@
 | [test-azure-ubuntu2204_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-2) | ✅ **57%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-3) | ⚠️ **75%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-4) | ✅ **57%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-5) | 🔥 **86%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-6) | 🔥 **86%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-5) | ⚠️ **83%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-6) | ⚠️ **83%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-1) | ⚠️ **75%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-2) | ✅ **57%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **53%** | Windows 10 (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
