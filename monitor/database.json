@@ -24,7 +24,7 @@
   "test-azure-debian11_container-armv7l-2": {
     "name": "test-azure-debian11_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 57,
+    "diskUsage": 56,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -46,13 +46,13 @@
   "test-azure-rhel8_container-arm64-2": {
     "name": "test-azure-rhel8_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 57,
+    "diskUsage": 56,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure-ubuntu2204_container-arm64-1": {
     "name": "test-azure-ubuntu2204_container-arm64-1",
@@ -68,7 +68,7 @@
   "test-azure-ubuntu2204_container-arm64-2": {
     "name": "test-azure-ubuntu2204_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 57,
+    "diskUsage": 56,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -90,7 +90,7 @@
   "test-azure-ubuntu2204_container-arm64-4": {
     "name": "test-azure-ubuntu2204_container-arm64-4",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 57,
+    "diskUsage": 56,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -107,7 +107,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure-ubuntu2204_container-arm64-6": {
     "name": "test-azure-ubuntu2204_container-arm64-6",
@@ -134,7 +134,7 @@
   "test-azure-ubuntu2204_container-armv7l-2": {
     "name": "test-azure-ubuntu2204_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 57,
+    "diskUsage": 56,
     "architecture": "Linux (arm)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -695,13 +695,13 @@
   "test-hetzner-ubuntu2204-x64-1": {
     "name": "test-hetzner-ubuntu2204-x64-1",
     "description": "Performance machines hosted at Hetzner managed by Linux IT",
-    "diskUsage": 17,
+    "diskUsage": 16,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-hetzner-ubuntu2204-x64-2": {
     "name": "test-hetzner-ubuntu2204-x64-2",
@@ -1058,13 +1058,13 @@
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
     "description": "Machine for nightly loongson test job",
-    "diskUsage": 25,
+    "diskUsage": 26,
     "architecture": "Linux (loongarch64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1130,7 +1130,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
