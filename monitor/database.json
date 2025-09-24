@@ -1190,7 +1190,7 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 48,
+    "diskUsage": 47,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1528,17 +1528,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-isu68": {
-    "name": "vm-isu68",
-    "description": null,
-    "diskUsage": 56,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "vm-k5d2b": {
     "name": "vm-k5d2b",
     "description": null,
@@ -1549,16 +1538,5 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": false
-  },
-  "vm-qf6i6": {
-    "name": "vm-qf6i6",
-    "description": null,
-    "diskUsage": 32,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
   }
 }
