@@ -1064,7 +1064,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
@@ -1113,7 +1113,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 68,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1528,17 +1528,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-5ymdr": {
-    "name": "vm-5ymdr",
-    "description": null,
-    "diskUsage": 69,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "vm-k5d2b": {
     "name": "vm-k5d2b",
     "description": null,
@@ -1550,21 +1539,10 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-t4t32": {
-    "name": "vm-t4t32",
-    "description": null,
-    "diskUsage": 39,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
   "vm-x75qn": {
     "name": "vm-x75qn",
     "description": null,
-    "diskUsage": 28,
+    "diskUsage": 43,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
