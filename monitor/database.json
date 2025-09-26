@@ -1388,7 +1388,7 @@
   "test-rackspace-win2016_vs2015-x64-2": {
     "name": "test-rackspace-win2016_vs2015-x64-2",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": 38,
+    "diskUsage": 37,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1537,18 +1537,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-q1ulc": {
-    "name": "vm-q1ulc",
-    "description": null,
-    "diskUsage": 71,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "vm-xhfkf": {
     "name": "vm-xhfkf",
