@@ -1528,10 +1528,21 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
+  "vm-2e66u": {
+    "name": "vm-2e66u",
+    "description": null,
+    "diskUsage": 46,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3309.v27b_9314fd1a_4",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
   "vm-43jjz": {
     "name": "vm-43jjz",
     "description": null,
-    "diskUsage": 72,
+    "diskUsage": 50,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1539,21 +1550,10 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-ulqhl": {
-    "name": "vm-ulqhl",
+  "vm-fmke8": {
+    "name": "vm-fmke8",
     "description": null,
-    "diskUsage": 28,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-y9c1r": {
-    "name": "vm-y9c1r",
-    "description": null,
-    "diskUsage": 31,
+    "diskUsage": 47,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
