@@ -1377,7 +1377,7 @@
   "test-rackspace-win2016_vs2015-x64-1": {
     "name": "test-rackspace-win2016_vs2015-x64-1",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": 38,
+    "diskUsage": 37,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1531,7 +1531,7 @@
   "vm-ajjic": {
     "name": "vm-ajjic",
     "description": null,
-    "diskUsage": 23,
+    "diskUsage": 41,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1542,41 +1542,8 @@
   "vm-m47f0": {
     "name": "vm-m47f0",
     "description": null,
-    "diskUsage": 69,
+    "diskUsage": 47,
     "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-mf0jm": {
-    "name": "vm-mf0jm",
-    "description": null,
-    "diskUsage": 57,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-sjxmn": {
-    "name": "vm-sjxmn",
-    "description": null,
-    "diskUsage": 49,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-uwy7h": {
-    "name": "vm-uwy7h",
-    "description": null,
-    "diskUsage": 49,
-    "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
