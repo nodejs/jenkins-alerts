@@ -1091,7 +1091,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 69,
+    "diskUsage": 68,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
