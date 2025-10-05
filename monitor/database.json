@@ -987,7 +987,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-linuxonecc-rhel9-s390x-1": {
     "name": "test-linuxonecc-rhel9-s390x-1",
@@ -1097,7 +1097,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1483,5 +1483,16 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
+  },
+  "vm-2zf9u": {
+    "name": "vm-2zf9u",
+    "description": null,
+    "diskUsage": 50,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3309.v27b_9314fd1a_4",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
