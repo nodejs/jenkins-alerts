@@ -541,7 +541,7 @@
   "test-digitalocean-ubuntu2404-x64-1": {
     "name": "test-digitalocean-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 32,
+    "diskUsage": 47,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1483,27 +1483,5 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": false
-  },
-  "vm-n00sf": {
-    "name": "vm-n00sf",
-    "description": null,
-    "diskUsage": 23,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-pti3t": {
-    "name": "vm-pti3t",
-    "description": null,
-    "diskUsage": 29,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3309.v27b_9314fd1a_4",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
   }
 }
