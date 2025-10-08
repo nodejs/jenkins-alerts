@@ -673,13 +673,13 @@
   "test-hetzner-ubuntu2204-x64-1": {
     "name": "test-hetzner-ubuntu2204-x64-1",
     "description": "Performance machines hosted at Hetzner managed by Linux IT",
-    "diskUsage": 18,
+    "diskUsage": 17,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-hetzner-ubuntu2204-x64-2": {
     "name": "test-hetzner-ubuntu2204-x64-2",
@@ -888,7 +888,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
@@ -1097,7 +1097,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1108,7 +1108,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1483,5 +1483,27 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
+  },
+  "vm-b9ua2": {
+    "name": "vm-b9ua2",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3309.v27b_9314fd1a_4",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-sz4r5": {
+    "name": "vm-sz4r5",
+    "description": null,
+    "diskUsage": 23,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3309.v27b_9314fd1a_4",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
