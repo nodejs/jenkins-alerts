@@ -65,7 +65,7 @@
 | [test-digitalocean-ubuntu2404_sharedlibs_container-x64-7](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-7) | ✅ **42%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2404_sharedlibs_container-x64-8](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-8) | ✅ **39%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2404_sharedlibs_container-x64-9](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-9) | ✅ **42%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-hetzner-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-1) | ✅ **18%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-hetzner-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-1) | ✅ **14%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-2) | ✅ **13%** | Linux (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ⚠️ **73%** | AIX (ppc64) | N/A | 3309.v27b_9314fd1a_4 | ❌ **DOWN** | 🔥 **test installing dnf** |    
 | [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **33%** | AIX (ppc64) | N/A | 3206.vb_15dcf73f6a_9 | ✅ **UP** | N/A |    
@@ -117,7 +117,7 @@
 | [test-osuosl-rhel9-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-1) | ✅ **28%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-2) | ✅ **24%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-3) | ✅ **25%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-osuosl-rhel9-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-4) | ✅ **24%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel9-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-4) | ✅ **25%** | Linux (ppc64le) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-osuosl-ubuntu2204_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu2204_container-arm64-1) | ✅ **31%** | Linux (aarch64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-osuosl-ubuntu2204_container-arm64-2](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu2204_container-arm64-2) | ✅ **31%** | Linux (aarch64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-osuosl-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu2204_container-armv7l-1) | ✅ **31%** | Linux (arm) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
