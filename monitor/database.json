@@ -981,7 +981,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-2",
     "description": "",
-    "diskUsage": 62,
+    "diskUsage": 66,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1479,6 +1479,28 @@
     "diskUsage": 89,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "vm-3c76n": {
+    "name": "vm-3c76n",
+    "description": null,
+    "diskUsage": 23,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-hg7lb": {
+    "name": "vm-hg7lb",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
