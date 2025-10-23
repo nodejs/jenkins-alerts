@@ -541,7 +541,7 @@
   "test-digitalocean-ubuntu2404-x64-1": {
     "name": "test-digitalocean-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 17,
+    "diskUsage": 18,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -673,13 +673,13 @@
   "test-hetzner-ubuntu2204-x64-1": {
     "name": "test-hetzner-ubuntu2204-x64-1",
     "description": "Performance machines hosted at Hetzner managed by Linux IT",
-    "diskUsage": 18,
+    "diskUsage": 15,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-hetzner-ubuntu2204-x64-2": {
     "name": "test-hetzner-ubuntu2204-x64-2",
@@ -1091,7 +1091,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 66,
+    "diskUsage": 65,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
