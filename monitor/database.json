@@ -1344,7 +1344,7 @@
   "test-rackspace-win2016_vs2015-x64-2": {
     "name": "test-rackspace-win2016_vs2015-x64-2",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
