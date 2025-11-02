@@ -277,7 +277,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -981,7 +981,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-2",
     "description": "",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
