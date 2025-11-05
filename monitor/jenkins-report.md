@@ -13,8 +13,8 @@
 | [test-azure-ubuntu2204_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-2) | ✅ **43%** | Linux (aarch64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-3) | ✅ **47%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-4) | ✅ **43%** | Linux (aarch64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-5) | ⚠️ **78%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-6) | ⚠️ **78%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-5) | ⚠️ **82%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-arm64-6) | ⚠️ **82%** | Linux (aarch64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-1) | ✅ **47%** | Linux (arm) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-2) | ✅ **43%** | Linux (arm) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **49%** | Windows 10 (amd64) | N/A | 3309.v27b_9314fd1a_4 | ✅ **UP** | N/A |    
