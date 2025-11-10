@@ -145,13 +145,13 @@
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 45,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
@@ -1053,7 +1053,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-smartos22-x64-4": {
     "name": "test-mnx-smartos22-x64-4",
@@ -1086,7 +1086,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
@@ -1108,7 +1108,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1141,7 +1141,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
@@ -1483,5 +1483,27 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
+  },
+  "vm-35c8f": {
+    "name": "vm-35c8f",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "vm-cw6fy": {
+    "name": "vm-cw6fy",
+    "description": null,
+    "diskUsage": 23,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
