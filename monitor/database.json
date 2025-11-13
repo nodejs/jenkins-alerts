@@ -255,12 +255,12 @@
   "test-azure_msft-win11_vs2022-x64-1": {
     "name": "test-azure_msft-win11_vs2022-x64-1",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-azure_msft-win11_vs2022-x64-2": {
@@ -827,7 +827,7 @@
   "test-ibm-rhel8-x64-2": {
     "name": "test-ibm-rhel8-x64-2",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
