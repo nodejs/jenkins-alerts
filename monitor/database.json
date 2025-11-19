@@ -101,7 +101,7 @@
   "test-azure-ubuntu2204_container-arm64-5": {
     "name": "test-azure-ubuntu2204_container-arm64-5",
     "description": "Larger Azure ARM vm docker container",
-    "diskUsage": 91,
+    "diskUsage": 92,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -112,7 +112,7 @@
   "test-azure-ubuntu2204_container-arm64-6": {
     "name": "test-azure-ubuntu2204_container-arm64-6",
     "description": "Azure Container host (larger version)",
-    "diskUsage": 91,
+    "diskUsage": 92,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -459,7 +459,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-rhel8_arm_cross_container-x64-1": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-1",
@@ -1064,7 +1064,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
