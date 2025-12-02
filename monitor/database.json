@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1130,7 +1130,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1322,7 +1322,7 @@
   "test-rackspace-debian11-x64-1": {
     "name": "test-rackspace-debian11-x64-1",
     "description": "",
-    "diskUsage": 58,
+    "diskUsage": 57,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1399,13 +1399,13 @@
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 51,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1500,6 +1500,28 @@
     "description": "",
     "diskUsage": 89,
     "architecture": "Linux (amd64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "vm-5n5ij": {
+    "name": "vm-5n5ij",
+    "description": null,
+    "diskUsage": 46,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-r40n4": {
+    "name": "vm-r40n4",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
