@@ -728,13 +728,13 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 81,
+    "diskUsage": 83,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3206.vb_15dcf73f6a_9",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-1": {
     "name": "test-ibm-aix73-ppc64_be-1",
@@ -910,7 +910,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1135,9 +1135,9 @@
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
     "description": "",
-    "diskUsage": 20,
-    "architecture": "AIX (ppc64)",
-    "monitorVersion": "3206.vb_15dcf73f6a_9",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": true,
     "offlineCauseReason": "Check: https://github.com/nodejs-private/build-private/issues/15",
@@ -1157,9 +1157,9 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 44,
-    "architecture": "AIX (ppc64)",
-    "monitorVersion": "3206.vb_15dcf73f6a_9",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1179,7 +1179,7 @@
   "test-osuosl-rhel8-ppc64_le-1": {
     "name": "test-osuosl-rhel8-ppc64_le-1",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 46,
+    "diskUsage": 42,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
