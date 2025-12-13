@@ -1498,7 +1498,7 @@
   "test-softlayer-debian12-x64-1": {
     "name": "test-softlayer-debian12-x64-1",
     "description": "",
-    "diskUsage": 90,
+    "diskUsage": 91,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
