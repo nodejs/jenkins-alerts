@@ -992,7 +992,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 71,
+    "diskUsage": 70,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": true,
@@ -1113,7 +1113,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 63,
+    "diskUsage": 62,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
