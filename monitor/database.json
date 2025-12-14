@@ -772,7 +772,7 @@
   "test-ibm-rhel8-s390x-1": {
     "name": "test-ibm-rhel8-s390x-1",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 40,
+    "diskUsage": 39,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -805,7 +805,7 @@
   "test-ibm-rhel8-s390x-4": {
     "name": "test-ibm-rhel8-s390x-4",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
