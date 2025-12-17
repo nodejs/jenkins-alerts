@@ -101,18 +101,18 @@
   "test-azure-ubuntu2204_container-arm64-5": {
     "name": "test-azure-ubuntu2204_container-arm64-5",
     "description": "Larger Azure ARM vm docker container",
-    "diskUsage": 88,
+    "diskUsage": 90,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure-ubuntu2204_container-arm64-6": {
     "name": "test-azure-ubuntu2204_container-arm64-6",
     "description": "Azure Container host (larger version)",
-    "diskUsage": 88,
+    "diskUsage": 90,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
