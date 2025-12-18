@@ -125,7 +125,7 @@
 | [test-osuosl-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu2204_container-armv7l-1) | ✅ **33%** | Linux (arm) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-plctlab-ubuntu2204-riscv64-1](https://ci.nodejs.org/manage/computer/test-plctlab-ubuntu2204-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-rackspace-debian11-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian11-x64-1) | ✅ **57%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
-| [test-rackspace-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian12-x64-1) | ✅ **40%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
+| [test-rackspace-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian12-x64-1) | ✅ **41%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-1) | ✅ **26%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-rackspace-win2016_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-1) | ✅ **33%** | Windows Server 2016 (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-rackspace-win2016_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-2) | ✅ **33%** | Windows Server 2016 (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
