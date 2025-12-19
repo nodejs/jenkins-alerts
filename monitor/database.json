@@ -151,7 +151,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
@@ -162,7 +162,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
@@ -173,7 +173,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win10_vs2019-x64-4": {
     "name": "test-azure_msft-win10_vs2019-x64-4",
@@ -184,7 +184,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-1": {
     "name": "test-azure_msft-win11_vs2022-arm64-1",
@@ -200,7 +200,7 @@
   "test-azure_msft-win11_vs2022-arm64-2": {
     "name": "test-azure_msft-win11_vs2022-arm64-2",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 7,
+    "diskUsage": 5,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -233,13 +233,13 @@
   "test-azure_msft-win11_vs2022-arm64-5": {
     "name": "test-azure_msft-win11_vs2022-arm64-5",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 4,
+    "diskUsage": 5,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-arm64-6": {
     "name": "test-azure_msft-win11_vs2022-arm64-6",
@@ -261,7 +261,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
@@ -272,7 +272,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
@@ -283,7 +283,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
@@ -294,7 +294,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure_msft-win2016_vs2017-x64-1": {
     "name": "test-azure_msft-win2016_vs2017-x64-1",
@@ -393,7 +393,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-fedora41-x64-2": {
     "name": "test-digitalocean-fedora41-x64-2",
@@ -569,7 +569,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-10": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-10",
@@ -580,7 +580,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-2": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-2",
@@ -591,7 +591,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-3": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-3",
@@ -602,7 +602,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-4": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-4",
@@ -613,7 +613,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-5": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-5",
@@ -624,7 +624,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-6": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-6",
@@ -635,7 +635,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-7": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-7",
@@ -646,7 +646,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-8": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-8",
@@ -657,7 +657,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-digitalocean-ubuntu2404_sharedlibs_container-x64-9": {
     "name": "test-digitalocean-ubuntu2404_sharedlibs_container-x64-9",
@@ -668,7 +668,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-hetzner-ubuntu2204-x64-1": {
     "name": "test-hetzner-ubuntu2204-x64-1",
@@ -932,7 +932,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404_sharedlibs_container-x64-2": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-2",
@@ -943,7 +943,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404_sharedlibs_container-x64-3": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-3",
@@ -954,7 +954,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404_sharedlibs_container-x64-4": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-4",
@@ -965,7 +965,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404_sharedlibs_container-x64-5": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-5",
@@ -976,7 +976,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-zos24-s390x-1": {
     "name": "test-ibm-zos24-s390x-1",
@@ -1080,7 +1080,7 @@
   "test-mnx-smartos22-x64-4": {
     "name": "test-mnx-smartos22-x64-4",
     "description": "",
-    "diskUsage": 17,
+    "diskUsage": 18,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1091,13 +1091,13 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 22,
+    "diskUsage": 23,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
@@ -1108,7 +1108,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
@@ -1157,13 +1157,13 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 23,
+    "diskUsage": 22,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
@@ -1377,13 +1377,13 @@
   "test-rackspace-win2019_vs2019-x64-1": {
     "name": "test-rackspace-win2019_vs2019-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
@@ -1394,18 +1394,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1416,7 +1416,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
@@ -1427,7 +1427,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
@@ -1443,7 +1443,7 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 89,
+    "diskUsage": 87,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1454,13 +1454,13 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 87,
+    "diskUsage": 93,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
@@ -1482,7 +1482,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rzkh-ibmi74-ppc64_be-1": {
     "name": "test-rzkh-ibmi74-ppc64_be-1",
@@ -1505,27 +1505,5 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
-  },
-  "vm-22jin": {
-    "name": "vm-22jin",
-    "description": null,
-    "diskUsage": 37,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3327.v868139a_d00e0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-se063": {
-    "name": "vm-se063",
-    "description": null,
-    "diskUsage": 34,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3327.v868139a_d00e0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
   }
 }
