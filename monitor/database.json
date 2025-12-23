@@ -679,7 +679,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-hetzner-ubuntu2204-x64-2": {
     "name": "test-hetzner-ubuntu2204-x64-2",
@@ -805,7 +805,7 @@
   "test-ibm-rhel8-s390x-4": {
     "name": "test-ibm-rhel8-s390x-4",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 34,
+    "diskUsage": 33,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1069,7 +1069,7 @@
   "test-mnx-smartos22-x64-3": {
     "name": "test-mnx-smartos22-x64-3",
     "description": "",
-    "diskUsage": 62,
+    "diskUsage": 56,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1102,7 +1102,7 @@
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
     "description": "",
-    "diskUsage": 37,
+    "diskUsage": 33,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1130,7 +1130,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1218,7 +1218,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
