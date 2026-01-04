@@ -910,18 +910,18 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 71,
+    "diskUsage": 74,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-1",
