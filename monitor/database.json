@@ -101,7 +101,7 @@
   "test-azure-ubuntu2204_container-arm64-5": {
     "name": "test-azure-ubuntu2204_container-arm64-5",
     "description": "Larger Azure ARM vm docker container",
-    "diskUsage": 82,
+    "diskUsage": 79,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -112,7 +112,7 @@
   "test-azure-ubuntu2204_container-arm64-6": {
     "name": "test-azure-ubuntu2204_container-arm64-6",
     "description": "Azure Container host (larger version)",
-    "diskUsage": 82,
+    "diskUsage": 79,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -365,7 +365,7 @@
   "test-digitalocean-debian11-x64-1": {
     "name": "test-digitalocean-debian11-x64-1",
     "description": "",
-    "diskUsage": 36,
+    "diskUsage": 37,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -910,7 +910,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
@@ -1505,5 +1505,27 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
+  },
+  "vm-ql63l": {
+    "name": "vm-ql63l",
+    "description": null,
+    "diskUsage": 68,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-tx295": {
+    "name": "vm-tx295",
+    "description": null,
+    "diskUsage": 56,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3327.v868139a_d00e0",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   }
 }
