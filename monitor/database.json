@@ -1119,7 +1119,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-2": {
     "name": "test-mnx-ubuntu2204-x64-2",
@@ -1130,7 +1130,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1168,7 +1168,7 @@
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-debian11_container-armv7l-1",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (arm)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1223,7 +1223,7 @@
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-rhel8_container-arm64-1",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3309.v27b_9314fd1a_4",
     "isOffline": false,
@@ -1278,18 +1278,18 @@
   "test-osuosl-ubuntu2204_container-arm64-1": {
     "name": "test-osuosl-ubuntu2204_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-arm64-1",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2204_container-arm64-2": {
     "name": "test-osuosl-ubuntu2204_container-arm64-2",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-arm64-2",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1300,7 +1300,7 @@
   "test-osuosl-ubuntu2204_container-armv7l-1": {
     "name": "test-osuosl-ubuntu2204_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-armv7l-1",
-    "diskUsage": 33,
+    "diskUsage": 34,
     "architecture": "Linux (arm)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1504,39 +1504,6 @@
     "isOffline": true,
     "isTemporarilyOffline": true,
     "offlineCauseReason": "Disk space is below threshold of 204.80 MiB. Only 27.05 MiB out of 23.59 GiB left on /home/iojs/build.",
-    "isIdle": true
-  },
-  "vm-gerv8": {
-    "name": "vm-gerv8",
-    "description": null,
-    "diskUsage": 51,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3327.v868139a_d00e0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-r5zqn": {
-    "name": "vm-r5zqn",
-    "description": null,
-    "diskUsage": 27,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3327.v868139a_d00e0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-yxoal": {
-    "name": "vm-yxoal",
-    "description": null,
-    "diskUsage": 27,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3327.v868139a_d00e0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
     "isIdle": true
   }
 }
