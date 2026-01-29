@@ -189,8 +189,8 @@
   "test-azure-ubuntu2404_container-arm64-5": {
     "name": "test-azure-ubuntu2404_container-arm64-5",
     "description": "Larger Azure ARM vm docker container running on test-azure-ubuntu2404_docker-arm64-3",
-    "diskUsage": 100,
-    "architecture": "Linux (aarch64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": true,
     "isTemporarilyOffline": true,
@@ -200,8 +200,8 @@
   "test-azure-ubuntu2404_container-arm64-6": {
     "name": "test-azure-ubuntu2404_container-arm64-6",
     "description": "Larger Azure ARM vm docker container running on test-azure-ubuntu2404_docker-arm64-3",
-    "diskUsage": 100,
-    "architecture": "Linux (aarch64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": true,
     "isTemporarilyOffline": true,
