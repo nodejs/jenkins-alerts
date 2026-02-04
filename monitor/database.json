@@ -1168,7 +1168,7 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 49,
+    "diskUsage": 56,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": true,
