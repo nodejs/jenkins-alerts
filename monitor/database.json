@@ -145,7 +145,7 @@
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 47,
+    "diskUsage": 48,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -156,7 +156,7 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -222,7 +222,7 @@
   "test-azure_msft-win11_vs2022-arm64-4": {
     "name": "test-azure_msft-win11_vs2022-arm64-4",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 5,
+    "diskUsage": 6,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -266,7 +266,7 @@
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1108,7 +1108,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-smartos22-x64-4": {
     "name": "test-mnx-smartos22-x64-4",
@@ -1141,7 +1141,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
@@ -1179,18 +1179,18 @@
   "test-osuosl-aix72-ppc64_be-3": {
     "name": "test-osuosl-aix72-ppc64_be-3",
     "description": "",
-    "diskUsage": 35,
+    "diskUsage": 36,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 49,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": true,
@@ -1245,21 +1245,21 @@
   "test-osuosl-rhel8-ppc64_le-4": {
     "name": "test-osuosl-rhel8-ppc64_le-4",
     "description": "RHEL 8 running on POWER 9",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 19,
+    "architecture": "Linux (ppc64le)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-5": {
     "name": "test-osuosl-rhel8-ppc64_le-5",
     "description": "RHEL 8 running on POWER 9",
     "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "architecture": "Linux (ppc64le)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
@@ -1295,28 +1295,6 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-osuosl-rhel9-ppc64_le-3": {
-    "name": "test-osuosl-rhel9-ppc64_le-3",
-    "description": "RHEL 9 running on POWER 9",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "https://github.com/nodejs/build/issues/4236",
-    "isIdle": true
-  },
-  "test-osuosl-rhel9-ppc64_le-4": {
-    "name": "test-osuosl-rhel9-ppc64_le-4",
-    "description": "RHEL 9 running on POWER 9",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "https://github.com/nodejs/build/issues/4236",
     "isIdle": true
   },
   "test-osuosl-ubuntu2204_container-armv7l-1": {
@@ -1476,7 +1454,7 @@
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 77,
+    "diskUsage": 78,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1550,19 +1528,19 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-db20j": {
-    "name": "vm-db20j",
+  "vm-4rg9x": {
+    "name": "vm-4rg9x",
     "description": null,
-    "diskUsage": 51,
-    "architecture": "Mac OS X (x86_64)",
+    "diskUsage": 34,
+    "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
-  "vm-fmhkf": {
-    "name": "vm-fmhkf",
+  "vm-db20j": {
+    "name": "vm-db20j",
     "description": null,
     "diskUsage": 52,
     "architecture": "Mac OS X (x86_64)",
