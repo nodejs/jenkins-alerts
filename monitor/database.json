@@ -1047,7 +1047,7 @@
   "test-linuxonecc-rhel9-s390x-1": {
     "name": "test-linuxonecc-rhel9-s390x-1",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": 29,
+    "diskUsage": 27,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
