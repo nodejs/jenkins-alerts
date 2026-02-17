@@ -758,6 +758,17 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
+  "test-ibm-aix73-ppc64_be-4": {
+    "name": "test-ibm-aix73-ppc64_be-4",
+    "description": "",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
   "test-ibm-alpine321_container-x64-1": {
     "name": "test-ibm-alpine321_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-alpine321_container-x64-1",
