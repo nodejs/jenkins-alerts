@@ -151,7 +151,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
@@ -228,7 +228,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-5": {
     "name": "test-azure_msft-win11_vs2022-arm64-5",
@@ -261,7 +261,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
@@ -871,7 +871,7 @@
   "test-ibm-rhel8-x64-3": {
     "name": "test-ibm-rhel8-x64-3",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 33,
+    "diskUsage": 32,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1427,7 +1427,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
@@ -1471,7 +1471,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
@@ -1539,8 +1539,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-a71x6": {
-    "name": "vm-a71x6",
+  "vm-y4w6b": {
+    "name": "vm-y4w6b",
     "description": null,
     "diskUsage": 23,
     "architecture": "Mac OS X (x86_64)",
@@ -1550,8 +1550,8 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-phf76": {
-    "name": "vm-phf76",
+  "vm-y6608": {
+    "name": "vm-y6608",
     "description": null,
     "diskUsage": 29,
     "architecture": "Mac OS X (aarch64)",
