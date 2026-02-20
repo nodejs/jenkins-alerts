@@ -959,7 +959,7 @@
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 78,
+    "diskUsage": 76,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1201,7 +1201,7 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 49,
+    "diskUsage": 48,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": true,
@@ -1223,7 +1223,7 @@
   "test-osuosl-rhel8-ppc64_le-1": {
     "name": "test-osuosl-rhel8-ppc64_le-1",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 63,
+    "diskUsage": 62,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
