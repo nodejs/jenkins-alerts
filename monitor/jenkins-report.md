@@ -100,7 +100,7 @@
 | [test-iinthecloud-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-1) | ⚠️ **82%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-iinthecloud-ibmi74-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-2) | ✅ **43%** | OS/400 (ppc64) | N/A | 3248.3250.v3277a_8e88c9b_ | ❌ **DOWN** | 🔥 **Going to run ansible playbook to upgrade to python3.13** |    
 | [test-linuxonecc-rhel9-s390x-1](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-1) | ✅ **28%** | Linux (s390x) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
-| [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **30%** | Linux (s390x) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
+| [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **29%** | Linux (s390x) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-3](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-3) | ✅ **29%** | Linux (s390x) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-4](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-4) | ✅ **23%** | Linux (s390x) | N/A | 3327.v868139a_d00e0 | ❌ **DOWN** | N/A |    
 | [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **30%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
