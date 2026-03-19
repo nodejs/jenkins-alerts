@@ -66,7 +66,7 @@
 | [test-hetzner-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-1) | ✅ **17%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-2) | ✅ **12%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-1) | ✅ **11%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-hetzner-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
+| [test-hetzner-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-2) | N/A | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | 🔥 **85%** | AIX (ppc64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **59%** | AIX (ppc64) | N/A | 3327.v868139a_d00e0 | ❌ **DOWN** | 🔥 **going to install clang** |    
 | [test-ibm-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-3) | ✅ **14%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -77,11 +77,11 @@
 | [test-ibm-alpine322_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine322_container-x64-1) | ✅ **35%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-debian12-x64-1) | ✅ **20%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-1) | ✅ **57%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **49%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **55%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **42%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **48%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **35%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **32%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-3) | ✅ **34%** | Linux (amd64) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8_arm_cross_container-x64-1) | ✅ **35%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -118,7 +118,7 @@
 | [test-osuosl-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-1) | ✅ **42%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-2) | ✅ **36%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-3) | ✅ **49%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **39%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **46%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-5](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-5) | ✅ **36%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **20%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-1) | ✅ **30%** | Linux (ppc64le) | N/A | 3327.v868139a_d00e0 | ✅ **UP** | N/A |    
