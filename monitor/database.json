@@ -376,7 +376,7 @@
   "test-digitalocean-fedora42-x64-2": {
     "name": "test-digitalocean-fedora42-x64-2",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1438,7 +1438,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1487,7 +1487,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 90,
+    "diskUsage": 91,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1524,28 +1524,6 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-1n0kd": {
-    "name": "vm-1n0kd",
-    "description": null,
-    "diskUsage": 29,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-wo3xa": {
-    "name": "vm-wo3xa",
-    "description": null,
-    "diskUsage": 46,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true
