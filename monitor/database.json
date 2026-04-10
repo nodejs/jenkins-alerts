@@ -530,7 +530,7 @@
   "test-digitalocean-ubuntu2404-x64-1": {
     "name": "test-digitalocean-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 34,
+    "diskUsage": 35,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1036,7 +1036,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
