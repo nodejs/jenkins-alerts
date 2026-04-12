@@ -1531,7 +1531,7 @@
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
     "description": "BananaPi-F3 (SpacemiT-K1) with 4GiB RAM",
-    "diskUsage": 87,
+    "diskUsage": 88,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1542,12 +1542,12 @@
   "zz-test-sxa-debian-riscv64-1": {
     "name": "zz-test-sxa-debian-riscv64-1",
     "description": "VisionFive2 (JH7110) with 8GiB RAM running an older Debian sid/unstable with libc 2.36 and GCC12 (clang bleeding edge available in alternate location)",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 47,
+    "architecture": "Linux (riscv64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   }
 }
