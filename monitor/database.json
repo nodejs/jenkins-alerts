@@ -1528,17 +1528,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-79q6p": {
-    "name": "vm-79q6p",
-    "description": null,
-    "diskUsage": 29,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
     "description": "BananaPi-F3 (SpacemiT-K1) with 4GiB RAM",
