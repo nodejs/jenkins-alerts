@@ -695,18 +695,7 @@
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 79,
-    "architecture": "AIX (ppc64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-ibm-aix72-ppc64_be-2": {
-    "name": "test-ibm-aix72-ppc64_be-2",
-    "description": "AIX 7.2 Power 9",
-    "diskUsage": 60,
+    "diskUsage": 80,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -714,14 +703,25 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
+  "test-ibm-aix72-ppc64_be-2": {
+    "name": "test-ibm-aix72-ppc64_be-2",
+    "description": "AIX 7.2 Power 9",
+    "diskUsage": 62,
+    "architecture": "AIX (ppc64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
     "description": "AIX 7.2 Power 9",
     "diskUsage": 20,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
+    "isOffline": true,
+    "isTemporarilyOffline": true,
     "offlineCauseReason": "",
     "isIdle": true
   },
@@ -1487,7 +1487,7 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 68,
+    "diskUsage": 71,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1528,27 +1528,16 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-a4qbf": {
-    "name": "vm-a4qbf",
+  "vm-nracq": {
+    "name": "vm-nracq",
     "description": null,
-    "diskUsage": 28,
+    "diskUsage": 52,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": false
-  },
-  "vm-g6ef1": {
-    "name": "vm-g6ef1",
-    "description": null,
-    "diskUsage": 61,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
   },
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
