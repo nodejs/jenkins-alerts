@@ -1223,13 +1223,13 @@
   "test-osuosl-rhel8-ppc64_le-1": {
     "name": "test-osuosl-rhel8-ppc64_le-1",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 53,
+    "diskUsage": 54,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
