@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 70,
+    "diskUsage": 71,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -156,7 +156,7 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -178,7 +178,7 @@
   "test-azure_msft-win10_vs2019-x64-4": {
     "name": "test-azure_msft-win10_vs2019-x64-4",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -206,7 +206,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-azure_msft-win11_vs2022-arm64-3": {
     "name": "test-azure_msft-win11_vs2022-arm64-3",
@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 61,
+    "diskUsage": 62,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1157,7 +1157,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1267,7 +1267,7 @@
   "test-osuosl-rhel8-ppc64_le-5": {
     "name": "test-osuosl-rhel8-ppc64_le-5",
     "description": "RHEL 8 running on POWER 9",
-    "diskUsage": 35,
+    "diskUsage": 34,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1410,7 +1410,7 @@
   "test-rackspace-win2019_vs2019-x64-1": {
     "name": "test-rackspace-win2019_vs2019-x64-1",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1432,7 +1432,7 @@
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 57,
+    "diskUsage": 58,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1443,7 +1443,7 @@
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": 61,
+    "diskUsage": 62,
     "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1454,7 +1454,7 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1476,7 +1476,7 @@
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 92,
+    "diskUsage": 93,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1531,7 +1531,7 @@
   "vm-3qe5j": {
     "name": "vm-3qe5j",
     "description": null,
-    "diskUsage": 30,
+    "diskUsage": 31,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1539,8 +1539,19 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-x3r8w": {
-    "name": "vm-x3r8w",
+  "vm-9zsij": {
+    "name": "vm-9zsij",
+    "description": null,
+    "diskUsage": 53,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-pm4hu": {
+    "name": "vm-pm4hu",
     "description": null,
     "diskUsage": 30,
     "architecture": "Mac OS X (aarch64)",
@@ -1553,13 +1564,13 @@
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
     "description": "BananaPi-F3 (SpacemiT-K1) with 4GiB RAM",
-    "diskUsage": 92,
-    "architecture": "Linux (riscv64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
+    "offlineCauseReason": "Connection was broken",
+    "isIdle": true
   },
   "zz-test-sxa-debian-riscv64-1": {
     "name": "zz-test-sxa-debian-riscv64-1",
