@@ -376,7 +376,7 @@
   "test-digitalocean-fedora42-x64-1": {
     "name": "test-digitalocean-fedora42-x64-1",
     "description": "",
-    "diskUsage": 24,
+    "diskUsage": 25,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -904,7 +904,7 @@
   "test-ibm-rhel9-x64-1": {
     "name": "test-ibm-rhel9-x64-1",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 87,
+    "diskUsage": 85,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1528,10 +1528,21 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
+  "vm-2ujuh": {
+    "name": "vm-2ujuh",
+    "description": null,
+    "diskUsage": 61,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
   "vm-3qe5j": {
     "name": "vm-3qe5j",
     "description": null,
-    "diskUsage": 54,
+    "diskUsage": 29,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1542,7 +1553,7 @@
   "vm-jxcah": {
     "name": "vm-jxcah",
     "description": null,
-    "diskUsage": 24,
+    "diskUsage": 30,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1553,7 +1564,7 @@
   "vm-rawwz": {
     "name": "vm-rawwz",
     "description": null,
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
