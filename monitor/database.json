@@ -167,7 +167,7 @@
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 53,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1542,7 +1542,7 @@
   "zz-test-sxa-debian-riscv64-1": {
     "name": "zz-test-sxa-debian-riscv64-1",
     "description": "VisionFive2 (JH7110) with 8GiB RAM running an older Debian sid/unstable with libc 2.36 and GCC12 (clang bleeding edge available in alternate location)",
-    "diskUsage": 51,
+    "diskUsage": 50,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
