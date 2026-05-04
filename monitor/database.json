@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 58,
+    "diskUsage": 59,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -266,7 +266,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 60,
+    "diskUsage": 61,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -690,7 +690,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
@@ -1223,9 +1223,9 @@
   "test-osuosl-rhel8-ppc64_le-1": {
     "name": "test-osuosl-rhel8-ppc64_le-1",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 51,
-    "architecture": "Linux (ppc64le)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1234,9 +1234,9 @@
   "test-osuosl-rhel8-ppc64_le-2": {
     "name": "test-osuosl-rhel8-ppc64_le-2",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 38,
-    "architecture": "Linux (ppc64le)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1245,9 +1245,9 @@
   "test-osuosl-rhel8-ppc64_le-3": {
     "name": "test-osuosl-rhel8-ppc64_le-3",
     "description": "RHEL 8 running on POWER 8",
-    "diskUsage": 48,
-    "architecture": "Linux (ppc64le)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1256,7 +1256,7 @@
   "test-osuosl-rhel8-ppc64_le-4": {
     "name": "test-osuosl-rhel8-ppc64_le-4",
     "description": "RHEL 8 running on POWER 9",
-    "diskUsage": 44,
+    "diskUsage": 43,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1267,7 +1267,7 @@
   "test-osuosl-rhel8-ppc64_le-5": {
     "name": "test-osuosl-rhel8-ppc64_le-5",
     "description": "RHEL 8 running on POWER 9",
-    "diskUsage": 39,
+    "diskUsage": 38,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
