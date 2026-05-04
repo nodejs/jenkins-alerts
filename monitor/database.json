@@ -178,7 +178,7 @@
   "test-azure_msft-win10_vs2019-x64-4": {
     "name": "test-azure_msft-win10_vs2019-x64-4",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 52,
+    "diskUsage": 51,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -695,7 +695,7 @@
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 46,
+    "diskUsage": 45,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1524,17 +1524,6 @@
     "architecture": null,
     "monitorVersion": null,
     "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-618i5": {
-    "name": "vm-618i5",
-    "description": null,
-    "diskUsage": 54,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": true

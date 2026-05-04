@@ -20,7 +20,7 @@
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **55%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **51%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **51%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **52%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **51%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **5%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-2) | ✅ **6%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-3) | ✅ **4%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -67,7 +67,7 @@
 | [test-hetzner-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-2) | ✅ **11%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ❌ **DOWN** | 🔥 **https://github.com/nodejs/build/issues/4144** |    
 | [test-hetzner-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-1) | ✅ **11%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-2) | ✅ **14%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ✅ **46%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ✅ **45%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **51%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-3) | ✅ **25%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
@@ -143,7 +143,6 @@
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | 🔥 **86%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | 🔥 **93%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [vm-618i5](https://ci.nodejs.org/manage/computer/vm-618i5) | ✅ **54%** | Mac OS X (x86_64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | 🔥 **99%** | Linux (riscv64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [zz-test-sxa-debian-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-debian-riscv64-1) | ✅ **52%** | Linux (riscv64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 
