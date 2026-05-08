@@ -67,7 +67,7 @@
 | [test-hetzner-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2204-x64-2) | ✅ **11%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ❌ **DOWN** | 🔥 **https://github.com/nodejs/build/issues/4144** |    
 | [test-hetzner-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-1) | ✅ **11%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-2) | ✅ **14%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ⚠️ **82%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ⚠️ **81%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ✅ **55%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-3) | ⚠️ **78%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ❌ **DOWN** | 🔥 **Updating java** |    
 | [test-ibm-aix73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-1) | N/A | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -77,7 +77,7 @@
 | [test-ibm-alpine322_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine322_container-x64-1) | ✅ **35%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-debian12-x64-1) | ✅ **25%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Restarting for copyfail patch** |    
-| [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **48%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **47%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **45%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ✅ **54%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **38%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -105,10 +105,10 @@
 | [test-linuxonecc-rhel9-s390x-3](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-3) | ✅ **30%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-4](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-4) | ✅ **32%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **30%** | Linux (loongarch64) | N/A | 3131.vf2b_b_798b_ce99 | ✅ **UP** | N/A |    
-| [test-mnx-smartos22-x64-3](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-3) | ✅ **40%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
+| [test-mnx-smartos22-x64-3](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-3) | ✅ **35%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-mnx-smartos22-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-4) | ✅ **21%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-mnx-smartos23-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-4) | ✅ **45%** | SunOS (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
-| [test-mnx-smartos23-x64-6](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-6) | ✅ **51%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
+| [test-mnx-smartos23-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-4) | ✅ **40%** | SunOS (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-mnx-smartos23-x64-6](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-6) | ✅ **48%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-mnx-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-1) | ✅ **52%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-mnx-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-2) | ⚠️ **74%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Check: https://github.com/nodejs-private/build-private/issues/15** |    
