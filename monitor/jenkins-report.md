@@ -18,7 +18,7 @@
 | [test-azure-ubuntu2404_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-5) | ⚠️ **69%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-6) | ⚠️ **69%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **51%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **51%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **50%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **54%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **54%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **5%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -26,7 +26,7 @@
 | [test-azure_msft-win11_vs2022-arm64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-3) | ✅ **5%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-arm64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-4) | ✅ **5%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-1) | ⚠️ **75%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-2) | ⚠️ **62%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-2) | ⚠️ **63%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-3) | ⚠️ **76%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win11_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-4) | ⚠️ **83%** | Windows 11 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win2016_vs2017-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-1) | ✅ **35%** | Windows Server 2016 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -98,7 +98,7 @@
 | [test-ibm-ubuntu2404_sharedlibs_container-x64-4](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404_sharedlibs_container-x64-4) | ✅ **37%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2404_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404_sharedlibs_container-x64-5) | ✅ **37%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-zos24-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-zos24-s390x-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-iinthecloud-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-1) | ⚠️ **67%** | OS/400 (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-iinthecloud-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-1) | ⚠️ **66%** | OS/400 (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-iinthecloud-ibmi74-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-iinthecloud-ibmi74-ppc64_be-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Going to run ansible playbook to upgrade to python3.13** |    
 | [test-linuxonecc-rhel9-s390x-1](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-1) | ✅ **28%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **30%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -134,7 +134,7 @@
 | [test-rackspace-win2016_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-2) | ✅ **36%** | Windows Server 2016 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-1) | ✅ **58%** | Windows Server 2019 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-2) | ✅ **56%** | Windows Server 2019 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **57%** | Windows Server 2019 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **54%** | Windows Server 2019 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **54%** | Windows Server 2019 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | 🔥 **86%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ⚠️ **75%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -143,7 +143,6 @@
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ⚠️ **79%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | 🔥 **90%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [vm-iugu0](https://ci.nodejs.org/manage/computer/vm-iugu0) | ✅ **54%** | Mac OS X (x86_64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [zz-test-sxa-debian-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-debian-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 
