@@ -387,13 +387,13 @@
   "test-digitalocean-fedora42-x64-2": {
     "name": "test-digitalocean-fedora42-x64-2",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-fedora43-x64-1": {
     "name": "test-digitalocean-fedora43-x64-1",
@@ -415,7 +415,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-freebsd13-x64-1": {
     "name": "test-digitalocean-freebsd13-x64-1",
@@ -712,7 +712,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
@@ -1284,7 +1284,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-osuosl-rhel9-ppc64_le-1": {
     "name": "test-osuosl-rhel9-ppc64_le-1",
@@ -1438,7 +1438,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1471,7 +1471,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
@@ -1528,8 +1528,19 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-51if2": {
-    "name": "vm-51if2",
+  "vm-5wr3q": {
+    "name": "vm-5wr3q",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-to6rh": {
+    "name": "vm-to6rh",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
@@ -1537,18 +1548,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-pmo63": {
-    "name": "vm-pmo63",
-    "description": null,
-    "diskUsage": 30,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
