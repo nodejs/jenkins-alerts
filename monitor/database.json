@@ -393,7 +393,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-fedora43-x64-1": {
     "name": "test-digitalocean-fedora43-x64-1",
@@ -415,7 +415,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-freebsd13-x64-1": {
     "name": "test-digitalocean-freebsd13-x64-1",
@@ -712,7 +712,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
@@ -1438,7 +1438,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1528,8 +1528,19 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-1ht16": {
-    "name": "vm-1ht16",
+  "vm-apv5e": {
+    "name": "vm-apv5e",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "vm-dlmvz": {
+    "name": "vm-dlmvz",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
@@ -1538,17 +1549,6 @@
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
     "isIdle": false
-  },
-  "vm-333sq": {
-    "name": "vm-333sq",
-    "description": null,
-    "diskUsage": 30,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
   },
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
