@@ -750,18 +750,18 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Machine being used to test AIX 7.3 setup - currently with 16GB RAM and 4 SMT8 cores",
-    "diskUsage": 43,
+    "diskUsage": 41,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-4": {
     "name": "test-ibm-aix73-ppc64_be-4",
     "description": "Labels disabled by sxa : POtential failures on node 24: https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62792/",
-    "diskUsage": 56,
+    "diskUsage": 60,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1460,7 +1460,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1550,19 +1550,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-feg2r": {
-    "name": "vm-feg2r",
-    "description": null,
-    "diskUsage": 54,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "vm-yin8w": {
-    "name": "vm-yin8w",
+  "vm-fkv93": {
+    "name": "vm-fkv93",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
