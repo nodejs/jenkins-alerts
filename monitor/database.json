@@ -1460,7 +1460,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1550,10 +1550,10 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-3ch2v": {
-    "name": "vm-3ch2v",
+  "vm-6tnho": {
+    "name": "vm-6tnho",
     "description": null,
-    "diskUsage": 30,
+    "diskUsage": 29,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1561,8 +1561,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-uj45p": {
-    "name": "vm-uj45p",
+  "vm-tca0i": {
+    "name": "vm-tca0i",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
