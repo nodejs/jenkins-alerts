@@ -717,18 +717,18 @@
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 74,
+    "architecture": "AIX (ppc64)",
+    "monitorVersion": "3352.v17a_fb_4b_2773f",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-5": {
     "name": "test-ibm-aix72-ppc64_be-5",
     "description": "AIX 7.2 Power 9 (SXA TEST SYSTEM FOR ANSIBLE - NOT FOR PRODUCTION USE)",
-    "diskUsage": 64,
+    "diskUsage": 66,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1234,7 +1234,7 @@
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-debian11_container-armv7l-1",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (arm)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1300,7 +1300,7 @@
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-rhel8_container-arm64-1",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1333,7 +1333,7 @@
   "test-osuosl-ubuntu2204_container-armv7l-1": {
     "name": "test-osuosl-ubuntu2204_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-armv7l-1",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (arm)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1344,18 +1344,18 @@
   "test-osuosl-ubuntu2404_container-arm64-1": {
     "name": "test-osuosl-ubuntu2404_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2404_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2404_container-arm64-1",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2404_container-arm64-2": {
     "name": "test-osuosl-ubuntu2404_container-arm64-2",
     "description": "Docker container running on test-osuosl-ubuntu2404_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2404_container-arm64-2",
-    "diskUsage": 28,
+    "diskUsage": 26,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
