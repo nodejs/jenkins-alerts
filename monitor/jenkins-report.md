@@ -4,17 +4,17 @@
 
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
-| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ⚠️ **69%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ⚠️ **67%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-debian11_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-1) | ⚠️ **73%** | Linux (arm) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-2) | ⚠️ **70%** | Linux (arm) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure-debian11_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian11_container-armv7l-2) | ⚠️ **71%** | Linux (arm) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-1) | ⚠️ **73%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure-rhel8_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-2) | ⚠️ **70%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure-rhel8_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-2) | ⚠️ **71%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-1) | ⚠️ **73%** | Linux (arm) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-2) | ⚠️ **70%** | Linux (arm) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-2) | ⚠️ **71%** | Linux (arm) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-1) | ⚠️ **73%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-2) | ⚠️ **70%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-2) | ⚠️ **71%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-3) | ⚠️ **73%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-4) | ⚠️ **70%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-4) | ⚠️ **71%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-5) | ⚠️ **74%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-6) | ⚠️ **74%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **49%** | Windows 10 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -111,7 +111,7 @@
 | [test-mnx-smartos22-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-4) | ✅ **21%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
 | [test-mnx-smartos23-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-4) | ✅ **36%** | SunOS (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-mnx-smartos23-x64-6](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-6) | ✅ **35%** | SunOS (amd64) | N/A | 3283.v92c105e0f819 | ✅ **UP** | N/A |    
-| [test-mnx-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-1) | ✅ **52%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-mnx-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-1) | ✅ **51%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-mnx-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-2) | ⚠️ **75%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Check: https://github.com/nodejs-private/build-private/issues/15** |    
 | [test-osuosl-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-osuosl-aix72-ppc64_be-3) | ✅ **13%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
