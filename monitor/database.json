@@ -728,7 +728,7 @@
   "test-ibm-aix72-ppc64_be-5": {
     "name": "test-ibm-aix72-ppc64_be-5",
     "description": "AIX 7.2 Power 9 (SXA TEST SYSTEM FOR ANSIBLE - NOT FOR PRODUCTION USE)",
-    "diskUsage": 64,
+    "diskUsage": 66,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1460,7 +1460,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
@@ -1550,8 +1550,8 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-qge0x": {
-    "name": "vm-qge0x",
+  "vm-3fvq2": {
+    "name": "vm-3fvq2",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
@@ -1561,10 +1561,10 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-velea": {
-    "name": "vm-velea",
+  "vm-if772": {
+    "name": "vm-if772",
     "description": null,
-    "diskUsage": 30,
+    "diskUsage": 29,
     "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
