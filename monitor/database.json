@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 68,
+    "diskUsage": 66,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -13,7 +13,7 @@
   "test-azure-debian11_container-armv7l-1": {
     "name": "test-azure-debian11_container-armv7l-1",
     "description": "Docker container running on test-equinix-ubuntu2004_docker-arm64-1 in /home/iojs/test-equinix-debian11_container-armv7l-1",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Linux (arm)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -35,7 +35,7 @@
   "test-azure-rhel8_container-arm64-1": {
     "name": "test-azure-rhel8_container-arm64-1",
     "description": "Donated by WorksOnArm: DOCKER CONTAINER ON test-equinix-ubuntu2004_docker-arm64-1 (160-core Ampere Altra Baremetal ARMv8)",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -57,7 +57,7 @@
   "test-azure-ubuntu2204_container-armv7l-1": {
     "name": "test-azure-ubuntu2204_container-armv7l-1",
     "description": "DOCKER CONTAINER ON test-azure-ubuntu2404_docker-arm64-1",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Linux (arm)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -79,7 +79,7 @@
   "test-azure-ubuntu2404_container-arm64-1": {
     "name": "test-azure-ubuntu2404_container-arm64-1",
     "description": "DOCKER CONTAINER ON test-azure-ubuntu2404_docker-arm64-1",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -101,7 +101,7 @@
   "test-azure-ubuntu2404_container-arm64-3": {
     "name": "test-azure-ubuntu2404_container-arm64-3",
     "description": "DOCKER CONTAINER ON test-azure-ubuntu2404_docker-arm64-1",
-    "diskUsage": 73,
+    "diskUsage": 74,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -723,7 +723,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-5": {
     "name": "test-ibm-aix72-ppc64_be-5",
@@ -731,10 +731,10 @@
     "diskUsage": 46,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Performing manual testing on shared libraries",
-    "isIdle": true
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   },
   "test-ibm-aix73-ppc64_be-1": {
     "name": "test-ibm-aix73-ppc64_be-1",
@@ -1058,7 +1058,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 76,
+    "diskUsage": 72,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1234,7 +1234,7 @@
   "test-osuosl-debian11_container-armv7l-1": {
     "name": "test-osuosl-debian11_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-debian11_container-armv7l-1",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (arm)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1300,7 +1300,7 @@
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-rhel8_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1333,7 +1333,7 @@
   "test-osuosl-ubuntu2204_container-armv7l-1": {
     "name": "test-osuosl-ubuntu2204_container-armv7l-1",
     "description": "Docker container running on test-osuosl-ubuntu2004_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2204_container-armv7l-1",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (arm)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-osuosl-ubuntu2404_container-arm64-1": {
     "name": "test-osuosl-ubuntu2404_container-arm64-1",
     "description": "Docker container running on test-osuosl-ubuntu2404_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2404_container-arm64-1",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1355,7 +1355,7 @@
   "test-osuosl-ubuntu2404_container-arm64-2": {
     "name": "test-osuosl-ubuntu2404_container-arm64-2",
     "description": "Docker container running on test-osuosl-ubuntu2404_docker-arm64-1 in /home/iojs/test-osuosl-ubuntu2404_container-arm64-2",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
