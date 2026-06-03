@@ -728,12 +728,12 @@
   "test-ibm-aix72-ppc64_be-5": {
     "name": "test-ibm-aix72-ppc64_be-5",
     "description": "AIX 7.2 Power 9 (SXA TEST SYSTEM FOR ANSIBLE - NOT FOR PRODUCTION USE)",
-    "diskUsage": 100,
+    "diskUsage": 56,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Disk space is below threshold of 204.80 MiB. Only 62.99 MiB out of 20.00 GiB left on /home/iojs/build.",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-1": {
@@ -750,7 +750,7 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 59,
+    "diskUsage": 57,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
