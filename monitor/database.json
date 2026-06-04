@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 66,
+    "diskUsage": 67,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -123,7 +123,7 @@
   "test-azure-ubuntu2404_container-arm64-5": {
     "name": "test-azure-ubuntu2404_container-arm64-5",
     "description": "Larger Azure ARM vm docker container running on test-azure-ubuntu2404_docker-arm64-3",
-    "diskUsage": 61,
+    "diskUsage": 75,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -134,7 +134,7 @@
   "test-azure-ubuntu2404_container-arm64-6": {
     "name": "test-azure-ubuntu2404_container-arm64-6",
     "description": "Larger Azure ARM vm docker container running on test-azure-ubuntu2404_docker-arm64-3",
-    "diskUsage": 61,
+    "diskUsage": 75,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -365,7 +365,7 @@
   "test-digitalocean-debian13-x64-2": {
     "name": "test-digitalocean-debian13-x64-2",
     "description": "",
-    "diskUsage": 25,
+    "diskUsage": 24,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -690,12 +690,12 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 85,
+    "diskUsage": 86,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -728,13 +728,13 @@
   "test-ibm-aix72-ppc64_be-5": {
     "name": "test-ibm-aix72-ppc64_be-5",
     "description": "AIX 7.2 Power 9 (SXA TEST SYSTEM FOR ANSIBLE - NOT FOR PRODUCTION USE)",
-    "diskUsage": 56,
+    "diskUsage": 70,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix73-ppc64_be-1": {
     "name": "test-ibm-aix73-ppc64_be-1",
@@ -750,18 +750,18 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 59,
+    "diskUsage": 56,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix73-ppc64_be-4": {
     "name": "test-ibm-aix73-ppc64_be-4",
     "description": "Labels disabled by sxa : POtential failures on node 24: https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62792/",
-    "diskUsage": 77,
+    "diskUsage": 78,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -772,18 +772,18 @@
   "test-ibm-aix73-ppc64_be-5": {
     "name": "test-ibm-aix73-ppc64_be-5",
     "description": "Machine being used to test AIX 7.3 setup - currently with 16GB RAM and 4 SMT8 cores",
-    "diskUsage": 37,
+    "diskUsage": 44,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-alpine321_container-x64-1": {
     "name": "test-ibm-alpine321_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-alpine321_container-x64-1",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -794,7 +794,7 @@
   "test-ibm-alpine322_container-x64-1": {
     "name": "test-ibm-alpine322_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-alpine322_container-x64-1",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -882,7 +882,7 @@
   "test-ibm-rhel8-x64-2": {
     "name": "test-ibm-rhel8-x64-2",
     "description": "RHEL 8 running on x64",
-    "diskUsage": 34,
+    "diskUsage": 33,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -904,7 +904,7 @@
   "test-ibm-rhel8_arm_cross_container-x64-1": {
     "name": "test-ibm-rhel8_arm_cross_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-rhel8_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -926,7 +926,7 @@
   "test-ibm-rhel9-x64-1": {
     "name": "test-ibm-rhel9-x64-1",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 86,
+    "diskUsage": 84,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -948,7 +948,7 @@
   "test-ibm-rhel9_arm_cross_container-x64-1": {
     "name": "test-ibm-rhel9_arm_cross_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-rhel9_arm_cross_container-x64-1 (ARM cross compiler)",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -959,7 +959,7 @@
   "test-ibm-ubi81_container-x64-1": {
     "name": "test-ibm-ubi81_container-x64-1",
     "description": "Docker container running Universal Base Image 8.1 on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubi81_container-x64-1",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -992,7 +992,7 @@
   "test-ibm-ubuntu2404_sharedlibs_container-x64-1": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-1",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2404_sharedlibs_container-x64-1",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1003,7 +1003,7 @@
   "test-ibm-ubuntu2404_sharedlibs_container-x64-2": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-2",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2404_sharedlibs_container-x64-2",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1014,7 +1014,7 @@
   "test-ibm-ubuntu2404_sharedlibs_container-x64-3": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-3",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2404_sharedlibs_container-x64-3",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1025,7 +1025,7 @@
   "test-ibm-ubuntu2404_sharedlibs_container-x64-4": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-4",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2404_sharedlibs_container-x64-4",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1036,7 +1036,7 @@
   "test-ibm-ubuntu2404_sharedlibs_container-x64-5": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-5",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2404_sharedlibs_container-x64-5",
-    "diskUsage": 37,
+    "diskUsage": 36,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1124,7 +1124,7 @@
   "test-loongson-clfs_loong64-1": {
     "name": "test-loongson-clfs_loong64-1",
     "description": "Machine for nightly loongson test job",
-    "diskUsage": 32,
+    "diskUsage": 33,
     "architecture": "Linux (loongarch64)",
     "monitorVersion": "3131.vf2b_b_798b_ce99",
     "isOffline": false,
@@ -1168,7 +1168,7 @@
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
     "description": "",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3283.v92c105e0f819",
     "isOffline": false,
@@ -1223,7 +1223,7 @@
   "test-osuosl-aix72-ppc64_be-4": {
     "name": "test-osuosl-aix72-ppc64_be-4",
     "description": "",
-    "diskUsage": 64,
+    "diskUsage": 65,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3327.v868139a_d00e0",
     "isOffline": false,
@@ -1289,7 +1289,7 @@
   "test-osuosl-rhel8-ppc64_le-5": {
     "name": "test-osuosl-rhel8-ppc64_le-5",
     "description": "RHEL 8 running on POWER 9",
-    "diskUsage": 39,
+    "diskUsage": 38,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1322,7 +1322,7 @@
   "test-osuosl-rhel9-ppc64_le-2": {
     "name": "test-osuosl-rhel9-ppc64_le-2",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 26,
+    "diskUsage": 25,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1399,7 +1399,7 @@
   "test-rackspace-ubuntu2404-x64-2": {
     "name": "test-rackspace-ubuntu2404-x64-2",
     "description": "",
-    "diskUsage": 26,
+    "diskUsage": 25,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
