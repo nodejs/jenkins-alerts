@@ -167,7 +167,7 @@
   "test-azure_msft-win10_vs2019-x64-1": {
     "name": "test-azure_msft-win10_vs2019-x64-1",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 53,
+    "diskUsage": 54,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -178,7 +178,7 @@
   "test-azure_msft-win10_vs2019-x64-2": {
     "name": "test-azure_msft-win10_vs2019-x64-2",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 54,
+    "diskUsage": 55,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -189,7 +189,7 @@
   "test-azure_msft-win10_vs2019-x64-3": {
     "name": "test-azure_msft-win10_vs2019-x64-3",
     "description": "Windows 10 with Visual Studio 2019",
-    "diskUsage": 53,
+    "diskUsage": 54,
     "architecture": "Windows 10 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -255,12 +255,12 @@
   "test-azure_msft-win11_vs2022-x64-1": {
     "name": "test-azure_msft-win11_vs2022-x64-1",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 64,
+    "diskUsage": 65,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-azure_msft-win11_vs2022-x64-2": {
@@ -772,7 +772,7 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 61,
+    "diskUsage": 59,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
