@@ -673,13 +673,13 @@
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 86,
+    "diskUsage": 85,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
@@ -728,13 +728,13 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 58,
+    "diskUsage": 55,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-4": {
     "name": "test-ibm-aix73-ppc64_be-4",
@@ -1174,7 +1174,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-aix72-ppc64_be-2": {
     "name": "test-osuosl-aix72-ppc64_be-2",
@@ -1207,7 +1207,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-debian13_container-armv7l-1": {
     "name": "test-osuosl-debian13_container-armv7l-1",
@@ -1218,7 +1218,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8-ppc64_le-1": {
     "name": "test-osuosl-rhel8-ppc64_le-1",
