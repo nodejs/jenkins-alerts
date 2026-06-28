@@ -141,10 +141,6 @@
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ⚠️ **70%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ⚠️ **62%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [vm-7cca9](https://ci.nodejs.org/manage/computer/vm-7cca9) | ✅ **30%** | Mac OS X (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [vm-b0nfm](https://ci.nodejs.org/manage/computer/vm-b0nfm) | ✅ **24%** | Mac OS X (x86_64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [vm-cw59g](https://ci.nodejs.org/manage/computer/vm-cw59g) | ✅ **46%** | Mac OS X (x86_64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [vm-j56vl](https://ci.nodejs.org/manage/computer/vm-j56vl) | ✅ **34%** | Mac OS X (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [zz-test-sxa-debian-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-debian-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 
