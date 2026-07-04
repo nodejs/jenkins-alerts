@@ -1520,12 +1520,12 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 31,
-    "architecture": "Linux (riscv64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": "3355.v388858a_47b_33",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "isOffline": true,
+    "isTemporarilyOffline": true,
+    "offlineCauseReason": "Offline while testing another jenkins agent",
     "isIdle": true
   },
   "zz-test-sxa-debian-riscv64-1": {
