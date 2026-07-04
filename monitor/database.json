@@ -24,7 +24,7 @@
   "test-azure-debian13_container-armv7l-2": {
     "name": "test-azure-debian13_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2 in /home/iojs/test-azure-debian13_container-armv7l-2",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Linux (arm)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -46,7 +46,7 @@
   "test-azure-rhel8_container-arm64-2": {
     "name": "test-azure-rhel8_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -68,7 +68,7 @@
   "test-azure-ubuntu2204_container-armv7l-2": {
     "name": "test-azure-ubuntu2204_container-armv7l-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Linux (arm)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -90,7 +90,7 @@
   "test-azure-ubuntu2404_container-arm64-2": {
     "name": "test-azure-ubuntu2404_container-arm64-2",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -112,7 +112,7 @@
   "test-azure-ubuntu2404_container-arm64-4": {
     "name": "test-azure-ubuntu2404_container-arm64-4",
     "description": "Docker container running on test-azure-ubuntu2404_docker-arm64-2",
-    "diskUsage": 82,
+    "diskUsage": 83,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
