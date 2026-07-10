@@ -1520,7 +1520,7 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 51,
+    "diskUsage": 52,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
