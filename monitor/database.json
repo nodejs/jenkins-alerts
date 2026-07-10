@@ -662,7 +662,7 @@
   "test-ibm-aix72-ppc64_be-2": {
     "name": "test-ibm-aix72-ppc64_be-2",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 85,
+    "diskUsage": 84,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -706,7 +706,7 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 63,
+    "diskUsage": 61,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1509,7 +1509,7 @@
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
     "description": "BananaPi-F3 (SpacemiT-K1) with 4GiB RAM",
-    "diskUsage": 94,
+    "diskUsage": 95,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1520,7 +1520,7 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 53,
+    "diskUsage": 54,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
