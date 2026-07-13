@@ -1438,7 +1438,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
@@ -1506,17 +1506,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-q1am1": {
-    "name": "vm-q1am1",
-    "description": null,
-    "diskUsage": 46,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3355.v388858a_47b_33",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
     "description": "BananaPi-F3 (SpacemiT-K1) with 4GiB RAM",
@@ -1531,13 +1520,13 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 60,
+    "architecture": "Linux (riscv64)",
+    "monitorVersion": "3355.v388858a_47b_33",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
+    "offlineCauseReason": "",
+    "isIdle": false
   },
   "zz-test-sxa-debian-riscv64-1": {
     "name": "zz-test-sxa-debian-riscv64-1",
