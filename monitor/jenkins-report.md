@@ -143,8 +143,6 @@
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [vm-7s0it](https://ci.nodejs.org/manage/computer/vm-7s0it) | ✅ **51%** | Mac OS X (x86_64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [vm-imqnb](https://ci.nodejs.org/manage/computer/vm-imqnb) | ✅ **24%** | Mac OS X (x86_64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [vm-ko79e](https://ci.nodejs.org/manage/computer/vm-ko79e) | ✅ **52%** | Mac OS X (aarch64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [vm-kznqc](https://ci.nodejs.org/manage/computer/vm-kznqc) | ⚠️ **60%** | Mac OS X (aarch64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [vm-r8180](https://ci.nodejs.org/manage/computer/vm-r8180) | ✅ **48%** | Mac OS X (x86_64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | 🔥 **96%** | Linux (riscv64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [zz-test-sxa-bianbu-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-bianbu-riscv64-1) | ⚠️ **60%** | Linux (riscv64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
