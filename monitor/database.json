@@ -706,7 +706,7 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 59,
+    "diskUsage": 62,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1113,7 +1113,7 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 50,
+    "diskUsage": 46,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
