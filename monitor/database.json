@@ -1506,10 +1506,10 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-0gzjb": {
-    "name": "vm-0gzjb",
+  "vm-76cl5": {
+    "name": "vm-76cl5",
     "description": null,
-    "diskUsage": 55,
+    "diskUsage": 47,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -1517,10 +1517,10 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-a9hfz": {
-    "name": "vm-a9hfz",
+  "vm-iq8pk": {
+    "name": "vm-iq8pk",
     "description": null,
-    "diskUsage": 50,
+    "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -1528,16 +1528,16 @@
     "offlineCauseReason": "",
     "isIdle": false
   },
-  "vm-zyjff": {
-    "name": "vm-zyjff",
+  "vm-x2vgc": {
+    "name": "vm-x2vgc",
     "description": null,
-    "diskUsage": 55,
+    "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
