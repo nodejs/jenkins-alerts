@@ -4,7 +4,7 @@
 
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
-| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ⚠️ **76%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ⚠️ **71%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-azure-debian13_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-debian13_container-armv7l-1) | ⚠️ **81%** | Linux (arm) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-azure-debian13_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian13_container-armv7l-2) | ⚠️ **82%** | Linux (arm) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-azure-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-1) | ⚠️ **81%** | Linux (aarch64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
