@@ -365,7 +365,7 @@
   "test-digitalocean-debian13-x64-2": {
     "name": "test-digitalocean-debian13-x64-2",
     "description": "",
-    "diskUsage": 27,
+    "diskUsage": 28,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
