@@ -126,7 +126,7 @@
 | [test-osuosl-ubuntu2404_container-arm64-2](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu2404_container-arm64-2) | ✅ **33%** | Linux (aarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-plctlab-ubuntu2204-riscv64-1](https://ci.nodejs.org/manage/computer/test-plctlab-ubuntu2204-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-rackspace-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian12-x64-1) | ✅ **43%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-rackspace-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-1) | ✅ **32%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-rackspace-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-1) | ✅ **29%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-2) | ✅ **25%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ❌ **DOWN** | 🔥 **Takin offline due to citgm issues e.g. https://ci.nodejs.org/job/citgm-smoker/nodes=ubuntu2404-x64/3732/console** |    
 | [test-rackspace-win2016_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-1) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2016_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-2) | ✅ **35%** | Windows Server 2016 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
