@@ -1267,13 +1267,13 @@
   "test-osuosl-rhel8-ppc64_le-5": {
     "name": "test-osuosl-rhel8-ppc64_le-5",
     "description": "RHEL 8 running on POWER 9",
-    "diskUsage": 37,
+    "diskUsage": 39,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-rhel8_container-arm64-1": {
     "name": "test-osuosl-rhel8_container-arm64-1",
@@ -1300,13 +1300,13 @@
   "test-osuosl-rhel9-ppc64_le-2": {
     "name": "test-osuosl-rhel9-ppc64_le-2",
     "description": "RHEL 9 running on POWER 9",
-    "diskUsage": 25,
+    "diskUsage": 27,
     "architecture": "Linux (ppc64le)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-osuosl-ubuntu2204_container-armv7l-1": {
     "name": "test-osuosl-ubuntu2204_container-armv7l-1",
@@ -1465,13 +1465,13 @@
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 85,
+    "diskUsage": 94,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-3": {
     "name": "test-rackspace-win2022_vs2022-x64-3",
@@ -1487,13 +1487,13 @@
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 76,
+    "diskUsage": 89,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
@@ -1528,21 +1528,10 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-6v5dw": {
-    "name": "vm-6v5dw",
-    "description": null,
-    "diskUsage": 30,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
   "vm-dzaz1": {
     "name": "vm-dzaz1",
     "description": null,
-    "diskUsage": 24,
+    "diskUsage": 27,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -1553,40 +1542,7 @@
   "vm-k9zhl": {
     "name": "vm-k9zhl",
     "description": null,
-    "diskUsage": 24,
-    "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-o3ah0": {
-    "name": "vm-o3ah0",
-    "description": null,
-    "diskUsage": 31,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-xmcrd": {
-    "name": "vm-xmcrd",
-    "description": null,
-    "diskUsage": 30,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-y0ykp": {
-    "name": "vm-y0ykp",
-    "description": null,
-    "diskUsage": 25,
+    "diskUsage": 27,
     "architecture": "Mac OS X (x86_64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
