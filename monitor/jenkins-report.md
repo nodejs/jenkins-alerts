@@ -128,7 +128,7 @@
 | [test-osuosl-ubuntu2404_container-arm64-2](https://ci.nodejs.org/manage/computer/test-osuosl-ubuntu2404_container-arm64-2) | ✅ **34%** | Linux (aarch64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-plctlab-ubuntu2204-riscv64-1](https://ci.nodejs.org/manage/computer/test-plctlab-ubuntu2204-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-rackspace-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian12-x64-1) | ✅ **42%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-rackspace-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-1) | ⚠️ **76%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-2) | ✅ **27%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ❌ **DOWN** | 🔥 **Offline due to issue when running citgm-smoker: https://github.com/nodejs/build/issues/4427** |    
 | [test-rackspace-win2016_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-1) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-rackspace-win2016_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-2) | ✅ **36%** | Windows Server 2016 (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
@@ -143,7 +143,6 @@
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ⚠️ **77%** | Windows Server 2022 (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | 🔥 **85%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [vm-wypy4](https://ci.nodejs.org/manage/computer/vm-wypy4) | ✅ **47%** | Mac OS X (x86_64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | 🔥 **85%** | Linux (riscv64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [zz-test-sxa-bianbu-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-bianbu-riscv64-1) | ⚠️ **75%** | Linux (riscv64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [zz-test-sxa-debian-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-debian-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
