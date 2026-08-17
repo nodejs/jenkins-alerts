@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 64,
+    "diskUsage": 63,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -728,7 +728,7 @@
   "test-ibm-aix73-ppc64_be-5": {
     "name": "test-ibm-aix73-ppc64_be-5",
     "description": "Machine being used to test AIX 7.3 setup - currently with 16GB RAM and 4 SMT8 cores",
-    "diskUsage": 38,
+    "diskUsage": 30,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1069,7 +1069,7 @@
   "test-linuxonecc-rhel9-s390x-2": {
     "name": "test-linuxonecc-rhel9-s390x-2",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": 31,
+    "diskUsage": 30,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
