@@ -211,7 +211,7 @@
   "test-azure_msft-win11_vs2022-arm64-3": {
     "name": "test-azure_msft-win11_vs2022-arm64-3",
     "description": "Windows 11 ARM64 with Visual Studio 2022",
-    "diskUsage": 3,
+    "diskUsage": 4,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -673,7 +673,7 @@
   "test-ibm-aix72-ppc64_be-1": {
     "name": "test-ibm-aix72-ppc64_be-1",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 84,
+    "diskUsage": 82,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -728,7 +728,7 @@
   "test-ibm-aix73-ppc64_be-3": {
     "name": "test-ibm-aix73-ppc64_be-3",
     "description": "Marked offline due to dgram failure on v22 https://ci.nodejs.org/job/node-test-commit-aix/nodes=aix73-power9/62881/",
-    "diskUsage": 70,
+    "diskUsage": 67,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -937,7 +937,7 @@
   "test-ibm-rhel9-x64-2": {
     "name": "test-ibm-rhel9-x64-2",
     "description": "RHEL 9 running on x64",
-    "diskUsage": 86,
+    "diskUsage": 87,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
