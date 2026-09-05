@@ -2,12 +2,12 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": null,
+    "diskUsage": 94,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Disk space is below threshold of 204.80 MiB. Only 67.60 MiB out of 314.79 GiB left on /var/lib/jenkins.",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
     "isIdle": false
   },
   "test-azure-debian13_container-armv7l-1": {
@@ -1058,7 +1058,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 88,
+    "diskUsage": 91,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1559,7 +1559,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
     "name": "zz-test-sxa-bianbu-riscv64-A100",
