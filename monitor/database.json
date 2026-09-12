@@ -690,7 +690,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
@@ -827,13 +827,13 @@
   "test-ibm-rhel8-s390x-1": {
     "name": "test-ibm-rhel8-s390x-1",
     "description": "RHEL8 running on s390x",
-    "diskUsage": 55,
+    "diskUsage": 61,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-rhel8-s390x-2": {
     "name": "test-ibm-rhel8-s390x-2",
@@ -1080,13 +1080,13 @@
   "test-linuxonecc-rhel9-s390x-1": {
     "name": "test-linuxonecc-rhel9-s390x-1",
     "description": "RHEL 9 on LinuxONE (s390x)",
-    "diskUsage": 30,
+    "diskUsage": 36,
     "architecture": "Linux (s390x)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-linuxonecc-rhel9-s390x-2": {
     "name": "test-linuxonecc-rhel9-s390x-2",
@@ -1163,7 +1163,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-mnx-smartos23-x64-6": {
     "name": "test-mnx-smartos23-x64-6",
@@ -1539,11 +1539,44 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-60xde": {
-    "name": "vm-60xde",
+  "vm-0y6y0": {
+    "name": "vm-0y6y0",
     "description": null,
     "diskUsage": 46,
     "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3355.3357.v931d3c992987",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-ep9ut": {
+    "name": "vm-ep9ut",
+    "description": null,
+    "diskUsage": 63,
+    "architecture": "Mac OS X (aarch64)",
+    "monitorVersion": "3355.3357.v931d3c992987",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": true
+  },
+  "vm-pkfoe": {
+    "name": "vm-pkfoe",
+    "description": null,
+    "diskUsage": 52,
+    "architecture": "Mac OS X (x86_64)",
+    "monitorVersion": "3355.3357.v931d3c992987",
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
+  },
+  "vm-sl8i5": {
+    "name": "vm-sl8i5",
+    "description": null,
+    "diskUsage": 29,
+    "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
     "isTemporarilyOffline": false,
