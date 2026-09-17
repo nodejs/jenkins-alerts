@@ -120,7 +120,7 @@
 | [test-osuosl-rhel10-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel10-ppc64_le-1) | ✅ **34%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel10-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel10-ppc64_le-2) | ✅ **31%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **43%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-5](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-5) | ✅ **41%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-5](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-5) | ✅ **42%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **35%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-1) | ✅ **32%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-2) | ✅ **27%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
