@@ -346,8 +346,8 @@
     "diskUsage": 39,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
+    "isOffline": true,
+    "isTemporarilyOffline": true,
     "offlineCauseReason": "",
     "isIdle": true
   },
@@ -368,9 +368,9 @@
     "diskUsage": 29,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-digitalocean-fedora42-x64-1": {
@@ -390,9 +390,9 @@
     "diskUsage": 25,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-digitalocean-fedora43-x64-1": {
@@ -412,31 +412,9 @@
     "diskUsage": 25,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
-    "isOffline": false,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-digitalocean-rhel10-x64-1": {
-    "name": "test-digitalocean-rhel10-x64-1",
-    "description": "RHEL 10 running on x64",
-    "diskUsage": 27,
-    "architecture": "Linux (amd64)",
-    "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": true
-  },
-  "test-digitalocean-rhel10-x64-2": {
-    "name": "test-digitalocean-rhel10-x64-2",
-    "description": "RHEL 10 running on x64",
-    "diskUsage": 27,
-    "architecture": "Linux (amd64)",
-    "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-digitalocean-rhel8-x64-1": {
@@ -750,13 +728,13 @@
   "test-ibm-aix73-ppc64_be-5": {
     "name": "test-ibm-aix73-ppc64_be-5",
     "description": "Machine being used to test AIX 7.3 setup - currently with 24GB RAM and 6 SMT8 cores",
-    "diskUsage": 17,
+    "diskUsage": 11,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-ibm-alpine323_container-x64-1": {
     "name": "test-ibm-alpine323_container-x64-1",
@@ -1553,7 +1531,7 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 97,
+    "diskUsage": 96,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
