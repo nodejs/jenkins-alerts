@@ -2,7 +2,7 @@
   "Built-In Node": {
     "name": "Built-In Node",
     "description": "the Jenkins controller's built-in node",
-    "diskUsage": 72,
+    "diskUsage": 61,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
