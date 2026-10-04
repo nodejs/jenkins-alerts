@@ -15,26 +15,26 @@
 | [test-azure-ubuntu2404_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-2) | ⚠️ **83%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-3) | 🔥 **87%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-4) | ⚠️ **83%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-5) | 🔥 **88%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-6) | 🔥 **88%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **52%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **55%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **54%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **54%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **6%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-arm64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-2) | ✅ **6%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-arm64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-3) | ✅ **7%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-arm64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-4) | ✅ **13%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-1) | ✅ **59%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-2) | ⚠️ **62%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-3) | ⚠️ **61%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win11_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-4) | ⚠️ **63%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win2016_vs2017-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-1) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure_msft-win2016_vs2017-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-2) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-digitalocean-alpine323_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine323_container-x64-1) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-alpine323_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine323_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-alpine324_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine324_container-x64-1) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-alpine324_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine324_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-5) | ⚠️ **75%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-6) | ⚠️ **75%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **49%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **50%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **51%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win10_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-4) | ✅ **49%** | Windows 10 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-arm64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-1) | ✅ **4%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-arm64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-2) | ✅ **4%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-arm64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-3) | ✅ **4%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-arm64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-arm64-4) | ✅ **12%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-1) | ✅ **57%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-2) | ✅ **56%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-3) | ✅ **57%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win11_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-azure_msft-win11_vs2022-x64-4) | ✅ **58%** | Windows 11 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win2016_vs2017-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-1) | ✅ **32%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure_msft-win2016_vs2017-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win2016_vs2017-x64-2) | ✅ **33%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-digitalocean-alpine323_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine323_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-alpine323_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine323_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-alpine324_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine324_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-alpine324_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-alpine324_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian12-x64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-digitalocean-debian13-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-debian13-x64-1) | ✅ **37%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-digitalocean-debian13-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-debian13-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
@@ -42,56 +42,56 @@
 | [test-digitalocean-fedora42-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora42-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
 | [test-digitalocean-fedora43-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora43-x64-1) | ✅ **25%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-digitalocean-fedora43-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-fedora43-x64-2) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
-| [test-digitalocean-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8-x64-1) | 🔥 **87%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-digitalocean-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-1) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-rhel8_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8-x64-1) | 🔥 **89%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-digitalocean-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-rhel8_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel8_arm_cross_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-rhel9-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-digitalocean-rhel9_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-1) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-rhel9_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-1) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubi81_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-rhel9_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-rhel9_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubi81_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404-x64-1) | ✅ **41%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-1) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-10](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-10) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-2) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-3](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-3) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-4](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-4) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-5) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-6](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-6) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-7](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-7) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-8](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-8) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-9](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-9) | ⚠️ **61%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-1) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-10](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-10) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-2) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-3](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-3) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-4](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-4) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-5](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-5) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-6](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-6) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-7](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-7) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-8](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-8) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404_sharedlibs_container-x64-9](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-9) | ⚠️ **63%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-1) | ✅ **14%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-hetzner-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-hetzner-ubuntu2404-x64-2) | ✅ **14%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ⚠️ **81%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-aix72-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-1) | ⚠️ **83%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-2](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-2) | ⚠️ **84%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-3) | ⚠️ **78%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix72-ppc64_be-5](https://ci.nodejs.org/manage/computer/test-ibm-aix72-ppc64_be-5) | 🔥 **98%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ❌ **DOWN** | 🔥 **In use by sxa for testing shared libraries** |    
 | [test-ibm-aix73-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [test-ibm-aix73-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-3) | ⚠️ **64%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-aix73-ppc64_be-3](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-3) | ⚠️ **66%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-aix73-ppc64_be-4](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-4) | ✅ **38%** | AIX (ppc64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-aix73-ppc64_be-5](https://ci.nodejs.org/manage/computer/test-ibm-aix73-ppc64_be-5) | ✅ **27%** | AIX (ppc64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-alpine323_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine323_container-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-alpine324_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine324_container-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-ibm-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-debian12-x64-1) | ✅ **31%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-debian12-x64-1) | ✅ **35%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-1) | ⚠️ **74%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-2) | ✅ **45%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-3) | ✅ **49%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **56%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-3) | ✅ **47%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **57%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-2) | ✅ **46%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ⚠️ **67%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-s390x-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-3) | ⚠️ **66%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-4](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-4) | ✅ **40%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **37%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-1) | ✅ **36%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-2) | ✅ **36%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-x64-3) | ✅ **36%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8_arm_cross_container-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-rhel9-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel9-ppc64_le-1) | ✅ **52%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-rhel9-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel9-x64-1) | ⚠️ **81%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-ibm-rhel9-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel9-x64-1) | ⚠️ **79%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel9-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel9-x64-2) | 🔥 **87%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-ibm-rhel9_arm_cross_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel9_arm_cross_container-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubi81_container-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2204-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2204-x64-3) | ✅ **27%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404-x64-1) | 🔥 **86%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-ibm-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404-x64-1) | 🔥 **87%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2404_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404_sharedlibs_container-x64-1) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2404_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404_sharedlibs_container-x64-2) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-ubuntu2404_sharedlibs_container-x64-3](https://ci.nodejs.org/manage/computer/test-ibm-ubuntu2404_sharedlibs_container-x64-3) | ✅ **39%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
@@ -107,7 +107,7 @@
 | [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **9%** | Linux (loongarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-mnx-smartos22-x64-3](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-3) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Offline as the java version will not be updated in smartos22 so the test jobs for this version have been disabled** |    
 | [test-mnx-smartos22-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-4) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Offline as the java version will not be updated in smartos22 so the test jobs for this version have been disabled** |    
-| [test-mnx-smartos23-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-4) | ⚠️ **69%** | SunOS (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
+| [test-mnx-smartos23-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-4) | ⚠️ **70%** | SunOS (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
 | [test-mnx-smartos23-x64-6](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-6) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-mnx-ubuntu2204-x64-1](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-1) | ⚠️ **71%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-mnx-ubuntu2204-x64-2](https://ci.nodejs.org/manage/computer/test-mnx-ubuntu2204-x64-2) | ⚠️ **71%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -118,7 +118,7 @@
 | [test-osuosl-rhel10-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel10-ppc64_le-1) | ✅ **28%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel10-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel10-ppc64_le-2) | ✅ **29%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8-ppc64_le-4](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-4) | ✅ **53%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-osuosl-rhel8-ppc64_le-5](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-5) | ✅ **41%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-osuosl-rhel8-ppc64_le-5](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8-ppc64_le-5) | ✅ **42%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel8_container-arm64-1) | ✅ **37%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-1) | ✅ **32%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-osuosl-rhel9-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-osuosl-rhel9-ppc64_le-2) | ✅ **25%** | Linux (ppc64le) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
@@ -129,21 +129,20 @@
 | [test-rackspace-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-debian12-x64-1) | ✅ **45%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-rackspace-ubuntu2404-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-ubuntu2404-x64-2) | ✅ **28%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-rackspace-win2016_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-1) | ✅ **34%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2016_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-2) | ✅ **36%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-1) | ✅ **56%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-2) | ✅ **57%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **54%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **58%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | 🔥 **85%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ⚠️ **77%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | 🔥 **85%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | 🔥 **88%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | 🔥 **85%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | 🔥 **87%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2016_vs2015-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-1) | ✅ **33%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2016_vs2015-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2016_vs2015-x64-2) | ✅ **35%** | Windows Server 2016 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-1) | ✅ **54%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-2) | ✅ **53%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-3) | ✅ **51%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2019_vs2019-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2019_vs2019-x64-4) | ✅ **54%** | Windows Server 2019 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-1](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-1) | ✅ **57%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-2](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-2) | ✅ **56%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-3](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-3) | ✅ **56%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-4](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-4) | ✅ **58%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ✅ **58%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ✅ **56%** | Windows Server 2022 (amd64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [vm-ey0b5](https://ci.nodejs.org/manage/computer/vm-ey0b5) | ✅ **30%** | Mac OS X (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [vm-jz4ie](https://ci.nodejs.org/manage/computer/vm-jz4ie) | ✅ **24%** | Mac OS X (x86_64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [vm-r964y](https://ci.nodejs.org/manage/computer/vm-r964y) | ✅ **46%** | Mac OS X (x86_64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [zz-test-sxa-bianbu-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-bianbu-riscv64-1) | 🔥 **97%** | Linux (riscv64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [zz-test-sxa-bianbu-riscv64-A100](https://ci.nodejs.org/manage/computer/zz-test-sxa-bianbu-riscv64-A100) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
