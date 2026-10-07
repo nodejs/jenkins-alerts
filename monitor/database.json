@@ -244,7 +244,7 @@
   "test-azure_msft-win11_vs2022-x64-2": {
     "name": "test-azure_msft-win11_vs2022-x64-2",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -266,7 +266,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 63,
+    "diskUsage": 62,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -1520,8 +1520,8 @@
   "zz-test-sxa-armbian24-riscv64-1": {
     "name": "zz-test-sxa-armbian24-riscv64-1",
     "description": "BananaPi-F3 (SpacemiT-K1) with 4GiB RAM",
-    "diskUsage": 79,
-    "architecture": "Linux (riscv64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1531,7 +1531,7 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 96,
+    "diskUsage": 97,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -1542,7 +1542,7 @@
   "zz-test-sxa-bianbu-riscv64-A100": {
     "name": "zz-test-sxa-bianbu-riscv64-A100",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 96,
+    "diskUsage": 97,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
