@@ -266,7 +266,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 62,
+    "diskUsage": 61,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -723,7 +723,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix73-ppc64_be-5": {
     "name": "test-ibm-aix73-ppc64_be-5",
@@ -1526,27 +1526,27 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 97,
+    "diskUsage": 96,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.v388858a_47b_33",
-    "isOffline": true,
-    "isTemporarilyOffline": true,
-    "offlineCauseReason": "Forcing to A100",
-    "isIdle": true
+    "isOffline": false,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "",
+    "isIdle": false
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
     "name": "zz-test-sxa-bianbu-riscv64-A100",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 97,
+    "diskUsage": 96,
     "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.3357.v931d3c992987",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
+    "isOffline": true,
+    "isTemporarilyOffline": true,
     "offlineCauseReason": "",
     "isIdle": true
   },
