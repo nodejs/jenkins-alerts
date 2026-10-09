@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 63,
+    "diskUsage": 62,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -426,7 +426,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-digitalocean-rhel8_arm_cross_container-x64-1": {
     "name": "test-digitalocean-rhel8_arm_cross_container-x64-1",
@@ -959,7 +959,7 @@
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 87,
+    "diskUsage": 86,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -1042,7 +1042,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-iinthecloud-ibmi74-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-2",
@@ -1355,13 +1355,13 @@
   "test-rackspace-ubuntu2404-x64-1": {
     "name": "test-rackspace-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 35,
+    "diskUsage": 33,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-rackspace-ubuntu2404-x64-2": {
     "name": "test-rackspace-ubuntu2404-x64-2",
