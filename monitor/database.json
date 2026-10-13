@@ -8,7 +8,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure-debian13_container-armv7l-1": {
     "name": "test-azure-debian13_container-armv7l-1",
@@ -96,7 +96,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure-ubuntu2404_container-arm64-3": {
     "name": "test-azure-ubuntu2404_container-arm64-3",
@@ -118,7 +118,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-azure-ubuntu2404_container-arm64-5": {
     "name": "test-azure-ubuntu2404_container-arm64-5",
@@ -1157,7 +1157,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 82,
+    "diskUsage": 81,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1344,7 +1344,7 @@
   "test-rackspace-debian12-x64-1": {
     "name": "test-rackspace-debian12-x64-1",
     "description": "",
-    "diskUsage": 49,
+    "diskUsage": 46,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1517,17 +1517,6 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "vm-08erk": {
-    "name": "vm-08erk",
-    "description": null,
-    "diskUsage": 62,
-    "architecture": "Mac OS X (aarch64)",
-    "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
   "vm-6np8o": {
     "name": "vm-6np8o",
     "description": null,
@@ -1537,24 +1526,13 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "vm-8at35": {
     "name": "vm-8at35",
     "description": null,
     "diskUsage": 56,
     "architecture": "Mac OS X (x86_64)",
-    "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": false,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
-  },
-  "vm-90nl1": {
-    "name": "vm-90nl1",
-    "description": null,
-    "diskUsage": 37,
-    "architecture": "Mac OS X (aarch64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
