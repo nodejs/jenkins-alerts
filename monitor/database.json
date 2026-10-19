@@ -233,7 +233,7 @@
   "test-azure_msft-win11_vs2022-x64-1": {
     "name": "test-azure_msft-win11_vs2022-x64-1",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 63,
+    "diskUsage": 64,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -1036,7 +1036,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 90,
+    "diskUsage": 91,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1531,12 +1531,12 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": 99,
-    "architecture": "Linux (riscv64)",
-    "monitorVersion": "3355.v388858a_47b_33",
-    "isOffline": false,
+    "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
@@ -1544,7 +1544,7 @@
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": null,
+    "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": true,
     "isTemporarilyOffline": true,
     "offlineCauseReason": "Disk space is below threshold of 204.80 MiB. Only 193.00 MiB out of 117.02 GiB left on /home/iojs/A100.",
