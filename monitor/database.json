@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 69,
+    "diskUsage": 68,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -1533,10 +1533,10 @@
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "monitorVersion": "3355.v388858a_47b_33",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
@@ -1544,7 +1544,7 @@
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": null,
+    "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": true,
     "isTemporarilyOffline": true,
     "offlineCauseReason": "Disk space is below threshold of 204.80 MiB. Only 193.00 MiB out of 117.02 GiB left on /home/iojs/A100.",
