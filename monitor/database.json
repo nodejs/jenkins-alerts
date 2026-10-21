@@ -981,7 +981,7 @@
   "test-ibm-ubuntu2404_sharedlibs_container-x64-2": {
     "name": "test-ibm-ubuntu2404_sharedlibs_container-x64-2",
     "description": "Docker container running on test-ibm-ubuntu2204_docker-x64-1 in /home/iojs/test-ibm-ubuntu2404_sharedlibs_container-x64-2",
-    "diskUsage": 39,
+    "diskUsage": 37,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
@@ -1531,8 +1531,8 @@
   "zz-test-sxa-bianbu-riscv64-1": {
     "name": "zz-test-sxa-bianbu-riscv64-1",
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 85,
+    "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.v388858a_47b_33",
     "isOffline": false,
     "isTemporarilyOffline": false,
