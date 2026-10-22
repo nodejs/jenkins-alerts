@@ -123,7 +123,7 @@
   "test-azure-ubuntu2404_container-arm64-5": {
     "name": "test-azure-ubuntu2404_container-arm64-5",
     "description": "Larger Azure ARM vm docker container running on test-azure-ubuntu2404_docker-arm64-3",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -134,7 +134,7 @@
   "test-azure-ubuntu2404_container-arm64-6": {
     "name": "test-azure-ubuntu2404_container-arm64-6",
     "description": "Larger Azure ARM vm docker container running on test-azure-ubuntu2404_docker-arm64-3",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "Linux (aarch64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -1135,7 +1135,7 @@
   "test-mnx-smartos23-x64-4": {
     "name": "test-mnx-smartos23-x64-4",
     "description": "",
-    "diskUsage": 79,
+    "diskUsage": 74,
     "architecture": "SunOS (amd64)",
     "monitorVersion": "3248.3250.v3277a_8e88c9b_",
     "isOffline": false,
@@ -1157,7 +1157,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 83,
+    "diskUsage": 86,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": true,
