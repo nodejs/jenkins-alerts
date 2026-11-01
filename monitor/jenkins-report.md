@@ -5,18 +5,18 @@
 | name | Disk Usage | architecture | JVM Version | Monitor Version | Status | Notes |
 | -- | -- | -- | -- | -- | -- | -- |
 | [Built-In Node](https://ci.nodejs.org/manage/computer/(built-in)) | ✅ **53%** | Linux (amd64) | N/A | 3386.v353e57a_1b_ea_0 | ✅ **UP** | N/A |    
-| [test-azure-debian13_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-debian13_container-armv7l-1) | 🔥 **86%** | Linux (arm) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-debian13_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-debian13_container-armv7l-1) | 🔥 **88%** | Linux (arm) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-debian13_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-debian13_container-armv7l-2) | ⚠️ **84%** | Linux (arm) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-1) | 🔥 **86%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-rhel8_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-1) | 🔥 **88%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-rhel8_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-rhel8_container-arm64-2) | ⚠️ **84%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-1) | 🔥 **86%** | Linux (arm) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2204_container-armv7l-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-1) | 🔥 **88%** | Linux (arm) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2204_container-armv7l-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2204_container-armv7l-2) | ⚠️ **84%** | Linux (arm) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-1) | 🔥 **86%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-1](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-1) | 🔥 **88%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-2](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-2) | ⚠️ **84%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-3) | 🔥 **86%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-3](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-3) | 🔥 **88%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure-ubuntu2404_container-arm64-4](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-4) | ⚠️ **84%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-5) | ⚠️ **65%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
-| [test-azure-ubuntu2404_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-6) | ⚠️ **65%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-5](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-5) | ⚠️ **66%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-azure-ubuntu2404_container-arm64-6](https://ci.nodejs.org/manage/computer/test-azure-ubuntu2404_container-arm64-6) | ⚠️ **66%** | Linux (aarch64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-1](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-1) | ✅ **51%** | Windows 10 (amd64) | N/A | 3386.v353e57a_1b_ea_0 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-2](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-2) | ✅ **53%** | Windows 10 (amd64) | N/A | 3386.v353e57a_1b_ea_0 | ✅ **UP** | N/A |    
 | [test-azure_msft-win10_vs2019-x64-3](https://ci.nodejs.org/manage/computer/test-azure_msft-win10_vs2019-x64-3) | ✅ **51%** | Windows 10 (amd64) | N/A | 3386.v353e57a_1b_ea_0 | ✅ **UP** | N/A |    
@@ -50,7 +50,7 @@
 | [test-digitalocean-rhel9_arm_cross_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-rhel9_arm_cross_container-x64-2) | ⚠️ **66%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubi81_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-1) | ⚠️ **65%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubi81_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubi81_container-x64-2) | ⚠️ **66%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
-| [test-digitalocean-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404-x64-1) | ✅ **36%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
+| [test-digitalocean-ubuntu2404-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404-x64-1) | ✅ **37%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2404_sharedlibs_container-x64-1](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-1) | ⚠️ **65%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2404_sharedlibs_container-x64-10](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-10) | ⚠️ **66%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-digitalocean-ubuntu2404_sharedlibs_container-x64-2](https://ci.nodejs.org/manage/computer/test-digitalocean-ubuntu2404_sharedlibs_container-x64-2) | ⚠️ **66%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
@@ -104,7 +104,7 @@
 | [test-linuxonecc-rhel9-s390x-2](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-2) | ✅ **31%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-3](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-3) | ✅ **33%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
 | [test-linuxonecc-rhel9-s390x-4](https://ci.nodejs.org/manage/computer/test-linuxonecc-rhel9-s390x-4) | ✅ **39%** | Linux (s390x) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | ✅ **11%** | Linux (loongarch64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
+| [test-loongson-clfs_loong64-1](https://ci.nodejs.org/manage/computer/test-loongson-clfs_loong64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [test-mnx-smartos22-x64-3](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-3) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Offline as the java version will not be updated in smartos22 so the test jobs for this version have been disabled** |    
 | [test-mnx-smartos22-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos22-x64-4) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Offline as the java version will not be updated in smartos22 so the test jobs for this version have been disabled** |    
 | [test-mnx-smartos23-x64-4](https://ci.nodejs.org/manage/computer/test-mnx-smartos23-x64-4) | ⚠️ **74%** | SunOS (amd64) | N/A | 3248.3250.v3277a_8e88c9b_ | ✅ **UP** | N/A |    
@@ -142,7 +142,7 @@
 | [test-rackspace-win2022_vs2022-x64-5](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-5) | ⚠️ **74%** | Windows Server 2022 (amd64) | N/A | 3386.v353e57a_1b_ea_0 | ✅ **UP** | N/A |    
 | [test-rackspace-win2022_vs2022-x64-6](https://ci.nodejs.org/manage/computer/test-rackspace-win2022_vs2022-x64-6) | ✅ **57%** | Windows Server 2022 (amd64) | N/A | 3386.v353e57a_1b_ea_0 | ✅ **UP** | N/A |    
 | [test-rzkh-ibmi74-ppc64_be-1](https://ci.nodejs.org/manage/computer/test-rzkh-ibmi74-ppc64_be-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
-| [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Connection was broken** |    
+| [zz-test-sxa-armbian24-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-armbian24-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | N/A |    
 | [zz-test-sxa-bianbu-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-bianbu-riscv64-1) | 🔥 **85%** | Linux (riscv64) | N/A | 3355.v388858a_47b_33 | ❌ **DOWN** | 🔥 **Sending to A100 to populate ccache** |    
 | [zz-test-sxa-bianbu-riscv64-A100](https://ci.nodejs.org/manage/computer/zz-test-sxa-bianbu-riscv64-A100) | 🔥 **85%** | Linux (riscv64) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [zz-test-sxa-debian-riscv64-1](https://ci.nodejs.org/manage/computer/zz-test-sxa-debian-riscv64-1) | N/A | N/A | N/A | N/A | ❌ **DOWN** | 🔥 **Missing Linux header adm/hwprobe.h because that&amp;#039;s not included in linux-libc-dev 6.0.12. ALso now broken from trying to put them on** |    
