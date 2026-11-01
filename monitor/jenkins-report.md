@@ -74,7 +74,7 @@
 | [test-ibm-alpine323_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine323_container-x64-1) | ✅ **38%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-alpine324_container-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-alpine324_container-x64-1) | ✅ **38%** | Linux (amd64) | N/A | 3355.v388858a_47b_33 | ✅ **UP** | N/A |    
 | [test-ibm-debian12-x64-1](https://ci.nodejs.org/manage/computer/test-ibm-debian12-x64-1) | ✅ **34%** | Linux (amd64) | N/A | 3352.v17a_fb_4b_2773f | ✅ **UP** | N/A |    
-| [test-ibm-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-1) | ⚠️ **67%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
+| [test-ibm-rhel8-ppc64_le-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-1) | ⚠️ **68%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-ppc64_le-2](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-2) | ✅ **49%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-ppc64_le-3](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-ppc64_le-3) | ✅ **49%** | Linux (ppc64le) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
 | [test-ibm-rhel8-s390x-1](https://ci.nodejs.org/manage/computer/test-ibm-rhel8-s390x-1) | ✅ **48%** | Linux (s390x) | N/A | 3355.3357.v931d3c992987 | ✅ **UP** | N/A |    
