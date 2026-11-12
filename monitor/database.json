@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 70,
+    "diskUsage": 68,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -662,7 +662,7 @@
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 41,
+    "diskUsage": 40,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
