@@ -662,13 +662,13 @@
   "test-ibm-aix72-ppc64_be-3": {
     "name": "test-ibm-aix72-ppc64_be-3",
     "description": "AIX 7.2 Power 9",
-    "diskUsage": 40,
+    "diskUsage": 35,
     "architecture": "AIX (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-aix72-ppc64_be-5": {
     "name": "test-ibm-aix72-ppc64_be-5",
@@ -954,7 +954,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-ibm-ubuntu2404-x64-1": {
     "name": "test-ibm-ubuntu2404-x64-1",
@@ -1168,7 +1168,7 @@
   "test-mnx-ubuntu2204-x64-1": {
     "name": "test-mnx-ubuntu2204-x64-1",
     "description": "jenkins-workspace",
-    "diskUsage": 74,
+    "diskUsage": 71,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": true,
