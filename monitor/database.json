@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -1036,7 +1036,7 @@
   "test-iinthecloud-ibmi74-ppc64_be-1": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-1",
     "description": "",
-    "diskUsage": 92,
+    "diskUsage": 91,
     "architecture": "OS/400 (ppc64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1377,12 +1377,12 @@
   "test-rackspace-ubuntu2404-x64-2": {
     "name": "test-rackspace-ubuntu2404-x64-2",
     "description": "",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 31,
+    "architecture": "Linux (amd64)",
+    "monitorVersion": "3355.v388858a_47b_33",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rackspace-win2016_vs2015-x64-1": {
@@ -1443,12 +1443,12 @@
   "test-rackspace-win2019_vs2019-x64-4": {
     "name": "test-rackspace-win2019_vs2019-x64-4",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 55,
+    "architecture": "Windows Server 2019 (amd64)",
+    "monitorVersion": "3386.v353e57a_1b_ea_0",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-1": {
@@ -1465,12 +1465,12 @@
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 88,
+    "architecture": "Windows Server 2022 (amd64)",
+    "monitorVersion": "3386.v353e57a_1b_ea_0",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-3": {
@@ -1498,12 +1498,12 @@
   "test-rackspace-win2022_vs2022-x64-5": {
     "name": "test-rackspace-win2022_vs2022-x64-5",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": null,
-    "isOffline": true,
+    "diskUsage": 88,
+    "architecture": "Windows Server 2022 (amd64)",
+    "monitorVersion": "3386.v353e57a_1b_ea_0",
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-6": {
@@ -1548,7 +1548,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
     "name": "zz-test-sxa-bianbu-riscv64-A100",
