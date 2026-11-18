@@ -266,7 +266,7 @@
   "test-azure_msft-win11_vs2022-x64-4": {
     "name": "test-azure_msft-win11_vs2022-x64-4",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 65,
+    "diskUsage": 64,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -948,7 +948,7 @@
   "test-ibm-ubuntu2204-x64-3": {
     "name": "test-ibm-ubuntu2204-x64-3",
     "description": "jenkins-workspace",
-    "diskUsage": 34,
+    "diskUsage": 33,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3352.v17a_fb_4b_2773f",
     "isOffline": false,
@@ -1042,7 +1042,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "test-iinthecloud-ibmi74-ppc64_be-2": {
     "name": "test-iinthecloud-ibmi74-ppc64_be-2",
@@ -1355,8 +1355,8 @@
   "test-rackspace-debian12-x64-1": {
     "name": "test-rackspace-debian12-x64-1",
     "description": "",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 43,
+    "architecture": "Linux (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1366,7 +1366,7 @@
   "test-rackspace-ubuntu2404-x64-1": {
     "name": "test-rackspace-ubuntu2404-x64-1",
     "description": "",
-    "diskUsage": 32,
+    "diskUsage": 33,
     "architecture": "Linux (amd64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
@@ -1379,7 +1379,7 @@
     "description": "",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": "3355.v388858a_47b_33",
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1388,8 +1388,8 @@
   "test-rackspace-win2016_vs2015-x64-1": {
     "name": "test-rackspace-win2016_vs2015-x64-1",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 34,
+    "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1399,8 +1399,8 @@
   "test-rackspace-win2016_vs2015-x64-2": {
     "name": "test-rackspace-win2016_vs2015-x64-2",
     "description": "Windows 2016 on Rackspace with Visual Studio 2015",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 31,
+    "architecture": "Windows Server 2016 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1421,8 +1421,8 @@
   "test-rackspace-win2019_vs2019-x64-2": {
     "name": "test-rackspace-win2019_vs2019-x64-2",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 57,
+    "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1432,12 +1432,12 @@
   "test-rackspace-win2019_vs2019-x64-3": {
     "name": "test-rackspace-win2019_vs2019-x64-3",
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 53,
+    "architecture": "Windows Server 2019 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rackspace-win2019_vs2019-x64-4": {
@@ -1445,7 +1445,7 @@
     "description": "Windows 2019 on Rackspace with Visual Studio 2019",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": "3386.v353e57a_1b_ea_0",
+    "monitorVersion": null,
     "isOffline": true,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "Connection was broken",
@@ -1454,18 +1454,29 @@
   "test-rackspace-win2022_vs2022-x64-1": {
     "name": "test-rackspace-win2022_vs2022-x64-1",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": 77,
+    "diskUsage": 81,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-2": {
     "name": "test-rackspace-win2022_vs2022-x64-2",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
     "diskUsage": null,
+    "architecture": null,
+    "monitorVersion": null,
+    "isOffline": true,
+    "isTemporarilyOffline": false,
+    "offlineCauseReason": "Connection was broken",
+    "isIdle": true
+  },
+  "test-rackspace-win2022_vs2022-x64-3": {
+    "name": "test-rackspace-win2022_vs2022-x64-3",
+    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
+    "diskUsage": 88,
     "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -1473,26 +1484,15 @@
     "offlineCauseReason": "",
     "isIdle": true
   },
-  "test-rackspace-win2022_vs2022-x64-3": {
-    "name": "test-rackspace-win2022_vs2022-x64-3",
-    "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
-    "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": true,
-    "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
-    "isIdle": true
-  },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 79,
+    "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-5": {
@@ -1500,21 +1500,21 @@
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": false,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
+    "offlineCauseReason": "Connection was broken",
     "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
     "description": "Windows 2022 on Rackspace with Visual Studio 2022",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 65,
+    "architecture": "Windows Server 2022 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
-    "isOffline": true,
+    "isOffline": false,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "Connection was broken",
+    "offlineCauseReason": "",
     "isIdle": true
   },
   "test-rzkh-ibmi74-ppc64_be-1": {
@@ -1548,7 +1548,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": true
+    "isIdle": false
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
     "name": "zz-test-sxa-bianbu-riscv64-A100",
@@ -1575,8 +1575,8 @@
   "zz-test-sxa-ubuntu2404-riscv64-1": {
     "name": "zz-test-sxa-ubuntu2404-riscv64-1",
     "description": "aka \"rise9\" .. TH1520 8GiB RAM running Ubuntu 24.04 and GCC13 (and GCC14 now)\nRemoved rv64gc due to compile problems on https://ci.nodejs.org/job/node-test-commit-rvlinux/nodes=zz-test-sxa-ubuntu2404-riscv64-1/50/console\n\nFrequently disconnected due to Disconnected by sxa : Can&#039;t find libstdc++ - https://ci.nodejs.org/job/node-test-commit-rvlinux/nodes=rv64gc/86/console Also linker crashes e.g. https://ci.nodejs.org/job/node-test-commit-rvlinux/nodes=rv64gc/87/console\n\nFor node 24 last build was https://ci.nodejs.org/job/node-test-commit-rvlinux/nodes=rv64gc/158/ - HWY compile flag added to machine configuration",
-    "diskUsage": null,
-    "architecture": null,
+    "diskUsage": 88,
+    "architecture": "Linux (riscv64)",
     "monitorVersion": "3355.3357.v931d3c992987",
     "isOffline": false,
     "isTemporarilyOffline": false,
