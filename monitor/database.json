@@ -255,7 +255,7 @@
   "test-azure_msft-win11_vs2022-x64-3": {
     "name": "test-azure_msft-win11_vs2022-x64-3",
     "description": "Windows 11 with Visual Studio 2022",
-    "diskUsage": 66,
+    "diskUsage": 65,
     "architecture": "Windows 11 (amd64)",
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
@@ -1201,8 +1201,8 @@
   "test-osuosl-aix73-ppc64_be-1": {
     "name": "test-osuosl-aix73-ppc64_be-1",
     "description": "AIX 7.3 with 24GB RAM and 4 SMT8 cores",
-    "diskUsage": 23,
-    "architecture": "AIX (ppc64)",
+    "diskUsage": null,
+    "architecture": null,
     "monitorVersion": "3386.v353e57a_1b_ea_0",
     "isOffline": false,
     "isTemporarilyOffline": false,
@@ -1471,7 +1471,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-4": {
     "name": "test-rackspace-win2022_vs2022-x64-4",
@@ -1493,7 +1493,7 @@
     "isOffline": false,
     "isTemporarilyOffline": false,
     "offlineCauseReason": "",
-    "isIdle": false
+    "isIdle": true
   },
   "test-rackspace-win2022_vs2022-x64-6": {
     "name": "test-rackspace-win2022_vs2022-x64-6",
@@ -1533,11 +1533,11 @@
     "description": "AIBOX-K3 (SpacemiT-K3) with 8GiB RAM and 8+8 cores",
     "diskUsage": null,
     "architecture": null,
-    "monitorVersion": "3355.v388858a_47b_33",
-    "isOffline": false,
+    "monitorVersion": null,
+    "isOffline": true,
     "isTemporarilyOffline": false,
-    "offlineCauseReason": "",
-    "isIdle": false
+    "offlineCauseReason": "Connection was broken",
+    "isIdle": true
   },
   "zz-test-sxa-bianbu-riscv64-A100": {
     "name": "zz-test-sxa-bianbu-riscv64-A100",
